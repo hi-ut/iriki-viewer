@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/帛",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 きぬ。絹布の精美なもの。羽二重の類。※続日本紀‐大宝元年（701）六月丁巳「引二王親及侍臣一宴二於西高殿一。賜二御器膳并帛一各有レ差」 〔孟子‐梁恵王・上〕"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/帛-600022"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "帛"
+      }
+    ]
+  }
+]

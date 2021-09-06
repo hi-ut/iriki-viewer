@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title/>
+    <author>
+     ほげほげ
+    </author>
+    <respStmt>
+     <resp when="2021-01-31">
+      TEI Encoding
+     </resp>
+     <name>
+      Satoru Nakamura
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <p>
+     <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+      CC0 1.0 Universal
+                  (CC0 1.0) Public Domain Dedication
+     </ref>
+    </p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     すいこでん
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <facsimile source="https://suikoden.netlify.app/manifest.json">
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p1">
+   <zone xml:id="zone_1"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p2">
+   <zone xml:id="zone_2"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p3">
+   <zone xml:id="zone_3"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p4">
+   <zone xml:id="zone_4"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p5">
+   <zone xml:id="zone_5"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p6">
+   <zone xml:id="zone_6"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p7">
+   <zone xml:id="zone_7"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p8">
+   <zone xml:id="zone_8"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p9">
+   <zone xml:id="zone_9"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p10">
+   <zone xml:id="zone_10"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p11">
+   <zone xml:id="zone_11"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p12">
+   <zone xml:id="zone_12"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p13">
+   <zone xml:id="zone_13"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p14">
+   <zone xml:id="zone_14"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p15">
+   <zone xml:id="zone_15"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p16">
+   <zone xml:id="zone_16"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p17">
+   <zone xml:id="zone_17"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p18">
+   <zone xml:id="zone_18"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p19">
+   <zone xml:id="zone_19"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p20">
+   <zone xml:id="zone_20"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p21">
+   <zone xml:id="zone_21"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p22">
+   <zone xml:id="zone_22"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p23">
+   <zone xml:id="zone_23"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p24">
+   <zone xml:id="zone_24"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p25">
+   <zone xml:id="zone_25"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p26">
+   <zone xml:id="zone_26"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p27">
+   <zone xml:id="zone_27"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p28">
+   <zone xml:id="zone_28"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p29">
+   <zone xml:id="zone_29"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p30">
+   <zone xml:id="zone_30"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p31">
+   <zone xml:id="zone_31"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p32">
+   <zone xml:id="zone_32"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p33">
+   <zone xml:id="zone_33"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p34">
+   <zone xml:id="zone_34"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p35">
+   <zone xml:id="zone_35"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p36">
+   <zone xml:id="zone_36"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p37">
+   <zone xml:id="zone_37"/>
+   <zone lrx="2492" lry="3536" ulx="2352" uly="3384" xml:id="zone_l01-0037-1b-4-14"/>
+   <zone lrx="2504" lry="4074" ulx="2366" uly="3692" xml:id="zone_l01-0037-1b-4-16"/>
+   <zone lrx="2084" lry="1636" ulx="1928" uly="1460" xml:id="zone_l01-0037-1b-6-3"/>
+   <zone lrx="2076" lry="2200" ulx="1928" uly="1952" xml:id="zone_l01-0037-1b-6-6"/>
+   <zone lrx="1636" lry="3068" ulx="1500" uly="2808" xml:id="zone_l01-0037-1b-8-11"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p38">
+   <zone xml:id="zone_38"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p39">
+   <zone xml:id="zone_39"/>
+   <zone lrx="4444" lry="1172" ulx="4048" uly="928" xml:id="zone_l01-0039-2b-8-"/>
+   <zone lrx="5540" lry="4846" ulx="5310" uly="4560" xml:id="zone_l01-0039-2b-3-"/>
+   <zone lrx="4704" lry="834" ulx="4512" uly="574" xml:id="zone_l01-0039-2b-7-"/>
+   <zone lrx="4740" lry="3512" ulx="4564" uly="3340" xml:id="zone_l01-0039-2b-7-14"/>
+   <zone lrx="2708" lry="1224" ulx="2480" uly="956" xml:id="zone_l01-0039-3a-4-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p40">
+   <zone xml:id="zone_40"/>
+   <zone lrx="4902" lry="1186" ulx="4444" uly="906" xml:id="zone_l01-0040-3b-6-"/>
+   <zone lrx="3358" lry="1174" ulx="2998" uly="914" xml:id="zone_l01-0040-4a-1-"/>
+   <zone lrx="2042" lry="1182" ulx="1686" uly="902" xml:id="zone_l01-0040-4a-7-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p41">
+   <zone xml:id="zone_41"/>
+   <zone lrx="5776" lry="1180" ulx="5292" uly="904" xml:id="zone_l01-0041-4b-2-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p42">
+   <zone xml:id="zone_42"/>
+   <zone lrx="5514" lry="1164" ulx="5040" uly="832" xml:id="zone_l01-0042-5b-3-"/>
+   <zone lrx="2488" lry="1120" ulx="2192" uly="832" xml:id="zone_l01-0042-6a-5-"/>
+   <zone lrx="1492" lry="1136" ulx="1076" uly="828" xml:id="zone_l01-0042-6a-9-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p43">
+   <zone xml:id="zone_43"/>
+   <zone lrx="5536" lry="1176" ulx="5336" uly="816" xml:id="zone_l01-0043-6b-3-"/>
+   <zone lrx="1396" lry="1172" ulx="992" uly="828" xml:id="zone_l01-0043-7a-10-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p44">
+   <zone xml:id="zone_44"/>
+   <zone lrx="4072" lry="1172" ulx="3732" uly="992" xml:id="zone_l01-0044-7b-10-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p45">
+   <zone xml:id="zone_45"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p46">
+   <zone xml:id="zone_46"/>
+   <zone lrx="5108" lry="1124" ulx="4624" uly="508" xml:id="zone_l01-0046-9b-5-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p47">
+   <zone xml:id="zone_47"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p48">
+   <zone xml:id="zone_48"/>
+   <zone lrx="5512" lry="1232" ulx="5250" uly="940" xml:id="zone_l01-0048-11b-3-"/>
+   <zone lrx="4870" lry="1246" ulx="4708" uly="940" xml:id="zone_l01-0048-11b-6-"/>
+   <zone lrx="1362" lry="1240" ulx="1076" uly="944" xml:id="zone_l01-0048-12a-10-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p49">
+   <zone xml:id="zone_49"/>
+   <zone lrx="2888" lry="1200" ulx="2616" uly="868" xml:id="zone_l01-0049-13a-3-"/>
+   <zone lrx="2944" lry="1544" ulx="2772" uly="1120" xml:id="zone_l01-0049-13a-3-1"/>
+   <zone lrx="2908" lry="4562" ulx="2802" uly="4038" xml:id="zone_l01-0049-13a-9-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p50">
+   <zone xml:id="zone_50"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p51">
+   <zone xml:id="zone_51"/>
+   <zone lrx="5588" lry="1208" ulx="5244" uly="512" xml:id="zone_l01-0051-14b-3-"/>
+   <zone lrx="5280" lry="1224" ulx="4856" uly="504" xml:id="zone_l01-0051-14b-4-"/>
+   <zone lrx="4656" lry="1228" ulx="4260" uly="876" xml:id="zone_l01-0051-14b-7-"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p52">
+   <zone xml:id="zone_52"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p53">
+   <zone xml:id="zone_53"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p54">
+   <zone xml:id="zone_54"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p55">
+   <zone xml:id="zone_55"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p56">
+   <zone xml:id="zone_56"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p57">
+   <zone xml:id="zone_57"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p58">
+   <zone xml:id="zone_58"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p59">
+   <zone xml:id="zone_59"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p60">
+   <zone xml:id="zone_60"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p61">
+   <zone xml:id="zone_61"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p62">
+   <zone xml:id="zone_62"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p63">
+   <zone xml:id="zone_63"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p64">
+   <zone xml:id="zone_64"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p65">
+   <zone xml:id="zone_65"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p66">
+   <zone xml:id="zone_66"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p67">
+   <zone xml:id="zone_67"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p68">
+   <zone xml:id="zone_68"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p69">
+   <zone xml:id="zone_69"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p70">
+   <zone xml:id="zone_70"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p71">
+   <zone xml:id="zone_71"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p72">
+   <zone xml:id="zone_72"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p73">
+   <zone xml:id="zone_73"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p74">
+   <zone xml:id="zone_74"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p75">
+   <zone xml:id="zone_75"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p76">
+   <zone xml:id="zone_76"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p77">
+   <zone xml:id="zone_77"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p78">
+   <zone xml:id="zone_78"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p79">
+   <zone xml:id="zone_79"/>
+  </surface>
+  <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p80">
+   <zone xml:id="zone_80"/>
+  </surface>
+ </facsimile>
+ <text>
+  <body>
+   <div type="original">
+    <pb corresp="#zone_37"/>
+    <ab>
+     <lb xml:id="l01-01-0037-b-1"/>
+     <seg>
+      水滸傳全本卷之一
+     </seg>
+     <lb xml:id="l01-01-0037-b-2"/>
+     <seg>
+      <space n="3"/>
+      元
+      <space n="1"/>
+      施耐菴編
+      <space n="2"/>
+      明李卓吾評點
+     </seg>
+     <lb xml:id="l01-01-0037-b-3"/>
+     <seg>
+      <space n="2"/>
+      開詞
+     </seg>
+     <lb xml:id="l01-01-0037-b-4"/>
+     <seg>
+      試看古今如箭牽不住日月奔忙草生纔解凍花落
+     </seg>
+     <lb xml:id="l01-01-0037-b-5"/>
+     <seg>
+      又飛霜閒庭無事日偏長爲歡處
+      <anchor xml:id="l01-0037-1b-4-14"/>
+      儘費
+      <anchor xml:id="l01-0037-1b-4-16"/>
+      端詳今宵睡
+     </seg>
+     <lb xml:id="l01-01-0037-b-6"/>
+     <seg>
+      鄉明朝醉鄕悠悠忽忽莫追償不關心底事野老話
+     </seg>
+     <lb xml:id="l01-01-0037-b-7"/>
+     <seg>
+      興亡
+      <anchor xml:id="l01-0037-1b-6-3"/>
+      拋撇玄
+      <anchor xml:id="l01-0037-1b-6-6"/>
+      纁玉帛摩娑戈劒刀鎗笑官家誨盜山
+     </seg>
+     <lb xml:id="l01-01-0037-b-8"/>
+     <seg>
+      河大寳無計收藏龍爭虎鬬自言强正船到波心易
+     </seg>
+     <lb xml:id="l01-01-0037-b-9"/>
+     <seg>
+      漏棊逢敵手難當好烈烈
+      <anchor xml:id="l01-0037-1b-8-11"/>
+      轟轟做一塲麒麟閣上姓
+     </seg>
+     <lb xml:id="l01-01-0037-b-10"/>
+     <seg>
+      名香告君行把英雄事業仔細思量
+     </seg>
+    </ab>
+    <pb corresp="#zone_38"/>
+    <ab>
+     <lb xml:id="l01-01-0038-a-1"/>
+     <seg>
+      話說五代殘唐朱李石劉郭梁唐晉漢周都來十五
+     </seg>
+     <lb xml:id="l01-01-0038-a-2"/>
+     <seg>
+      帝播亂五十秋後來甲馬營中生下太祖武徳皇帝
+     </seg>
+     <lb xml:id="l01-01-0038-a-3"/>
+     <seg>
+      乃是上界霹靂大仙下降姓趙國號大宋建都汴梁
+     </seg>
+     <lb xml:id="l01-01-0038-a-4"/>
+     <seg>
+      那時西岳華山有個陳摶處士聽得東京擁立趙檢
+     </seg>
+     <lb xml:id="l01-01-0038-a-5"/>
+     <seg>
+      㸃以手加額在驢背上大笑攧下驢來人問其故那
+     </seg>
+     <lb xml:id="l01-01-0038-a-6"/>
+     <seg>
+      先生道天下從此定矣自庚申年間受禪開基在位
+     </seg>
+     <lb xml:id="l01-01-0038-a-7"/>
+     <seg>
+      一十七年傳位與御弟太宗太宗皇帝在位二十二
+     </seg>
+     <lb xml:id="l01-01-0038-a-8"/>
+     <seg>
+      年傳位與眞宗眞宗皇帝那時上界赤脚大仙降生
+     </seg>
+     <lb xml:id="l01-01-0038-a-9"/>
+     <seg>
+      宮中爲太子晝夜啼哭不止天庭差遣太白金星化
+     </seg>
+     <lb xml:id="l01-01-0038-a-10"/>
+     <seg>
+      一老叟朝見眞宗天子直至宫中抱着太子耳邊低
+     </seg>
+    </ab>
+    <ab>
+     <lb xml:id="l01-01-0038-b-1"/>
+     <seg>
+      低說了八箇字太子便不啼哭那老叟化陣淸風而
+     </seg>
+     <lb xml:id="l01-01-0038-b-2"/>
+     <seg>
+      去八箇字道是文有文曲武有武曲文曲星乃是龍
+     </seg>
+     <lb xml:id="l01-01-0038-b-3"/>
+     <seg>
+      圖學士包拯武曲星乃是大元帥狄青這兩箇賢臣
+     </seg>
+     <lb xml:id="l01-01-0038-b-4"/>
+     <seg>
+      出來輔佐這朝皇帝廟號仁宗仁宗嘉祐三年瘟疫
+     </seg>
+     <lb xml:id="l01-01-0038-b-5"/>
+     <seg>
+      盛行天子欽差殿前太尉洪信前徃江西信州龍虎
+     </seg>
+     <lb xml:id="l01-01-0038-b-6"/>
+     <seg>
+      山宣請嗣漢天師張眞人祈禳瘟疫洪太尉來到信
+     </seg>
+     <lb xml:id="l01-01-0038-b-7"/>
+     <seg>
+      州大小官員出郭迎接衆官送太尉到于龍虎山下
+     </seg>
+     <lb xml:id="l01-01-0038-b-8"/>
+     <seg>
+      只見上淸宫許多道衆香花燈燭幢幡寶蓋一派仙
+     </seg>
+     <lb xml:id="l01-01-0038-b-9"/>
+     <seg>
+      樂接至三淸殿上太尉便問天師今在何處住持眞
+     </seg>
+     <lb xml:id="l01-01-0038-b-10"/>
+     <seg>
+      人向前禀道這代祖師號曰虛靖天師自向龍虎山
+     </seg>
+    </ab>
+    <pb corresp="#zone_39"/>
+    <ab>
+     <lb xml:id="l01-01-0039-a-1"/>
+     <seg>
+      頂結一茅庵脩眞養性不住本宫太尉道目今瘟疫
+     </seg>
+     <lb xml:id="l01-01-0039-a-2"/>
+     <seg>
+      盛行天子特遣下官賫捧御書丹詔親奉龍香來請
+     </seg>
+     <lb xml:id="l01-01-0039-a-3"/>
+     <seg>
+      天師禳災救民眞人道天子要救萬民除是太尉辦
+      <anchor xml:id="l01-0039-2b-3-"/>
+     </seg>
+     <lb xml:id="l01-01-0039-a-4"/>
+     <seg>
+      一點志誠心步行上山禮拜叩請天師太尉道依着
+     </seg>
+     <lb xml:id="l01-01-0039-a-5"/>
+     <seg>
+      你說明日絶早上山衆官各自散去次日太尉縱步
+     </seg>
+     <lb xml:id="l01-01-0039-a-6"/>
+     <seg>
+      上山獨自一個行了一回只見一個道童倒騎着一
+     </seg>
+     <lb xml:id="l01-01-0039-a-7"/>
+     <seg>
+      <anchor xml:id="l01-0039-2b-7-"/>
+      頭黃牛橫吹着一管鐵笛轉出山
+      <anchor xml:id="l01-0039-2b-7-14"/>
+      凹來洪太尉見了
+     </seg>
+     <lb xml:id="l01-01-0039-a-8"/>
+     <seg>
+      <anchor xml:id="l01-0039-2b-8-"/>
+      便問那個道童你從那里來道童呵呵大笑指着洪
+     </seg>
+     <lb xml:id="l01-01-0039-a-9"/>
+     <seg>
+      太尉道你來此間莫非要見天師麽我早間在草庵
+     </seg>
+     <lb xml:id="l01-01-0039-a-10"/>
+     <seg>
+      中伏侍天師聽得天師說道天子宣我往東京做三
+     </seg>
+    </ab>
+    <ab>
+     <lb xml:id="l01-01-0039-b-1"/>
+     <seg>
+      千六百分羅天大醮祈禳天下瘟疫我乘鶴駕雲去
+     </seg>
+     <lb xml:id="l01-01-0039-b-2"/>
+     <seg>
+      也這早晚想是去了不在庵中你休上去太尉再尋
+     </seg>
+     <lb xml:id="l01-01-0039-b-3"/>
+     <seg>
+      舊路下來衆道士接着請至方丈坐下太尉說了住
+     </seg>
+     <lb xml:id="l01-01-0039-b-4"/>
+     <seg>
+      <anchor xml:id="l01-0039-3a-4-"/>
+      持眞人道太尉可惜錯過這個道童正是天師太尉
+     </seg>
+     <lb xml:id="l01-01-0039-b-5"/>
+     <seg>
+      道有眼不識當面錯過將丹詔收藏御書匣內留在
+     </seg>
+     <lb xml:id="l01-01-0039-b-6"/>
+     <seg>
+      上淸宫中龍香就三清殿上燒了方丈内大排齋供
+     </seg>
+     <lb xml:id="l01-01-0039-b-7"/>
+     <seg>
+      至晚席罷止宿次日請太尉遊山太尉宫前宫後看
+     </seg>
+     <lb xml:id="l01-01-0039-b-8"/>
+     <seg>
+      翫許多景致行到後面另外一所殿宇門上使着肐
+     </seg>
+     <lb xml:id="l01-01-0039-b-9"/>
+     <seg>
+      膊大鎖鎖着交叉上面貼着十數道封皮重重疊疊
+     </seg>
+     <lb xml:id="l01-01-0039-b-10"/>
+     <seg>
+      使着朱印簷前一面硃紅漆金字牌額上寫道伏魔
+     </seg>
+    </ab>
+    <pb corresp="#zone_40"/>
+    <ab>
+     <lb xml:id="l01-01-0040-a-1"/>
+     <seg>
+      之殿太尉指着問道此殿是甚麽去處眞人答道此
+     </seg>
+     <lb xml:id="l01-01-0040-a-2"/>
+     <seg>
+      是老祖天師鎻鎭魔王之殿子子孫孫不敢妄開洪
+     </seg>
+     <lb xml:id="l01-01-0040-a-3"/>
+     <seg>
+      太尉道我且試看魔王一看眞人道决不敢開太尉
+     </seg>
+     <lb xml:id="l01-01-0040-a-4"/>
+     <seg>
+      笑道胡說你等要妄生怪事煽惑良民故意安排這
+     </seg>
+     <lb xml:id="l01-01-0040-a-5"/>
+     <seg>
+      等去處我不信有魔王在内快與我打開看眞人三
+     </seg>
+     <lb xml:id="l01-01-0040-a-6"/>
+     <seg>
+      回五次禀說太尉大怒眞人等懼怕太尉威勢只得
+     </seg>
+     <lb xml:id="l01-01-0040-a-7"/>
+     <seg>
+      打開衆人一齊都到殿内黑暗暗不見一物太尉呌
+     </seg>
+     <lb xml:id="l01-01-0040-a-8"/>
+     <seg>
+      從人取十數箇火把㸃着一照四邊並無別物只中
+     </seg>
+     <lb xml:id="l01-01-0040-a-9"/>
+     <seg>
+      央一箇石碑照那碑碣上前面都是龍章鳳篆天書
+     </seg>
+     <lb xml:id="l01-01-0040-a-10"/>
+     <seg>
+      符籙人皆不識照那碑後却有四箇眞字大書遇洪
+     </seg>
+     <lb xml:id="l01-01-0040-a-11"/>
+     <seg>
+      而開洪太尉看了便對眞人說數百年前巳注我姓
+     </seg>
+     <lb xml:id="l01-01-0040-a-12"/>
+     <seg>
+      在此開看何妨我想這個魔王都只在石碑底下與
+     </seg>
+     <lb xml:id="l01-01-0040-a-13"/>
+     <seg>
+      我掘開來衆人先把石碑放倒掘下去約有三四尺
+     </seg>
+     <lb xml:id="l01-01-0040-a-14"/>
+     <seg>
+      深見一片大青石板可有方丈洪太尉呌再掘起來
+     </seg>
+     <lb xml:id="l01-01-0040-a-15"/>
+     <seg>
+      衆人把石板一齊扛起看那石板底下却是一個萬
+     </seg>
+     <lb xml:id="l01-01-0040-a-16"/>
+     <seg>
+      丈深淺的地穴只見穴內刮剌剌一聲響喨一道黑
+     </seg>
+     <lb xml:id="l01-01-0040-a-17"/>
+     <seg>
+      氣從穴裏滚將起來掀塌了半個殿角那道黑氣直
+     </seg>
+     <lb xml:id="l01-01-0040-a-18"/>
+     <seg>
+      衝上半天裏空中散作百十道金光望四面八方去
+     </seg>
+     <lb xml:id="l01-01-0040-a-19"/>
+     <seg>
+      了衆人吃了一驚住持眞人對洪太尉說道老祖天
+     </seg>
+     <lb xml:id="l01-01-0040-a-20"/>
+     <seg>
+      師囑付此殿內鎭鎻着三十六員天罡星七十二座
+     </seg>
+    </ab>
+    <pb corresp="#zone_41"/>
+    <ab>
+     <lb xml:id="l01-01-0041-b-1"/>
+     <seg>
+      地煞星若還放他出世必惱下方生靈如今走了怎
+     </seg>
+     <lb xml:id="l01-01-0041-b-2"/>
+     <seg>
+      生是好洪太尉聽罷渾身冷汗捉顫不住急急收拾
+     </seg>
+     <lb xml:id="l01-01-0041-b-3"/>
+     <seg>
+      回京路上分付從人敎把走妖魔一節休說與外人
+     </seg>
+     <lb xml:id="l01-01-0041-b-4"/>
+     <seg>
+      知道恐天子知道見責星夜回至京師聞說天師在
+     </seg>
+     <lb xml:id="l01-01-0041-b-5"/>
+     <seg>
+      東京禁院做了七晝夜好事普施符籙禳救災病瘟
+     </seg>
+     <lb xml:id="l01-01-0041-b-6"/>
+     <seg>
+      疫盡消天師巳回龍虎山去了洪太尉奏說天師乗
+     </seg>
+     <lb xml:id="l01-01-0041-b-7"/>
+     <seg>
+      鶴駕雲先到京師臣等驛站而來方𦆵得到仁宗皇
+     </seg>
+     <lb xml:id="l01-01-0041-b-8"/>
+     <seg>
+      帝准奏後來仁宗晏駕無有太子傳位濮安懿王允
+     </seg>
+     <lb xml:id="l01-01-0041-b-9"/>
+     <seg>
+      讓之子號曰英宗英宗在位四年傳位與神宗神宗
+     </seg>
+     <lb xml:id="l01-01-0041-b-10"/>
+     <seg>
+      在位一十八年傳位與哲宗哲宗皇帝那時東京開
+     </seg>
+     <lb xml:id="l01-01-0041-b-11"/>
+     <seg>
+      封府汴梁宣武軍一個浮浪子弟姓高排行第二自
+     </seg>
+     <lb xml:id="l01-01-0041-b-12"/>
+     <seg>
+      小不成家業踢得好脚氣毬京師人都呌他做高毬
+     </seg>
+     <lb xml:id="l01-01-0041-b-13"/>
+     <seg>
+      後來發跡攺作姓高名俅只在東京城裏城外幇閒
+     </seg>
+     <lb xml:id="l01-01-0041-b-14"/>
+     <seg>
+      因幇了一個生鐵王員外兒子敗錢被他父親開封
+     </seg>
+     <lb xml:id="l01-01-0041-b-15"/>
+     <seg>
+      府裏告了把高俅斷了四十脊杖迭配出界只得來
+     </seg>
+     <lb xml:id="l01-01-0041-b-16"/>
+     <seg>
+      淮西臨淮州投奔一個開賭坊的閒漢柳世權家一
+     </seg>
+     <lb xml:id="l01-01-0041-b-17"/>
+     <seg>
+      住三年後來高俅得了赦宥要回東京柳世權却和
+     </seg>
+     <lb xml:id="l01-01-0041-b-18"/>
+     <seg>
+      東京城裏金梁橋下開生藥舖的董將仕是親戚冩
+     </seg>
+     <lb xml:id="l01-01-0041-b-19"/>
+     <seg>
+      了一封書札賫發高俅投奔董將仕家過活董將仕
+     </seg>
+     <lb xml:id="l01-01-0041-b-20"/>
+     <seg>
+      一見高俅肚裏尋思道這高俅是個幇閒的留在家
+     </seg>
+    </ab>
+    <pb corresp="#zone_42"/>
+    <ab>
+     <lb xml:id="l01-01-0042-a-1"/>
+     <seg>
+      中倒惹得孩兒們不學好撇不過柳大郎面皮權且
+     </seg>
+     <lb xml:id="l01-01-0042-a-2"/>
+     <seg>
+      歡天喜地留了十數日轉薦與小蘇學士小蘇學士
+     </seg>
+     <lb xml:id="l01-01-0042-a-3"/>
+     <seg>
+      又轉薦與駙馬都尉王晉卿那小王都尉是哲宗皇
+     </seg>
+     <lb xml:id="l01-01-0042-a-4"/>
+     <seg>
+      帝妹夫神宗皇帝的駙馬喜愛風流正用着這樣的
+     </seg>
+     <lb xml:id="l01-01-0042-a-5"/>
+     <seg>
+      人收留高俅在府內做個親隨忽一日小王都尉安
+     </seg>
+     <lb xml:id="l01-01-0042-a-6"/>
+     <seg>
+      排筵宴請小舅端王這端王乃是神宗皇帝第十一
+     </seg>
+     <lb xml:id="l01-01-0042-a-7"/>
+     <seg>
+      子哲宗皇帝御弟聰明後俏無一般不曉無一般不
+     </seg>
+     <lb xml:id="l01-01-0042-a-8"/>
+     <seg>
+      會無一般不愛琴棋書畫儒釋道教無所不通踢毬
+     </seg>
+     <lb xml:id="l01-01-0042-a-9"/>
+     <seg>
+      打彈品竹調絲自不必說這端王來王都尉府中赴
+     </seg>
+     <lb xml:id="l01-01-0042-a-10"/>
+     <seg>
+      宴偶來書院裏見書案上一對兒羊脂玉碾成的鎭
+     </seg>
+     <lb xml:id="l01-01-0042-a-11"/>
+     <seg>
+      紙獅子極是做得好不落手看了一回王都尉便說
+     </seg>
+     <lb xml:id="l01-01-0042-a-12"/>
+     <seg>
+      道再有一箇玉龍筆架也是一手做的明日一併送
+     </seg>
+     <lb xml:id="l01-01-0042-a-13"/>
+     <seg>
+      至宮中端王稱謝飮宴至暮回宮去了次日小王都
+     </seg>
+     <lb xml:id="l01-01-0042-a-14"/>
+     <seg>
+      尉取出玉龍筆架和兩箇鎭紙玉獅子着一箇小金
+     </seg>
+     <lb xml:id="l01-01-0042-a-15"/>
+     <seg>
+      盒子盛了用黄羅包袱包着寫了一封啓本却使高
+     </seg>
+     <lb xml:id="l01-01-0042-a-16"/>
+     <seg>
+      俅送去高俅領了王都尉鈞㫖逕投端王宮中來把
+     </seg>
+     <lb xml:id="l01-01-0042-a-17"/>
+     <seg>
+      門官吏引到庭前高俅看時見端王頭戴軟紗唐巾
+     </seg>
+     <lb xml:id="l01-01-0042-a-18"/>
+     <seg>
+      身穿紫繡龍袍腰繋文武雙穗條把繡龍袍前襟拽
+     </seg>
+     <lb xml:id="l01-01-0042-a-19"/>
+     <seg>
+      扎起揣在絛兒邊脚下穿一雙嵌金線飛鳳靴三五
+     </seg>
+     <lb xml:id="l01-01-0042-a-20"/>
+     <seg>
+      個小黄門相伴着蹴氣毬高俅不敢過去立在旁邊
+     </seg>
+    </ab>
+    <pb corresp="#zone_43"/>
+    <ab>
+     <lb xml:id="l01-01-0043-b-1"/>
+     <seg>
+      伺候也是高俅合當發跡時運到來那個氣毬騰地
+     </seg>
+     <lb xml:id="l01-01-0043-b-2"/>
+     <seg>
+      起端王接個不着直滚到高俅身邊那高俅見氣毬
+     </seg>
+     <lb xml:id="l01-01-0043-b-3"/>
+     <seg>
+      來也是一時的膽量使個鴛鴦拐踢還端王端王見
+     </seg>
+     <lb xml:id="l01-01-0043-b-4"/>
+     <seg>
+      了便問道你是甚人高俅向前跪下道小的是王都
+     </seg>
+     <lb xml:id="l01-01-0043-b-5"/>
+     <seg>
+      尉親隨人賫玉器進獻大王有啓本進上端王看了
+     </seg>
+     <lb xml:id="l01-01-0043-b-6"/>
+     <seg>
+      遍與從官且不理會玉器下落却先問高俅道你原
+     </seg>
+     <lb xml:id="l01-01-0043-b-7"/>
+     <seg>
+      來會踢氣毬你喚甚名字高俅叉手跪覆道小的喚
+     </seg>
+     <lb xml:id="l01-01-0043-b-8"/>
+     <seg>
+      做高俅胡踢得幾脚端王道好你便下塲來踢一回
+     </seg>
+     <lb xml:id="l01-01-0043-b-9"/>
+     <seg>
+      耍高俅拜道小的是何等樣人敢在恩王前下脚端
+     </seg>
+     <lb xml:id="l01-01-0043-b-10"/>
+     <seg>
+      王道這是齊雲社名爲天下圓但踢何妨高俅叩頭
+     </seg>
+     <lb xml:id="l01-01-0043-b-11"/>
+     <seg>
+      謝罪解膝下塲把平生本事都使出來這氣毬一似
+     </seg>
+     <lb xml:id="l01-01-0043-b-12"/>
+     <seg>
+      鰾膠粘在身上的端王大喜那里肯放高俅回府去
+     </seg>
+     <lb xml:id="l01-01-0043-b-13"/>
+     <seg>
+      就留在宮中過了一夜次日排宴請王都尉王都尉
+     </seg>
+     <lb xml:id="l01-01-0043-b-14"/>
+     <seg>
+      到宮來端王稱謝兩般玉器飮宴間端王說道昨日
+     </seg>
+     <lb xml:id="l01-01-0043-b-15"/>
+     <seg>
+      都尉差來的高俅踢得好氣毬孤欲索此人做親隨
+     </seg>
+     <lb xml:id="l01-01-0043-b-16"/>
+     <seg>
+      都尉心下如何王都尉答道留在宮中伏侍殿下端
+     </seg>
+     <lb xml:id="l01-01-0043-b-17"/>
+     <seg>
+      王歡喜執盃相謝高俅自此遭際端王未及兩個月
+     </seg>
+     <lb xml:id="l01-01-0043-b-18"/>
+     <seg>
+      哲宗皇帝晏駕無有太子文武百官商議冊立端王
+     </seg>
+     <lb xml:id="l01-01-0043-b-19"/>
+     <seg>
+      爲天子帝號徽宗便是玉清敎主道君皇帝登極之
+     </seg>
+     <lb xml:id="l01-01-0043-b-20"/>
+     <seg>
+      後不上半年直擡舉高俅做到殿帥府太尉職事高
+     </seg>
+    </ab>
+    <pb corresp="#zone_44"/>
+    <ab>
+     <lb xml:id="l01-01-0044-a-1"/>
+     <seg>
+      俅選揀吉日到任一應合屬公吏牙將都來叅拜於
+     </seg>
+     <lb xml:id="l01-01-0044-a-2"/>
+     <seg>
+      内只欠一名八十萬禁軍敎頭王進高殿帥大怒差
+     </seg>
+     <lb xml:id="l01-01-0044-a-3"/>
+     <seg>
+      人來拿這王進却無妻子止同一個老母在寓所養
+     </seg>
+     <lb xml:id="l01-01-0044-a-4"/>
+     <seg>
+      病只得捱着病來府叅見高俅喝道這厮你爺是街
+     </seg>
+     <lb xml:id="l01-01-0044-a-5"/>
+     <seg>
+      市上使花棒賣藥的你省得甚麽武藝前官沒眼叅
+     </seg>
+     <lb xml:id="l01-01-0044-a-6"/>
+     <seg>
+      你做個敎頭如何敢小覻我不伏俺㸃視左右加力
+     </seg>
+     <lb xml:id="l01-01-0044-a-7"/>
+     <seg>
+      與我打這厮衆多牙將與軍正司同告道今日是太
+     </seg>
+     <lb xml:id="l01-01-0044-a-8"/>
+     <seg>
+      尉上任好日頭〓免這一次高太尉喝道看衆將之
+     </seg>
+     <lb xml:id="l01-01-0044-a-9"/>
+     <seg>
+      面饒恕你明日却和你理會王進謝罪罷起來擡頭
+     </seg>
+     <lb xml:id="l01-01-0044-a-10"/>
+     <seg>
+      看了認得是高俅出得衙門歎口氣道俺道是甚麽
+     </seg>
+     <lb xml:id="l01-01-0044-a-11"/>
+     <seg>
+      高殿帥却原來是東京幇閒的圓社高二先時曾學
+     </seg>
+     <lb xml:id="l01-01-0044-a-12"/>
+     <seg>
+      使棒被我父親一棒打翻三四個月將息不起他今
+     </seg>
+     <lb xml:id="l01-01-0044-a-13"/>
+     <seg>
+      日發跡待要報仇怎生是好回到家中對娘說知此
+     </seg>
+     <lb xml:id="l01-01-0044-a-14"/>
+     <seg>
+      事娘道我兒三十六着走爲上着只恐没處走王進
+     </seg>
+     <lb xml:id="l01-01-0044-a-15"/>
+     <seg>
+      道延安府老种經畧相公那里是用人去處足可安
+     </seg>
+     <lb xml:id="l01-01-0044-a-16"/>
+     <seg>
+      身立命娘兒兩個商議定了趂五更離了東京望延
+     </seg>
+     <lb xml:id="l01-01-0044-a-17"/>
+     <seg>
+      安府去在路半月有餘忽一日錯過了宿頭只見遠
+     </seg>
+     <lb xml:id="l01-01-0044-a-18"/>
+     <seg>
+      遠地林子裏閃出一道燈光來看時却是一所大莊
+     </seg>
+     <lb xml:id="l01-01-0044-a-19"/>
+     <seg>
+      院王敎頭敲門借宿子母二人莊上歇息了其夜王
+     </seg>
+     <lb xml:id="l01-01-0044-a-20"/>
+     <seg>
+      進老母心疼病發莊主太公教且在莊上將息子母
+     </seg>
+    </ab>
+    <pb corresp="#zone_45"/>
+    <ab>
+     <lb xml:id="l01-01-0045-b-1"/>
+     <seg>
+      兩個住了五七日母親病患痊可王進收拾要行來
+     </seg>
+     <lb xml:id="l01-01-0045-b-2"/>
+     <seg>
+      後槽看馬只見空地上一個後生脫膊着剌着一身
+     </seg>
+     <lb xml:id="l01-01-0045-b-3"/>
+     <seg>
+      青龍銀盤似一個面皮約有十八九歲拿條棒在那
+     </seg>
+     <lb xml:id="l01-01-0045-b-4"/>
+     <seg>
+      里使王進看了半晌不覺失口道這棒也使得好了
+     </seg>
+     <lb xml:id="l01-01-0045-b-5"/>
+     <seg>
+      只是有破綻贏不得眞好漢那後生聽得大怒喝道
+     </seg>
+     <lb xml:id="l01-01-0045-b-6"/>
+     <seg>
+      你是甚麽人敢來笑話我的本事說猶未了太公到
+     </seg>
+     <lb xml:id="l01-01-0045-b-7"/>
+     <seg>
+      來喝那後生不得無禮太公便問王進道客人莫不
+     </seg>
+     <lb xml:id="l01-01-0045-b-8"/>
+     <seg>
+      會使棒王進道頗暁得些敢問長上這後生是宅上
+     </seg>
+     <lb xml:id="l01-01-0045-b-9"/>
+     <seg>
+      甚麼人太公道是老漢的兒子王進道旣然是宅内
+     </seg>
+     <lb xml:id="l01-01-0045-b-10"/>
+     <seg>
+      小官人若愛學時小人㸃撥他端正如何太公道好
+     </seg>
+     <lb xml:id="l01-01-0045-b-11"/>
+     <seg>
+      便敎那後生來拜師父那後生越怒道若贏得我這
+     </seg>
+     <lb xml:id="l01-01-0045-b-12"/>
+     <seg>
+      條棒時我便拜他爲師王進道小官人若不怪較量
+     </seg>
+     <lb xml:id="l01-01-0045-b-13"/>
+     <seg>
+      一棒耍子那後生就空地當中把一條棒使得風車
+     </seg>
+     <lb xml:id="l01-01-0045-b-14"/>
+     <seg>
+      兒似轉向王進道你來你來怕的不筭好漢王進道
+     </seg>
+     <lb xml:id="l01-01-0045-b-15"/>
+     <seg>
+      恕無禮也去鎗架上拿了一條棒來到空地上使個
+     </seg>
+     <lb xml:id="l01-01-0045-b-16"/>
+     <seg>
+      旗鼓那後生看了一看拿棒滚將入來王進托地拖
+     </seg>
+     <lb xml:id="l01-01-0045-b-17"/>
+     <seg>
+      了棒便走那後生又趕入來王進囘身把棒望空地
+     </seg>
+     <lb xml:id="l01-01-0045-b-18"/>
+     <seg>
+      裏劈將下來那後生用棒來格王進却不打下來將
+     </seg>
+     <lb xml:id="l01-01-0045-b-19"/>
+     <seg>
+      棒一掣却望後生懷裏直搠將來只一攪畧㸃着那
+     </seg>
+     <lb xml:id="l01-01-0045-b-20"/>
+     <seg>
+      後生的棒丢在一邊撲地望後倒了王進連忙撇棒
+     </seg>
+    </ab>
+    <pb corresp="#zone_46"/>
+    <ab>
+     <lb xml:id="l01-01-0046-a-1"/>
+     <seg>
+      向前扶住道休怪休怪那後生爬將起來拜道我枉
+     </seg>
+     <lb xml:id="l01-01-0046-a-2"/>
+     <seg>
+      自經了許多師家原來不值半分師父没奈何只得
+     </seg>
+     <lb xml:id="l01-01-0046-a-3"/>
+     <seg>
+      請敎王進道我子母二人連日在此攪擾宅上無恩
+     </seg>
+     <lb xml:id="l01-01-0046-a-4"/>
+     <seg>
+      可報正當効力太公道師父如此高强必是個教頭
+     </seg>
+     <lb xml:id="l01-01-0046-a-5"/>
+     <seg>
+      王進笑道實不相瞞小人是東京八十萬禁軍教頭
+     </seg>
+     <lb xml:id="l01-01-0046-a-6"/>
+     <seg>
+      王進爲因新任一個高太尉要奈何王進只得子母
+     </seg>
+     <lb xml:id="l01-01-0046-a-7"/>
+     <seg>
+      二人逃上延安府去投老种經畧相公敢問令郎的
+     </seg>
+     <lb xml:id="l01-01-0046-a-8"/>
+     <seg>
+      排行諱字太公道老漢祖居華隂縣前面便是少華
+     </seg>
+     <lb xml:id="l01-01-0046-a-9"/>
+     <seg>
+      山這村便喚做史家村老漢只這一個兒子從小不
+     </seg>
+     <lb xml:id="l01-01-0046-a-10"/>
+     <seg>
+      務農業只愛刺鎗使棒刺了這身花繡肩臂胸膛總
+     </seg>
+     <lb xml:id="l01-01-0046-a-11"/>
+     <seg>
+      有九條龍滿縣人都呌他做九紋龍史進教頭今日
+     </seg>
+     <lb xml:id="l01-01-0046-a-12"/>
+     <seg>
+      旣到這里一發成全了他王進道令郎學的都是花
+     </seg>
+     <lb xml:id="l01-01-0046-a-13"/>
+     <seg>
+      棒小人從新㸃撥他王進自此只在史家莊上指教
+     </seg>
+     <lb xml:id="l01-01-0046-a-14"/>
+     <seg>
+      武藝件件都有奥妙史進學得精熟了王進相辭史
+     </seg>
+     <lb xml:id="l01-01-0046-a-15"/>
+     <seg>
+      太公要上延安府去史進苦留不住只得安排送行
+     </seg>
+     <lb xml:id="l01-01-0046-a-16"/>
+     <seg>
+      托出叚子花銀謝師次日王進和娘兩個自取關西
+     </seg>
+     <lb xml:id="l01-01-0046-a-17"/>
+     <seg>
+      路里去了不到半載史太公亡歿又過了三四個月
+     </seg>
+     <lb xml:id="l01-01-0046-a-18"/>
+     <seg>
+      時當六月炎天史進坐在打麥塲邊柳隂樹下乗凉
+     </seg>
+     <lb xml:id="l01-01-0046-a-19"/>
+     <seg>
+      只見一個人探頭探腦史進喝道誰在那里張俺莊
+     </seg>
+     <lb xml:id="l01-01-0046-a-20"/>
+     <seg>
+      上起來一看認得是獵戸標兎李吉史進喝道莫不
+     </seg>
+    </ab>
+    <pb corresp="#zone_47"/>
+    <ab>
+     <lb xml:id="l01-01-0047-b-1"/>
+     <seg>
+      是來相脚頭李吉向前聲喏道大郎小人要尋莊上
+     </seg>
+     <lb xml:id="l01-01-0047-b-2"/>
+     <seg>
+      矮丘乙郎吃碗酒因見大郎在此乗凉不敢過來衝
+     </seg>
+     <lb xml:id="l01-01-0047-b-3"/>
+     <seg>
+      撞史進道徃常時你擔些野味來賣又不曾虧了你
+     </seg>
+     <lb xml:id="l01-01-0047-b-4"/>
+     <seg>
+      如何一向不將來賣敢是欺我没錢李吉答道小人
+     </seg>
+     <lb xml:id="l01-01-0047-b-5"/>
+     <seg>
+      怎敢只是一向没有野味史進道偌大一個少華山
+     </seg>
+     <lb xml:id="l01-01-0047-b-6"/>
+     <seg>
+      不信沒有個獐兒兎兒李吉道大郎不知近日上面
+     </seg>
+     <lb xml:id="l01-01-0047-b-7"/>
+     <seg>
+      一夥强人札下個山寨聚集着一夥小嘍囉爲頭那
+     </seg>
+     <lb xml:id="l01-01-0047-b-8"/>
+     <seg>
+      個大王喚做神機軍師朱武第二個喚做跳澗虎陳
+     </seg>
+     <lb xml:id="l01-01-0047-b-9"/>
+     <seg>
+      逹第三個喚做白花蛇楊春三個打家劫舍華隂縣
+     </seg>
+     <lb xml:id="l01-01-0047-b-10"/>
+     <seg>
+      裏不敢捉他誰敢上去打捕野味史進道我也聽得
+     </seg>
+     <lb xml:id="l01-01-0047-b-11"/>
+     <seg>
+      說有那厮們你今後有野味尋些來李吉唱個喏自
+     </seg>
+     <lb xml:id="l01-01-0047-b-12"/>
+     <seg>
+      去了史進尋思道這夥强人必要來薅惱村坊便呌
+     </seg>
+     <lb xml:id="l01-01-0047-b-13"/>
+     <seg>
+      莊客去請當村衆人商議准備那少華山山寨中商
+     </seg>
+     <lb xml:id="l01-01-0047-b-14"/>
+     <seg>
+      議去華隂縣裏借糧楊春道若去打華隂縣須從史
+     </seg>
+     <lb xml:id="l01-01-0047-b-15"/>
+     <seg>
+      家村過那個九紋龍史進不可去撩撥他陳逹道一
+     </seg>
+     <lb xml:id="l01-01-0047-b-16"/>
+     <seg>
+      個村坊過去不得怎地抵敵官軍小嘍囉快備我的
+     </seg>
+     <lb xml:id="l01-01-0047-b-17"/>
+     <seg>
+      馬來如今便去先打史家莊披掛上馬便望史家村
+     </seg>
+     <lb xml:id="l01-01-0047-b-18"/>
+     <seg>
+      來史進正在莊内莊客報知史進綽刀上馬各莊戸
+     </seg>
+     <lb xml:id="l01-01-0047-b-19"/>
+     <seg>
+      都跟在後頭一齊吶喊直到村前路口擺開那陳逹
+     </seg>
+     <lb xml:id="l01-01-0047-b-20"/>
+     <seg>
+      望見史進在馬上欠身施禮道俺山寨欠少糧食欲
+     </seg>
+    </ab>
+    <pb corresp="#zone_48"/>
+    <ab>
+     <lb xml:id="l01-01-0048-a-1"/>
+     <seg>
+      往華隂縣借糧經由貴莊可放我們過去史進道胡
+     </seg>
+     <lb xml:id="l01-01-0048-a-2"/>
+     <seg>
+      說你這夥賊經由我村中過放你過去本縣知道須
+     </seg>
+     <lb xml:id="l01-01-0048-a-3"/>
+     <seg>
+      連累於我陳逹道相煩借一條路不妨史進道你問
+     </seg>
+     <lb xml:id="l01-01-0048-a-4"/>
+     <seg>
+      得我手裏這口刀肯便放你去陳逹大怒史進也怒
+     </seg>
+     <lb xml:id="l01-01-0048-a-5"/>
+     <seg>
+      兩個交馬闘了多時史進把陳逹拿住呌莊客綁縛
+     </seg>
+     <lb xml:id="l01-01-0048-a-6"/>
+     <seg>
+      了待解官請賞且把酒來賞了衆人去只見朱武楊
+     </seg>
+     <lb xml:id="l01-01-0048-a-7"/>
+     <seg>
+      春歩行來到莊前史進喝道你兩個到來有甚話說
+     </seg>
+     <lb xml:id="l01-01-0048-a-8"/>
+     <seg>
+      朱武道小人三個誓同生死陳逹誤犯虎威被英雄
+     </seg>
+     <lb xml:id="l01-01-0048-a-9"/>
+     <seg>
+      擒捉我等今來就死誓不皺眉史進尋思道他們直
+     </seg>
+     <lb xml:id="l01-01-0048-a-10"/>
+     <seg>
+      恁義氣自古道大虫不吃伏肉便對朱武楊春道你
+     </seg>
+     <lb xml:id="l01-01-0048-a-11"/>
+     <seg>
+      兩個且跟我進來朱武楊春隨了史進直到後㕔前
+     </seg>
+     <lb xml:id="l01-01-0048-a-12"/>
+     <seg>
+      史進道你們如此義氣我若送了你們不是好漢且
+     </seg>
+     <lb xml:id="l01-01-0048-a-13"/>
+     <seg>
+      放陳逹還你當時史進放了陳逹三人謝了史進回
+     </seg>
+     <lb xml:id="l01-01-0048-a-14"/>
+     <seg>
+      山去了朱武道難得史進爲義氣上放了我們過了
+     </seg>
+     <lb xml:id="l01-01-0048-a-15"/>
+     <seg>
+      幾日收拾得三十兩蒜條金又擄掠得一串好大珠
+     </seg>
+     <lb xml:id="l01-01-0048-a-16"/>
+     <seg>
+      子都送來史家莊上酬謝不殺之恩史進受了尋思
+     </seg>
+     <lb xml:id="l01-01-0048-a-17"/>
+     <seg>
+      道也難得他三個敬重我我也備些禮物回他史進
+     </seg>
+     <lb xml:id="l01-01-0048-a-18"/>
+     <seg>
+      莊上有個爲頭的莊客王四滿莊人都呌他做賽伯
+     </seg>
+     <lb xml:id="l01-01-0048-a-19"/>
+     <seg>
+      當史進呌他挑了盒擔直送到山上朱武等受了禮
+     </seg>
+     <lb xml:id="l01-01-0048-a-20"/>
+     <seg>
+      物賞了王四回莊史進自此常常與朱武等徃來時
+     </seg>
+    </ab>
+    <pb corresp="#zone_49"/>
+    <ab>
+     <lb xml:id="l01-01-0049-b-1"/>
+     <seg>
+      近八月中秋史進使莊客王四賫一封請書直去少
+     </seg>
+     <lb xml:id="l01-01-0049-b-2"/>
+     <seg>
+      華山上請朱武陳逹楊春來莊上賞月三個應允隨
+     </seg>
+     <lb xml:id="l01-01-0049-b-3"/>
+     <seg>
+      即冩封回書賞了王四銀子吃了十來碗酒打發王
+     </seg>
+     <lb xml:id="l01-01-0049-b-4"/>
+     <seg>
+      四下山却撞着時常送物事來的小嘍囉又拖去山
+     </seg>
+     <lb xml:id="l01-01-0049-b-5"/>
+     <seg>
+      路邊村酒店裏吃了十數碗酒王四走着酒却湧上
+     </seg>
+     <lb xml:id="l01-01-0049-b-6"/>
+     <seg>
+      來一步一跌望着那緑茸茸莎草地上撲地倒了原
+     </seg>
+     <lb xml:id="l01-01-0049-b-7"/>
+     <seg>
+      來摽兎李吉正在那山坡下張兎兒認得是史家莊
+     </seg>
+     <lb xml:id="l01-01-0049-b-8"/>
+     <seg>
+      上王四趕來扶他那里扶得動只見王四搭膊裏突
+     </seg>
+     <lb xml:id="l01-01-0049-b-9"/>
+     <seg>
+      出銀子來李吉尋思道這厮醉了何不拿了他的李
+     </seg>
+     <lb xml:id="l01-01-0049-b-10"/>
+     <seg>
+      吉解那搭膊望地下只一抖那封回書和銀子都抖
+     </seg>
+     <lb xml:id="l01-01-0049-b-11"/>
+     <seg>
+      出來李吉將書看時見上面寫着少華山朱武陳逹
+     </seg>
+     <lb xml:id="l01-01-0049-b-12"/>
+     <seg>
+      楊春三個名字李吉道尀耐史進那厮前日道我相
+     </seg>
+     <lb xml:id="l01-01-0049-b-13"/>
+     <seg>
+      脚頭原來他倒和賊人來往將銀子併書望華隂縣
+     </seg>
+     <lb xml:id="l01-01-0049-b-14"/>
+     <seg>
+      裏出首去王四醒來只見空搭膊在莎草地上尋思
+     </seg>
+     <lb xml:id="l01-01-0049-b-15"/>
+     <seg>
+      道銀子不打𦂳這封回書却怎生好不如只說不曾
+     </seg>
+     <lb xml:id="l01-01-0049-b-16"/>
+     <seg>
+      有回書那里查照取路歸來却好初更天氣史進見
+     </seg>
+     <lb xml:id="l01-01-0049-b-17"/>
+     <seg>
+      王四回來問道有回書麽王四道三個頭領要寫回
+     </seg>
+     <lb xml:id="l01-01-0049-b-18"/>
+     <seg>
+      書却是小人道三位頭領旣然來赴席何必回書小
+     </seg>
+     <lb xml:id="l01-01-0049-b-19"/>
+     <seg>
+      人又有杯酒路上恐有些失支脫節不是耍處史進
+     </seg>
+     <lb xml:id="l01-01-0049-b-20"/>
+     <seg>
+      聽了說道不枉了諸人呌做賽伯當眞個了得王四
+     </seg>
+    </ab>
+    <pb corresp="#zone_49"/>
+    <ab>
+     <lb xml:id="l01-01-0049-a-1"/>
+     <seg>
+      應道小人怎敢差遲中秋節至史進正和三個頭領
+     </seg>
+     <lb xml:id="l01-01-0049-a-2"/>
+     <seg>
+      在後園飮酒只聽得牆外一聲喊起火把亂明却是
+     </seg>
+     <lb xml:id="l01-01-0049-a-3"/>
+     <seg>
+      華隂縣縣尉引着兩個都頭帶着百十個土兵圍住
+     </seg>
+     <lb xml:id="l01-01-0049-a-4"/>
+     <seg>
+      莊院口裏呌道不要走了强賊朱武等對史進道哥
+     </seg>
+     <lb xml:id="l01-01-0049-a-5"/>
+     <seg>
+      哥你是乾淨的人把我三個縛了出去請賞免得負
+     </seg>
+     <lb xml:id="l01-01-0049-a-6"/>
+     <seg>
+      累史進道如何使得若是死時與你們同死活時同
+     </seg>
+     <lb xml:id="l01-01-0049-a-7"/>
+     <seg>
+      活且等我問個來歷史進掇條梯子上牆問道你兩
+     </seg>
+     <lb xml:id="l01-01-0049-a-8"/>
+     <seg>
+      個都頭何故半夜三更來劫我莊上那兩個都頭答
+     </seg>
+     <lb xml:id="l01-01-0049-a-9"/>
+     <seg>
+      道大郎你兀自賴哩見有原告人李吉在這里史進
+     </seg>
+     <lb xml:id="l01-01-0049-a-10"/>
+     <seg>
+      喝道李吉你如何誣告平人李吉應道不是我要〓
+     </seg>
+     <lb xml:id="l01-01-0049-a-11"/>
+     <seg>
+      你因在林子裏拾得王四的回書一時間把在縣前
+     </seg>
+     <lb xml:id="l01-01-0049-a-12"/>
+     <seg>
+      看因此事發史進呌王四道梯子邊問道你說沒有
+     </seg>
+     <lb xml:id="l01-01-0049-a-13"/>
+     <seg>
+      回書如何却又有書王四道便是小人一時醉了忘
+     </seg>
+     <lb xml:id="l01-01-0049-a-14"/>
+     <seg>
+      記了囘書史進道畜生却怎生好三個頭領把手指
+     </seg>
+     <lb xml:id="l01-01-0049-a-15"/>
+     <seg>
+      道且答應外面史進會意在梯子上呌道你兩個都
+     </seg>
+     <lb xml:id="l01-01-0049-a-16"/>
+     <seg>
+      頭權退一歩我自綁縛出來解官請賞那兩個都頭
+     </seg>
+     <lb xml:id="l01-01-0049-a-17"/>
+     <seg>
+      却怕史進只得應道你自没事的綁出來同去請賞
+     </seg>
+     <lb xml:id="l01-01-0049-a-18"/>
+     <seg>
+      史進下梯子來先呌王四進後園把來一刀殺了一
+     </seg>
+     <lb xml:id="l01-01-0049-a-19"/>
+     <seg>
+      壁㸃起三四十個火把放起火來大開了莊門吶聲
+     </seg>
+     <lb xml:id="l01-01-0049-a-20"/>
+     <seg>
+      喊史進當頭朱武楊春陳達在後殺開條路衝將出
+     </seg>
+    </ab>
+    <pb corresp="#zone_50"/>
+    <ab>
+     <lb xml:id="l01-01-0050-b-1"/>
+     <seg>
+      應道小人怎敢差遲中秋節至史進正和三個頭領
+     </seg>
+     <lb xml:id="l01-01-0050-b-2"/>
+     <seg>
+      在後園飮酒只聽得牆外一聲喊起火把亂明却是
+     </seg>
+     <lb xml:id="l01-01-0050-b-3"/>
+     <seg>
+      華隂縣縣尉引着兩個都頭帶着百十個土兵圍住
+     </seg>
+     <lb xml:id="l01-01-0050-b-4"/>
+     <seg>
+      莊院口裏呌道不要走了强賊朱武等對史進道哥
+     </seg>
+     <lb xml:id="l01-01-0050-b-5"/>
+     <seg>
+      哥你是乾淨的人把我三個縛了出去請賞免得負
+     </seg>
+     <lb xml:id="l01-01-0050-b-6"/>
+     <seg>
+      累史進道如何使得若是死時與你們同死活時同
+     </seg>
+     <lb xml:id="l01-01-0050-b-7"/>
+     <seg>
+      活且等我問個來歷史進掇條梯子上牆問道你兩
+     </seg>
+     <lb xml:id="l01-01-0050-b-8"/>
+     <seg>
+      個都頭何故半夜三更來劫我莊上那兩個都頭答
+     </seg>
+     <lb xml:id="l01-01-0050-b-9"/>
+     <seg>
+      道大郎你兀自賴哩見有原告人李吉在這里史進
+     </seg>
+     <lb xml:id="l01-01-0050-b-10"/>
+     <seg>
+      喝道李吉你如何誣告平人李吉應道不是我要〓
+     </seg>
+     <lb xml:id="l01-01-0050-b-11"/>
+     <seg>
+      你因在林子裏拾得王四的回書一時間把在縣前
+     </seg>
+     <lb xml:id="l01-01-0050-b-12"/>
+     <seg>
+      看因此事發史進呌王四道梯子邊問道你說沒有
+     </seg>
+     <lb xml:id="l01-01-0050-b-13"/>
+     <seg>
+      回書如何却又有書王四道便是小人一時醉了忘
+     </seg>
+     <lb xml:id="l01-01-0050-b-14"/>
+     <seg>
+      記了囘書史進道畜生却怎生好三個頭領把手指
+     </seg>
+     <lb xml:id="l01-01-0050-b-15"/>
+     <seg>
+      道且答應外面史進會意在梯子上呌道你兩個都
+     </seg>
+     <lb xml:id="l01-01-0050-b-16"/>
+     <seg>
+      頭權退一歩我自綁縛出來解官請賞那兩個都頭
+     </seg>
+     <lb xml:id="l01-01-0050-b-17"/>
+     <seg>
+      却怕史進只得應道你自没事的綁出來同去請賞
+     </seg>
+     <lb xml:id="l01-01-0050-b-18"/>
+     <seg>
+      史進下梯子來先呌王四進後園把來一刀殺了一
+     </seg>
+     <lb xml:id="l01-01-0050-b-19"/>
+     <seg>
+      壁㸃起三四十個火把放起火來大開了莊門吶聲
+     </seg>
+     <lb xml:id="l01-01-0050-b-20"/>
+     <seg>
+      喊史進當頭朱武楊春陳達在後殺開條路衝將出
+     </seg>
+    </ab>
+    <pb corresp="#zone_51"/>
+    <ab>
+     <lb xml:id="l01-01-0051-a-1"/>
+     <seg>
+      來史進手起一朴刀把李吉斬做兩叚陳達楊春把
+     </seg>
+     <lb xml:id="l01-01-0051-a-2"/>
+     <seg>
+      兩個都頭一家一朴刀結果了性命縣尉驚得跑馬
+     </seg>
+     <lb xml:id="l01-01-0051-a-3"/>
+     <seg>
+      走了衆土兵那里敢向前各自逃命散去史進和朱
+     </seg>
+     <lb xml:id="l01-01-0051-a-4"/>
+     <seg>
+      武陳達楊春并莊客人等都到少華山上寨内過了
+     </seg>
+     <lb xml:id="l01-01-0051-a-5"/>
+     <seg>
+      幾日史進尋思在此不了對朱武等說道我的師父
+     </seg>
+     <lb xml:id="l01-01-0051-a-6"/>
+     <seg>
+      王教頭在關西經畧府勾當要去尋他我也要那里
+     </seg>
+     <lb xml:id="l01-01-0051-a-7"/>
+     <seg>
+      討個出身朱武等苦留不住灑淚而別史進來到渭
+     </seg>
+     <lb xml:id="l01-01-0051-a-8"/>
+     <seg>
+      州也有個經畧府史進便進茶坊裏問道這經畧府
+     </seg>
+     <lb xml:id="l01-01-0051-a-9"/>
+     <seg>
+      内有個東京來的教頭王進麽茶愽士道這府裏教
+     </seg>
+     <lb xml:id="l01-01-0051-a-10"/>
+     <seg>
+      頭有三四個姓王的不知那個是王進道猶未了只
+     </seg>
+     <lb xml:id="l01-01-0051-a-11"/>
+     <seg>
+      見一個大漢大踏步走進茶坊裏來茶博士便道客
+     </seg>
+     <lb xml:id="l01-01-0051-a-12"/>
+     <seg>
+      官要尋王教頭只問這個提轄便都認得史進起身
+     </seg>
+     <lb xml:id="l01-01-0051-a-13"/>
+     <seg>
+      施禮道敢問官人高姓大名那人道洒家是經畧府
+     </seg>
+     <lb xml:id="l01-01-0051-a-14"/>
+     <seg>
+      提轄魯逹敢問阿哥你姓甚麽史進道小人是華州
+     </seg>
+     <lb xml:id="l01-01-0051-a-15"/>
+     <seg>
+      華隂縣人姓史名進小人有個師父王進不知在這
+     </seg>
+     <lb xml:id="l01-01-0051-a-16"/>
+     <seg>
+      經畧府中否魯提轄道史大郎你要尋的王教頭洒
+     </seg>
+     <lb xml:id="l01-01-0051-a-17"/>
+     <seg>
+      家聽得說他在延安府老种經畧相公處勾當俺却
+     </seg>
+     <lb xml:id="l01-01-0051-a-18"/>
+     <seg>
+      隨着小种經畧相公在這渭州鎭守那人不在這里
+     </seg>
+     <lb xml:id="l01-01-0051-a-19"/>
+     <seg>
+      你且和我上街去吃盃酒魯提轄挽了史進的手便
+     </seg>
+     <lb xml:id="l01-01-0051-a-20"/>
+     <seg>
+      出茶坊來上街行得三五十歩只見一簇人圍住一
+     </seg>
+    </ab>
+    <pb corresp="#zone_52"/>
+    <ab>
+     <lb xml:id="l01-01-0052-b-1"/>
+     <seg>
+      個使鎗棒賣藥的原來是教史進開手的師父呌做
+     </seg>
+     <lb xml:id="l01-01-0052-b-2"/>
+     <seg>
+      打虎將李忠史進就人叢中呌道師父多時不見李
+     </seg>
+     <lb xml:id="l01-01-0052-b-3"/>
+     <seg>
+      忠道賢弟如何到這里魯提轄道旣是史大郎的師
+     </seg>
+     <lb xml:id="l01-01-0052-b-4"/>
+     <seg>
+      父同和俺去吃三杯李忠當時收拾了行頭藥囊寄
+     </seg>
+     <lb xml:id="l01-01-0052-b-5"/>
+     <seg>
+      頓了鎗棒一同來到州橋下一個潘家有名的酒店
+     </seg>
+     <lb xml:id="l01-01-0052-b-6"/>
+     <seg>
+      三個上到酒樓上酒至數杯正說些閒話只聽得隔
+     </seg>
+     <lb xml:id="l01-01-0052-b-7"/>
+     <seg>
+      壁閣子裏有人哽哽咽咽啼哭魯逹焦燥便氣憤憤
+     </seg>
+     <lb xml:id="l01-01-0052-b-8"/>
+     <seg>
+      地道甚麽人在間壁吱吱的哭攪俺弟兄們吃酒酒
+     </seg>
+     <lb xml:id="l01-01-0052-b-9"/>
+     <seg>
+      保道是綽酒座兒唱的父子兩人自啼哭魯提轄道
+     </seg>
+     <lb xml:id="l01-01-0052-b-10"/>
+     <seg>
+      你與我喚的他來酒保去呌來前面一個十八九歲
+     </seg>
+     <lb xml:id="l01-01-0052-b-11"/>
+     <seg>
+      的婦人背後一個五六十歲的老兒手裏拿串拍板
+     </seg>
+     <lb xml:id="l01-01-0052-b-12"/>
+     <seg>
+      那婦人拭着淚眼向前來深深的道了三個萬福那
+     </seg>
+     <lb xml:id="l01-01-0052-b-13"/>
+     <seg>
+      老兒也都相見了魯逹問道你兩個是那里人為甚
+     </seg>
+     <lb xml:id="l01-01-0052-b-14"/>
+     <seg>
+      啼哭那婦人便道奴家是東京人氏因同父母來這
+     </seg>
+     <lb xml:id="l01-01-0052-b-15"/>
+     <seg>
+      渭州投奔親眷不想搬移南京去了母親在客店裏
+     </seg>
+     <lb xml:id="l01-01-0052-b-16"/>
+     <seg>
+      染病身故子父二人流落在此有個財主呌做鎭關
+     </seg>
+     <lb xml:id="l01-01-0052-b-17"/>
+     <seg>
+      西鄭大官人一見奴家便使强媒硬保要奴作妾冩
+     </seg>
+     <lb xml:id="l01-01-0052-b-18"/>
+     <seg>
+      了三千貫文書虚錢實契要了奴家身體誰想他家
+     </seg>
+     <lb xml:id="l01-01-0052-b-19"/>
+     <seg>
+      大娘子好生利害將奴趕打出來着落店主人家追
+     </seg>
+     <lb xml:id="l01-01-0052-b-20"/>
+     <seg>
+      要原典身錢三千貫當初不曾得他一文如今那討
+     </seg>
+    </ab>
+    <pb corresp="#zone_53"/>
+    <ab>
+     <lb xml:id="l01-01-0053-a-1"/>
+     <seg>
+      錢來還他没計奈何父親自小教得奴家些小曲兒
+     </seg>
+     <lb xml:id="l01-01-0053-a-2"/>
+     <seg>
+      只得來這酒樓上趕座子討些錢來陸續還他這兩
+     </seg>
+     <lb xml:id="l01-01-0053-a-3"/>
+     <seg>
+      日酒客稀少違了他錢限怕他來討因此啼哭不想
+     </seg>
+     <lb xml:id="l01-01-0053-a-4"/>
+     <seg>
+      觸犯了官人望乞恕罪魯提轄又問道你姓甚麽在
+     </seg>
+     <lb xml:id="l01-01-0053-a-5"/>
+     <seg>
+      那個客店裏歇那個鎭關西鄭大官人在那里住老
+     </seg>
+     <lb xml:id="l01-01-0053-a-6"/>
+     <seg>
+      兒答道老漢姓金孩兒小字翠蓮鄭大官人便是狀
+     </seg>
+     <lb xml:id="l01-01-0053-a-7"/>
+     <seg>
+      元橋下賣肉的鄭屠綽號鎭關西老漢父子兩個在
+     </seg>
+     <lb xml:id="l01-01-0053-a-8"/>
+     <seg>
+      東門裏魯家客店安下魯逹聽了道呸俺只道那個
+     </seg>
+     <lb xml:id="l01-01-0053-a-9"/>
+     <seg>
+      鄭大官人却原來是殺猪的鄭屠這個腌臢潑才投
+     </seg>
+     <lb xml:id="l01-01-0053-a-10"/>
+     <seg>
+      托着俺小种經畧相公門下做個肉舖戸却原來這
+     </seg>
+     <lb xml:id="l01-01-0053-a-11"/>
+     <seg>
+      等欺侮人老兒你來洒家與你些盤纏明日便回東
+     </seg>
+     <lb xml:id="l01-01-0053-a-12"/>
+     <seg>
+      京去金老道店主人家如何肯放鄭大官人須着落
+     </seg>
+     <lb xml:id="l01-01-0053-a-13"/>
+     <seg>
+      他要錢魯提轄道這不愁他便去身邊摸出五兩來
+     </seg>
+     <lb xml:id="l01-01-0053-a-14"/>
+     <seg>
+      銀子放在桌上看着史進道你有銀子借些與俺明
+     </seg>
+     <lb xml:id="l01-01-0053-a-15"/>
+     <seg>
+      日便還你史進包裹裡取出一錠十兩銀子放在卓
+     </seg>
+     <lb xml:id="l01-01-0053-a-16"/>
+     <seg>
+      上魯逹看着李忠道你也借些出來李忠摸出二兩
+     </seg>
+     <lb xml:id="l01-01-0053-a-17"/>
+     <seg>
+      來銀子魯提轄見少便道也是個不爽利的人魯逹
+     </seg>
+     <lb xml:id="l01-01-0053-a-18"/>
+     <seg>
+      只把這十五兩銀子與了金老分付道俺明日清早
+     </seg>
+     <lb xml:id="l01-01-0053-a-19"/>
+     <seg>
+      來發付你兩個起身看那個店主人敢留你金老和
+     </seg>
+     <lb xml:id="l01-01-0053-a-20"/>
+     <seg>
+      女兒拜謝去了魯逹把這二兩銀子丢還了李忠三
+     </seg>
+    </ab>
+    <pb corresp="#zone_54"/>
+    <ab>
+     <lb xml:id="l01-01-0054-b-1"/>
+     <seg>
+      個出了潘家酒肆史進李忠各自投客店去了魯提
+     </seg>
+     <lb xml:id="l01-01-0054-b-2"/>
+     <seg>
+      轄回到經畧府前下處晚飯也不吃氣憤憤的睡了
+     </seg>
+     <lb xml:id="l01-01-0054-b-3"/>
+     <seg>
+      金老回到店中安頓了女兒去城外遠處覓下一輛
+     </seg>
+     <lb xml:id="l01-01-0054-b-4"/>
+     <seg>
+      車兒回來收拾了行李還了房宿錢筭清了柴米帳
+     </seg>
+     <lb xml:id="l01-01-0054-b-5"/>
+     <seg>
+      次早五更起來子父兩個先打火做飯吃罷天色微
+     </seg>
+     <lb xml:id="l01-01-0054-b-6"/>
+     <seg>
+      明只見魯提轄大脚歩走入店裏來金老道提轄官
+     </seg>
+     <lb xml:id="l01-01-0054-b-7"/>
+     <seg>
+      人裏面請坐魯逹道坐甚麽你去便去等甚麽金老
+     </seg>
+     <lb xml:id="l01-01-0054-b-8"/>
+     <seg>
+      引了女兒作謝提轄便待出門店小二攔住道金公
+     </seg>
+     <lb xml:id="l01-01-0054-b-9"/>
+     <seg>
+      那里去鄭大官人典身錢着落在小人身上哩魯提
+     </seg>
+     <lb xml:id="l01-01-0054-b-10"/>
+     <seg>
+      轄道鄭屠的錢洒家自還他你放這老兒去那店小
+     </seg>
+     <lb xml:id="l01-01-0054-b-11"/>
+     <seg>
+      二那里肯放魯逹揸開五指去那小二臉上只一掌
+     </seg>
+     <lb xml:id="l01-01-0054-b-12"/>
+     <seg>
+      打的那小二口中吐血那里敢再說金老父子兩個
+     </seg>
+     <lb xml:id="l01-01-0054-b-13"/>
+     <seg>
+      忙忙離了店中去了魯逹恐怕店小二趕去攔截他
+     </seg>
+     <lb xml:id="l01-01-0054-b-14"/>
+     <seg>
+      且向店裏掇條櫈子坐了兩個時辰約莫金公去的
+     </seg>
+     <lb xml:id="l01-01-0054-b-15"/>
+     <seg>
+      遠了方纔起身逕到狀元橋下來鄭屠正在門前櫃
+     </seg>
+     <lb xml:id="l01-01-0054-b-16"/>
+     <seg>
+      身内看那十來個刀手賣肉魯逹走到門前呌聲鄭
+     </seg>
+     <lb xml:id="l01-01-0054-b-17"/>
+     <seg>
+      屠鄭屠看時見是魯提轄慌忙出櫃身來唱喏呌副
+     </seg>
+     <lb xml:id="l01-01-0054-b-18"/>
+     <seg>
+      手掇條櫈提轄請坐魯逹坐下道奉着經畧相公鈞
+     </seg>
+     <lb xml:id="l01-01-0054-b-19"/>
+     <seg>
+      㫖要十觔精肉切做臊子不要見半㸃肥的在上頭
+     </seg>
+     <lb xml:id="l01-01-0054-b-20"/>
+     <seg>
+      不要那腌臢厮們動手你自與我切鄭屠自去肉案
+     </seg>
+    </ab>
+    <pb corresp="#zone_55"/>
+    <ab>
+     <lb xml:id="l01-01-0055-a-1"/>
+     <seg>
+      上揀了十觔精肉細細切作做臊子那店小二正來
+     </seg>
+     <lb xml:id="l01-01-0055-a-2"/>
+     <seg>
+      鄭屠家報說金老之事却見魯提轄坐在肉案門邊
+     </seg>
+     <lb xml:id="l01-01-0055-a-3"/>
+     <seg>
+      不敢攏來只得遠遠的立住在房簷下望這鄭屠整
+     </seg>
+     <lb xml:id="l01-01-0055-a-4"/>
+     <seg>
+      整的自切了半個時辰用荷葉包了道提轄呌人送
+     </seg>
+     <lb xml:id="l01-01-0055-a-5"/>
+     <seg>
+      去魯逹道且住再要十觔都是肥的不要見些精的
+     </seg>
+     <lb xml:id="l01-01-0055-a-6"/>
+     <seg>
+      在上面也要切做臊子鄭屠又選了十觔實膘的肥
+     </seg>
+     <lb xml:id="l01-01-0055-a-7"/>
+     <seg>
+      肉也細細的切做臊子把荷葉來包了整弄了一早
+     </seg>
+     <lb xml:id="l01-01-0055-a-8"/>
+     <seg>
+      辰鄭屠道着人與提轄拿了送將府裏去魯逹道再
+     </seg>
+     <lb xml:id="l01-01-0055-a-9"/>
+     <seg>
+      要十觔寸金軟骨也要細細地刴做臊子不要見些
+     </seg>
+     <lb xml:id="l01-01-0055-a-10"/>
+     <seg>
+      肉在上面鄭屠笑道却不是特地來消遣我魯逹跳
+     </seg>
+     <lb xml:id="l01-01-0055-a-11"/>
+     <seg>
+      起身來拏着那兩包臊子睜眼看着鄭屠說道洒家
+     </seg>
+     <lb xml:id="l01-01-0055-a-12"/>
+     <seg>
+      特地要消遣你把兩包臊子劈面打將去却似下了
+     </seg>
+     <lb xml:id="l01-01-0055-a-13"/>
+     <seg>
+      一陣的肉雨鄭屠忍不住從肉案上搶了一把剔骨
+     </seg>
+     <lb xml:id="l01-01-0055-a-14"/>
+     <seg>
+      尖刀托地跳將下來魯提轄早拔歩在當街上十來
+     </seg>
+     <lb xml:id="l01-01-0055-a-15"/>
+     <seg>
+      個火家那個敢勸那店小二也驚的呆了鄭屠右手
+     </seg>
+     <lb xml:id="l01-01-0055-a-16"/>
+     <seg>
+      拿刀左手便來要揪魯逹被這魯提轄就勢按住左
+     </seg>
+     <lb xml:id="l01-01-0055-a-17"/>
+     <seg>
+      手趕將入去望小腹上只一脚騰地踢倒在當街上
+     </seg>
+     <lb xml:id="l01-01-0055-a-18"/>
+     <seg>
+      魯逹再趕入一歩踏住胸脯提起那錯鉢兒大小拳
+     </seg>
+     <lb xml:id="l01-01-0055-a-19"/>
+     <seg>
+      頭看着這鄭屠道你是個操刀屠戸狗也似的人呌
+     </seg>
+     <lb xml:id="l01-01-0055-a-20"/>
+     <seg>
+      甚麼鎭關西你如何强騙了金翠蓮撲的只一拳正
+     </seg>
+    </ab>
+    <pb corresp="#zone_56"/>
+    <ab>
+     <lb xml:id="l01-01-0056-b-1"/>
+     <seg>
+      打在鼻子上打得鮮血迸流鼻子歪在半邊鄭屠掙
+     </seg>
+     <lb xml:id="l01-01-0056-b-2"/>
+     <seg>
+      不起來那把尖刀丟在一邊口裏只呌打得好打得
+     </seg>
+     <lb xml:id="l01-01-0056-b-3"/>
+     <seg>
+      好魯逹道還敢應口提起拳頭來就眼眶際一拳打
+     </seg>
+     <lb xml:id="l01-01-0056-b-4"/>
+     <seg>
+      得眼睖縫裂烏珠迸出鄭屠當不過討饒魯逹喝道
+     </seg>
+     <lb xml:id="l01-01-0056-b-5"/>
+     <seg>
+      洒家却不饒你又一拳太陽上正着魯逹看時只見
+     </seg>
+     <lb xml:id="l01-01-0056-b-6"/>
+     <seg>
+      鄭屠挺在地上口裹只有出的氣没有入的氣動撣
+     </seg>
+     <lb xml:id="l01-01-0056-b-7"/>
+     <seg>
+      不得魯逹尋思道俺只指望痛打這厮一頓不想三
+     </seg>
+     <lb xml:id="l01-01-0056-b-8"/>
+     <seg>
+      拳眞個打死了他拔歩便走回頭指着鄭屠道你詐
+     </seg>
+     <lb xml:id="l01-01-0056-b-9"/>
+     <seg>
+      死洒家和你慢慢理會一頭罵一頭大踏歩去了誰
+     </seg>
+     <lb xml:id="l01-01-0056-b-10"/>
+     <seg>
+      敢向前來攔他那店小二也走了魯達回到下處急
+     </seg>
+     <lb xml:id="l01-01-0056-b-11"/>
+     <seg>
+      急捲了些衣服盤纏一道煙走了鄭屠家中逕來州
+     </seg>
+     <lb xml:id="l01-01-0056-b-12"/>
+     <seg>
+      衙告狀府尹接了狀子禀過經畧相公押下文書捉
+     </seg>
+     <lb xml:id="l01-01-0056-b-13"/>
+     <seg>
+      拿犯人魯逹當時王觀察將帶做公的到魯提轄下
+     </seg>
+     <lb xml:id="l01-01-0056-b-14"/>
+     <seg>
+      處打開他房門看時只見些舊衣舊裳在裏面就帶
+     </seg>
+     <lb xml:id="l01-01-0056-b-15"/>
+     <seg>
+      了房主人四下里跟尋不見又捉了兩家鄰舍并房
+     </seg>
+     <lb xml:id="l01-01-0056-b-16"/>
+     <seg>
+      主人同到州衙㕔上回話道魯達懼罪在逃不知去
+     </seg>
+     <lb xml:id="l01-01-0056-b-17"/>
+     <seg>
+      向府尹行開個海捕文書懸着賞格冩了魯逹的年
+     </seg>
+     <lb xml:id="l01-01-0056-b-18"/>
+     <seg>
+      甲貫址畫了他的模樣到處張掛
+     </seg>
+    </ab>
+   </div>
+   <div type="note">
+    <ab>
+     <note corresp="#zone_l01-0037-1b-4-14" subtype="夾" target="l01-0037-1b-4-14" type="書">
+      <p>
+       皆
+      </p>
+     </note>
+     <note corresp="#zone_l01-0037-1b-4-16" subtype="夾" target="l01-0037-1b-4-16" type="書">
+      <p>
+       公案十〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0037-1b-6-3" subtype="夾" target="l01-0037-1b-6-3" type="書">
+      <p>
+       方
+      </p>
+     </note>
+     <note corresp="#zone_l01-0037-1b-6-6" subtype="夾" target="l01-0037-1b-6-6" type="書">
+      <p>
+       赤色
+      </p>
+     </note>
+     <note corresp="#zone_l01-0037-1b-8-11" subtype="夾" target="l01-0037-1b-8-11" type="書">
+      <p>
+       音荒
+      </p>
+     </note>
+     <note corresp="#zone_l01-0039-2b-8-" subtype="眉" target="l01-0039-2b-8-" type="批">
+      <p>
+       〓那
+       <lb/>
+       〓此
+       <lb/>
+       矣
+      </p>
+     </note>
+     <note corresp="#zone_l01-0039-2b-3-" subtype="地" target="l01-0039-2b-3-" type="書">
+      <p>
+       音辨
+       <lb/>
+       出力也
+      </p>
+     </note>
+     <note corresp="#zone_l01-0039-2b-7-" subtype="眉" target="l01-0039-2b-7-" type="書">
+      <p>
+       凹
+       <lb/>
+       音王
+      </p>
+     </note>
+     <note corresp="#zone_l01-0039-2b-7-14" subtype="夾" target="l01-0039-2b-7-14" type="書">
+      <p>
+       王
+      </p>
+     </note>
+     <note corresp="#zone_l01-0039-3a-4-" subtype="眉" target="l01-0039-3a-4-" type="批">
+      <p>
+       〓〓〓
+       <lb/>
+       〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0040-3b-6-" subtype="眉" target="l01-0040-3b-6-" type="批">
+      <p>
+       〓〓許
+       <lb/>
+       大事俱
+       <lb/>
+       〓一怒
+       <lb/>
+       〓來
+      </p>
+     </note>
+     <note corresp="#zone_l01-0040-4a-1-" subtype="眉" target="l01-0040-4a-1-" type="批">
+      <p>
+       〓〓目
+       <lb/>
+       應有此
+       <lb/>
+       好〓〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0040-4a-7-" subtype="眉" target="l01-0040-4a-7-" type="批">
+      <p>
+       英雄出
+       <lb/>
+       世大頭
+       <lb/>
+       腦
+      </p>
+     </note>
+     <note corresp="#zone_l01-0041-4b-2-" subtype="眉" target="l01-0041-4b-2-" type="批">
+      <p>
+       〓也應
+       <lb/>
+       出消息
+       <lb/>
+       也應瞒
+       <lb/>
+       却
+      </p>
+     </note>
+     <note corresp="#zone_l01-0042-5b-3-" subtype="眉" target="l01-0042-5b-3-" type="批">
+      <p>
+       展轉薦
+       <lb/>
+       在大敗
+       <lb/>
+       錢家去
+       <lb/>
+       了
+      </p>
+     </note>
+     <note corresp="#zone_l01-0042-6a-5-" subtype="眉" target="l01-0042-6a-5-" type="批">
+      <p>
+       〓〓貴
+       <lb/>
+       〓〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0042-6a-9-" subtype="眉" target="l01-0042-6a-9-" type="批">
+      <p>
+       高俅所
+       <lb/>
+       長在此
+       <lb/>
+       〓矣
+      </p>
+     </note>
+     <note corresp="#zone_l01-0043-6b-3-" subtype="眉" target="l01-0043-6b-3-" type="批">
+      <p>
+       〓踢法
+      </p>
+     </note>
+     <note corresp="#zone_l01-0043-7a-10-" subtype="眉" target="l01-0043-7a-10-" type="批">
+      <p>
+       〓做〓
+       <lb/>
+       〓須索
+       <lb/>
+       〓踢毬
+      </p>
+     </note>
+     <note corresp="#zone_l01-0044-7b-10-" subtype="眉" target="l01-0044-7b-10-" type="批">
+      <p>
+       〓〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0046-9b-5-" subtype="眉" target="l01-0046-9b-5-" type="書">
+      <p>
+       四字作奸不
+       <lb/>
+       厮期俏不厮瞞 金本
+      </p>
+     </note>
+     <note corresp="#zone_l01-0048-11b-3-" subtype="眉" target="l01-0048-11b-3-" type="批">
+      <p>
+       有胆氣
+       <lb/>
+       語
+      </p>
+     </note>
+     <note corresp="#zone_l01-0048-11b-6-" subtype="眉" target="l01-0048-11b-6-" type="批">
+      <p>
+       少不得
+      </p>
+     </note>
+     <note corresp="#zone_l01-0048-12a-10-" subtype="眉" target="l01-0048-12a-10-" type="批">
+      <p>
+       〓他騙
+       <lb/>
+       〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0049-13a-3-" subtype="眉" target="l01-0049-13a-3-" type="批">
+      <p>
+       史進醜
+       <lb/>
+       〓〓〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0049-13a-3-1" subtype="夾" target="l01-0049-13a-3-1" type="書">
+      <p>
+       上十背
+      </p>
+     </note>
+     <note corresp="#zone_l01-0049-13a-9-" subtype="眉" target="l01-0049-13a-9-" type="批">
+      <p>
+       〓〓〓
+      </p>
+     </note>
+     <note corresp="#zone_l01-0051-14b-3-" subtype="眉" target="l01-0051-14b-3-" type="書">
+      <p>
+       攅線〔月答〕膊（メリヤスノゼニ入）
+      </p>
+     </note>
+     <note corresp="#zone_l01-0051-14b-4-" subtype="眉" target="l01-0051-14b-4-" type="書">
+      <p>
+       青白间道行〓
+       <lb/>
+       纏絞（シマノ キハン）
+      </p>
+     </note>
+     <note corresp="#zone_l01-0051-14b-7-" subtype="眉" target="l01-0051-14b-7-" type="批">
+      <p>
+       〓水得
+       <lb/>
+       〓〓點
+       <lb/>
+       處
+      </p>
+     </note>
+    </ab>
+   </div>
+  </body>
+ </text>
+</TEI>

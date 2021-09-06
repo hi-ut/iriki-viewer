@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/滑海藻",
+    "http://schema.org/description": [
+      {
+        "@value": "植物。コンブ科の褐藻。アラメの別称"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/滑海藻-1754001"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "滑海藻"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/酒台・後盤",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 杯を据える台。渡盞(とさん)。〔延喜式（927）〕"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/酒台・後盤-2051420"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "酒台・後盤"
+      }
+    ]
+  }
+]

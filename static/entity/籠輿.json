@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/籠輿",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 粗末な、竹製の駕籠(かご)。山駕籠。籃輿(らんよ)。ろうよ。※太平記（１４Ｃ後）三「或は籠輿(カゴコシ)に召され、或は伝馬に乗られて白昼に京都へ入給ひければ」"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/籠輿-461453"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "籠輿"
+      }
+    ]
+  }
+]

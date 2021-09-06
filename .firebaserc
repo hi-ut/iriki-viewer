@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "kuniezu"
+  },
+  "targets": {
+    "kuniezu": {
+      "hosting": {
+        "staging": [
+          "kuniezu-dev"
+        ],
+        "production": [
+          "kuniezu"
+        ]
+      }
+    }
+  }
+}
