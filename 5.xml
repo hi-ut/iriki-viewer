@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="utf-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0"> <teiHeader> <fileDesc> <titleStmt> <title>5 斎宮</title> </titleStmt> <publicationStmt> <publisher>国立歴史民俗博物館メタ資料学研究センター</publisher> <idno type="PID">o:depcha.engi_shiki.1</idno> <availability> <p/> </availability> <date when="2020-03-31">31 March 2020</date> </publicationStmt> <sourceDesc> <msDesc> <msIdentifier> <settlement>千葉県佐倉市</settlement> <repository>国立歴史民俗博物館</repository> <collection>集英社版延喜式</collection> </msIdentifier> <msContents> <msItem> <author>藤原時平・藤原忠平</author> <title>延喜式</title> <note> <p>ここに史料の説明が入る。</p> </note> </msItem> </msContents> </msDesc> </sourceDesc> </fileDesc> <encodingDesc> <variantEncoding location="external" method="double-end-point"/> </encodingDesc> </teiHeader> <text> <body> <div type="original"><div ana="斎宮" n="5" subtype="条" type="式"> <head>斎宮</head> <div ana="斎宮" n="5.1" subtype="項" type="条" xml:id="o-5_1"> <head ana="定斎王"/> <p ana="項" xml:id="o-item05100101">                                     凡天皇即位者、定伊勢大神宮斎王、仍簡内親王未嫁者卜之、〈若無内親王者、依世次、簡定女王卜之、〉訖即遣勅使於彼家、                                     告示事由、神祇祐已上一人、率僚下随勅使共向、卜部解除、神部以<name ref="#木綿">木綿</name>着賢木、立殿四面及内外門、〈賢木・<name ref="#木綿">木綿</name>所司儲之、解除料散<name ref="#米">米</name>・<name ref="#酒">酒</name>肴等本家儲之、〉                                     其後択日時、百官為大祓、〈同尋常二季儀、〉</p> </div> <div ana="斎宮" n="5.2" subtype="項" type="条" xml:id="o-5_2"> <head ana="祓料"/> <p ana="項" xml:id="o-item05100201"> 祓料<lb/> <name ref="#木綿">木綿</name>・麻各大四斤、<name ref="#鹿皮">鹿皮</name>四枚、<name ref="#鹿角">鹿角</name>四枝、<name ref="#大刀">大刀</name>四口、<name ref="#弓">弓</name>四枝、<name ref="#箭">箭</name>四具、<name ref="#鍬">鍬</name>四口、<app>
+<lem wit="#特記なし #諸本">葈</lem>
+<rdg wit="#訳注本">枲</rdg>
+<note>葈　訳注本は「枲」。諸本「葈」。</note>
+</app>一斤、<name ref="#庸布">庸布</name>二段、<name ref="#酒">酒</name>・<name ref="#米">米</name>各四斗、                                     稲四束、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各八斤、<name ref="#腊">腊</name>卅斤、<name ref="#海藻">海藻</name>廿六斤、<name ref="#滑海藻">滑海藻</name>十斤、<name ref="#雑海菜">雑海菜</name>八斤、<name ref="#塩">塩</name>四斗、<name ref="#水戸">水戸</name>四口、匏四柄、軾料<name ref="#庸布">庸布</name>五段、<name ref="#短帖">短帖</name>一枚、薦二枚、                                           馬二疋、〈已上所司各送大祓所、〉又遣使奉幣大神宮、<app>
+<lem wit="#特記なし">為</lem>
+<rdg wit="#条本脚書">為字已下注也</rdg>
+<note>為　条本脚書「為字已下注也」あり。</note>
+</app>告卜定斎王之状也、〈其儀同神嘗祭使、〉</p>   </div> <div ana="斎宮" n="5.3" subtype="項" type="条" xml:id="o-5_3"> <head ana="祓禊"/> <p ana="項" xml:id="o-item05100301">                                     凡斎内親王定畢、即卜宮城内便所、為初斎院、祓禊而入、至于明年七月、斎於此院、更卜城外浄野、造野宮畢、                                           八月上旬、卜定吉日、臨河祓禊、即入野宮、自遷入日、至于明年八月、斎於此宮、九月上旬、卜定吉日、臨河祓禊、参入於伊勢<app>
+<lem wit="#特記なし">宮</lem>
+<rdg wit="#近本 京博本 #藤波本">「斎」宮</rdg>
+<rdg wit="#訳注本">斎宮</rdg>
+<note>宮　近本・京博本・藤波本は上に「斎」を補書する。また小野宮年中行事所引延喜式文にも「斎」あり。訳注本は「斎宮」。</note>
+</app>、</p>  </div> <div ana="斎宮" n="5.4" subtype="項" type="条" xml:id="o-5_4"> <head ana="木綿賢木"/> <p ana="項" xml:id="o-item05100401"> 凡斎宮諸門、常立着<name ref="#木綿">木綿</name>賢木〈月別立替、所須<name ref="#木綿">木綿</name>一斤・麻一斤八両、〉</p> </div> <div ana="斎宮" n="5.5" subtype="項" type="条" xml:id="o-5_5"> <head ana="忌詞"/> <p ana="項" xml:id="o-item05100501"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg/>
+<note>凡　九冊本朱首書および勢多本書入「依御短冊新加イ」、京博本朱首書「依御短冊新加」。</note>
+</app>忌詞、内七言、仏称中子、経称染<name ref="#紙">紙</name>、塔称阿良々伎、寺称瓦葺、僧称髪長、尼称女髪長、斎称片膳、                                           外七言、死称奈保留、病称夜須美、哭称<name ref="#塩">塩</name>垂、血称阿世、打称撫、<app>
+<lem wit="#条本">宍</lem>
+<rdg wit="#土本 #等">穴</rdg>
+<note>宍　土本等「穴」。条本により改める。</note>
+</app>称菌、墓称壌、又別忌詞、堂称香燃、優婆塞称角筈、</p>   </div> <div ana="斎宮" n="5.6" subtype="項" type="条" xml:id="o-5_6"> <head ana="河頭祓"/> <p ana="項" xml:id="o-item05100601"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg/>
+<note>凡　九冊本本朱首書「依御短冊准斎院式改作イニ」、京博本朱頭書「依御短冊唯斎院式改作」、勢多本書入「依御短冊准斎院式改作イ」。</note>
+</app>斎王将入于初斎院、臨河頭為祓、〈令陰陽寮択定日時、入野宮・伊勢斎宮之時准此、〉<app>
+<lem wit="#特記なし">前禊</lem>
+<rdg/>
+<note>前禊　京博本この前の細字双行に朱傍書「古本行別挙テ書也」あり。「前禊」より改行することを意味するか。</note>
+</app>二日、弁官率院別当已下并陰陽寮及諸司、                                     到河辺点定其地奏之、至于期日、斎王駕車赴向、走孺十二人、車副廿四人、取物十人、供膳韓櫃三合、同雑器物二荷、                                     盥器韓櫃・装物韓櫃各一合、衣服韓櫃二合、禄物韓櫃六合、〈担<name ref="#夫">夫</name>並用衛士、〉膳部六人、舎人二人、荷領十四人、蔵人所陪従六人、                                     内侍及院女別当已下、並従車後、〈内侍已下蔵人已上乗私車、釆女・女孺已下乗馬寮車、〉勅使参議一人、院別当一人、                                     四位二人、五位二人、六位四人、並前駆、左右近衛・左右兵衛各二人、左右門部各二人、左右火長各十人供奉、                                     左右京職官人、率兵士已上迎候、山城国司率郡司候京極路、弁一人、史一人、史生二人、官掌一人、                                           率供奉諸司就禊所行事、斎王到幕、臨流而禊、神祇官中臣進麻、宮主読祓詞、訖即賜勅使已下饌并禄、〈弁官<app>
+<lem wit="#土本 #等">録</lem>
+<rdg wit="#条本">禄</rdg>
+<note>録　土本等「禄」。条本により改める。</note>
+</app>見参、付院別当之、〉 既而廻帰入初斎院、即卜定供膳井立賢木、</p>    </div> <div ana="斎宮" n="5.7" subtype="項" type="条" xml:id="o-5_7"> <head ana="河頭祓料"/> <p ana="項" xml:id="o-item05100701"> 祓料<lb/>                                           五色<name ref="#絁">絁</name>各二尺、安芸<name ref="#木綿">木綿</name>大三両、<name ref="#木綿">木綿</name>大四両、麻大一斤、<name ref="#鍬">鍬</name>四口、<name ref="#鉄人像">鉄人像</name>二枚、荒服料<name ref="#調布">調布</name>一段、筥二合、<name ref="#酒">酒</name>・<name ref="#米">米</name><app>
+<lem wit="#条本 #九冊本">各</lem>
+<rdg wit="#土本"/>
+<note>各　土本無し。条本・九冊本等により補う。</note>
+</app>一斗、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各二斤、 <name ref="#海藻">海藻</name>四斤、<name ref="#腊">腊</name>四斤、<name ref="#塩">塩</name>四升、<name ref="#水戸">水戸</name>一口、坏・瓫各四口、柏四把、匏二柄、<app>
+<lem wit="#特記なし">蘗</lem>
+<rdg wit="#訳注本">黄蘗</rdg>
+<note>蘗　訳注本は貞享本傍書により上に「黄」を補う。</note>
+</app>四枚、<name ref="#食薦">食薦</name>二枚、<name ref="#輦籠">輦籠</name>一<app>
+<lem wit="#特記なし">腰</lem>
+<rdg/>
+<note>腰　訳注本校異は玄梁本に「脚」の校注あることを記す。</note>
+</app>、祝詞料<name ref="#庸布">庸布</name>二段、<name ref="#短帖">短帖</name>一枚、<name ref="#夫">夫</name>二人、朸二枚、</p>    </div> <div ana="斎宮" n="5.8" subtype="項" type="条" xml:id="o-5_8"> <head ana="初斎院祓清料"/> <p ana="項" xml:id="o-item05100801"> 斎王入初斎院祓清其院料<lb/> <name ref="#庸布">庸布</name>二段、<name ref="#木綿">木綿</name>三斤、麻四斤、烏装<name ref="#大刀">大刀</name>二口、<name ref="#弓">弓</name>二張、矢卌隻、<name ref="#鹿角">鹿角</name>四頭、<name ref="#鹿皮">鹿皮</name>四張、<name ref="#鍬">鍬</name>四口、<name ref="#米">米</name>・<name ref="#酒">酒</name>・<name ref="#腊">腊</name>・<name ref="#塩">塩</name>各四斗、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各五斤、                                     <name ref="#海藻">海藻</name>・<name ref="#滑海藻">滑海藻</name>・<name ref="#雑海菜">雑海菜</name>各九斤、柏廿把、稲四束、盆四口、匏四柄、<name ref="#輿籠">輿籠</name>一脚、<name ref="#葉薦">葉薦</name>二枚、馬二疋、祝詞料<name ref="#庸布">庸布</name>五段、<name ref="#短帖">短帖</name>一枚、<name ref="#夫">夫</name>二人、</p> </div> <div ana="斎宮" n="5.9" subtype="項" type="条" xml:id="o-5_9"> <head ana="初斎院大殿祭"/> <p ana="項" xml:id="o-item05100901"> 大殿祭〈野宮・伊勢斎宮准此〉<lb/>                                           糸二両、安芸<name ref="#木綿">木綿</name>七両、<name ref="#米">米</name>・<name ref="#酒">酒</name>各二升、【瓦并】一口、筥四合、小<app>
+<lem wit="#特記なし">杯</lem>
+<rdg wit="#訳注本">坏</rdg>
+<note>杯　訳注本「坏」とする。</note>
+</app>二口、案二脚、〈高三尺、〉給禄、中臣・忌部各<name ref="#絁">絁</name>二疋、宮主一疋、執案神部四人、各給<name ref="#調布">調布</name>一段、〈野宮給二人、〉</p>  </div> <div ana="斎宮" n="5.10" subtype="項" type="条" xml:id="o-5_10"> <head ana="忌火等祭"/> <p ana="項" xml:id="o-item05101001"> 忌火・庭火・御竈・井神祭〈遷入野宮之初所祭、毎月朔祭二竈料亦准此、〉<lb/>                                     五色薄<name ref="#絁">絁</name>各四尺、<name ref="#倭文">倭文</name>二尺、<name ref="#木綿">木綿</name>八両、麻一斤、<name ref="#庸布">庸布</name>一段、<name ref="#鍬">鍬</name>二口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各二升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各二斤、<name ref="#腊">腊</name>二升、<name ref="#塩">塩</name>一升、柏二把、【瓦并】・坏各一口、〈已上井神祭料、〉</p> </div> <div ana="斎宮" n="5.11" subtype="項" type="条" xml:id="o-5_11"> <head ana="庭火祭"/> <p ana="項" xml:id="o-item05101101"> 朔日庭火祭〈野宮・斎宮准此、〉<lb/>                                           五色薄<name ref="#絁">絁</name>各四尺、<name ref="#倭文">倭文</name>二尺、<name ref="#木綿">木綿</name>八両、麻一斤、<name ref="#庸布">庸布</name>二段、<name ref="#鍬">鍬</name>四口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各四升、<name ref="#鰒">鰒</name>二斤、<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各三斤、<name ref="#腊">腊</name>四升、<name ref="#塩">塩</name>二升二合、<app>
+<lem wit="#条本">柏二把</lem>
+<rdg wit="#土本 #近本 #等"/>
+<note>柏二把　土本・近本等無し。条本により補う。</note>
+</app>、【瓦并】・坏各二口、水瓫一口、</p>  </div> <div ana="斎宮" n="5.12" subtype="項" type="条" xml:id="o-5_12"> <head ana="解除料"/> <p ana="項" xml:id="o-item05101201"> 晦日解除料〈野宮・斎宮准此、〉<lb/> <name ref="#庸布">庸布</name>一丈四尺、御麻料安芸<name ref="#木綿">木綿</name>四両、麻八両、<name ref="#鉄人像">鉄人像</name>二枚、<name ref="#鍬">鍬</name>二口、<name ref="#酒">酒</name>二升、稲二束、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各一斤、<name ref="#腊">腊</name>二升、<name ref="#塩">塩</name>一升一合、坩・坏各一口、</p> </div> <div ana="斎宮" n="5.13" subtype="項" type="条" xml:id="o-5_13"> <head ana="臨時祓料"/> <p ana="項" xml:id="o-item05101301"> 臨時祓<app>
+<lem wit="#特記なし">料</lem>
+<rdg/>
+<note>料　この下に九冊本・京博本細字注「依御短尺以上斎宮諸門立賢木条注、新置此条イニ」、勢多本書入「○本　依御短冊以上斎宮諸門立賢木条注、新置此条イニ」あり。</note>
+</app><lb/> <name ref="#木綿">木綿</name>八両、麻二斤、</p>  </div> <div ana="斎宮" n="5.14" subtype="項" type="条" xml:id="o-5_14"> <head ana="初斎院装束"/> <p ana="項" xml:id="o-item05101401"> 初斎院装束<lb/>                                           白絹十疋、緋東<name ref="#絁">絁</name>二疋、両面二疋、白綾二疋、東<name ref="#絁">絁</name>八疋、<name ref="#綿">綿</name>二百屯、細<name ref="#布">布</name>廿<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本 #京博本">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」に作る。九冊本・京博本「端イニ」。</note>
+</app>、曝<name ref="#布">布</name>五十<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書 #京博本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」に作る。九冊本・京博本傍書「端イニ」。</note>
+</app>、紅花大十斤、支子一斛八斗、〈直、〉                                     白木斗帳一具、〈高八尺、方一丈、〉几帳六基、〈四尺二基、三尺二基、二尺二基、〉五尺屏風四帖、金装車一具、小行障二具、大翳二枚、〈入平文筥、〉                                           笠二枚、〈一日笠、<app>
+<lem wit="#特記なし">盛</lem>
+<rdg wit="#条本傍書 #近本傍書 #九冊本傍書 #京博本傍書 #梵本傍書">入</rdg>
+<note>盛　条本・近本・九冊本・京博本・梵本傍書「入」。</note>
+</app>緑袋、一雨笠、盛<name ref="#油">油</name><name ref="#絁">絁</name>袋、並加志部、〉捧壺二口、〈加柄并志部〉沓筥一合、車榻一脚、<name ref="#膳櫃">膳櫃</name>四合、〈各加榻并朸、〉<name ref="#銀">銀</name><app>
+<lem wit="#条本 #九冊本 #等 #近本訂正書">飯</lem>
+<rdg wit="#土本">鈑</rdg>
+<note>飯　土本「鈑」。条本・九冊本等および近本訂正書により改める。</note>
+</app>笥一合、                                           <name ref="#銀水鋎">銀水鋎</name>一合、<name ref="#銀盞">銀盞</name>一具、<name ref="#銀">銀</name>鍋子一口、<name ref="#銀">銀</name>【匙-是】四枚、<name ref="#漆">漆</name><name ref="#樽">樽</name>二合、手湯戸一合、〈加台、〉手洗一口、楾一合、貫簀一枚、雕木一<app>
+<lem wit="#特記なし">具</lem>
+<rdg wit="#訳注本">内匠式31条「脚」</rdg>
+<note>具　訳注本「内匠式31条「脚」」と記す。</note>
+</app>、                                     大壺一合、黒<name ref="#漆">漆</name>燈台四本、軽幄一具、床一脚、鎮子十二枚、韓櫃十合、〈已上供物、〉<name ref="#絁">絁</name>六十四疋、黄<name ref="#絁">絁</name>六疋、<name ref="#帛">帛</name>卅二疋、<name ref="#綿">綿</name>百八十屯、                                           <name ref="#調布">調布</name>八十六<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書 #京博本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」に作る。九冊本・京博本傍書「端イニ」。</note>
+</app>、〈已上、命婦已下舎人已上装束、〉車副廿四人、取物十人、装束卅四具、薬袋卅四枚、</p>       </div> <div ana="斎宮" n="5.15" subtype="項" type="条" xml:id="o-5_15"> <head ana="別当以下員"/> <p ana="項" xml:id="o-item05101501"> 初斎院別当以下<app>
+<lem wit="#特記なし">員</lem>
+<rdg/>
+<note>員　この下に九冊本・京博本細字注「依度々御短冊加別当イニ」、勢多本書入「○本　依度々御短冊如別(加歟)当イニ」あり。</note>
+</app><lb/>                                     別当五位二人、〈一人命婦、〉中臣一人、忌部一人、宮主一人、内舎人一人、大舎人二人、宮舎人十人、膳部三人、殿部三人、炊部一人、水部三人、                                     <name ref="#酒">酒</name>部一人、掃部三人、釆女二人、内女孺二人、乳母三人、宮女孺十四人、戸座一人、火炬小子二人、今良四人、仕丁十二人、女丁八人、                                     但遷野宮者、加内舎人一人、大舎人二人、神部四人、〈中臣連部二人、忌部連部二人、〉卜部三人、宮舎人十人、                                     炊部・<name ref="#酒">酒</name>部各二人、釆女四人、宮女孺廿五人、洗人二人、厠人二人、女丁八人、</p>  </div> <div ana="斎宮" n="5.16" subtype="項" type="条" xml:id="o-5_16"> <head ana="食法"/> <p ana="項" xml:id="o-item05101601"> 食法<lb/> 五位、〈<name ref="#米">米</name>二升、<name ref="#酒">酒</name>一升、東<name ref="#鰒">鰒</name>・<app>
+<lem wit="#特記なし #諸本">隠岐</lem>
+<rdg wit="#訳注本">隠伎</rdg>
+<note>隠岐　訳注本「隠伎」に統一する。諸本「隠伎」。</note>
+</app><name ref="#鰒">鰒</name>・烏賊各二両、<name ref="#鮨">鮨</name>一両三分、鮭三分之一、<name ref="#海藻">海藻</name>二両、<name ref="#塩">塩</name>五夕、醤一合、酢二夕、<name ref="#滓醤">滓醤</name>一合、〉中臣・忌部、〈<name ref="#米">米</name>二升、<name ref="#酒">酒</name>六合、<name ref="#鮨">鮨</name>三両二分、鮭三分之一、<name ref="#海藻">海藻</name>二両、<name ref="#塩">塩</name>四夕、醤三夕、酢二夕、<name ref="#滓醤">滓醤</name>一合、〉                                     大舎人・内女孺・宮女孺、〈<name ref="#米">米</name>一升六合、<name ref="#酒">酒</name>・魚・<name ref="#塩">塩</name>類同中臣、〉宮舎人、〈<name ref="#米">米</name>同大舎人、鮭六分之一、<name ref="#鮨">鮨</name>三両二分、<name ref="#塩">塩</name>四夕、<name ref="#滓醤">滓醤</name>一合、<name ref="#海藻">海藻</name>二両、〉諸伴部、〈<name ref="#米">米</name>同宮舎人、<name ref="#鮨">鮨</name>三両二分、<name ref="#塩">塩</name>四夕、<name ref="#海藻">海藻</name>二両、<name ref="#滓醤">滓醤</name>一合、〉内舎人・宮主、〈<name ref="#米">米</name>食本粮、余物同中臣、〉                                           釆女、〈<name ref="#米">米</name>食本粮、余物同宮舎人、〉卜部、〈<name ref="#米">米</name>食本粮、余物同伴部、〉戸座・火炬小子、〈<name ref="#米">米</name>一升二合、余物同伴部、〉今良・女丁、〈<name ref="#米">米</name>食本粮、<app>
+<lem wit="#特記なし">醤滓</lem>
+<rdg/>
+<note>醤滓　訳注本「諸本に異同はないが、上文の例によって「滓醤」に改めるべきか。ただし、「醤滓」（ヒシホノカス）の語もあるのでしばらく旧を存する。」とする。</note>
+</app>一合、<name ref="#海藻">海藻</name>一両、<name ref="#塩">塩</name>一夕、〉<lb/> 　右、計人数、毎月給之、若五位以下帯職事者、便以本粮充之、</p>   </div> <div ana="斎宮" n="5.17" subtype="項" type="条" xml:id="o-5_17"> <head ana="鎮野宮地祭"/> <p ana="項" xml:id="o-item05101701"> 鎮野宮地祭〈後鎮准此、〉<lb/> 五色薄<name ref="#絁">絁</name>各五尺、<name ref="#倭文">倭文</name>五尺、<name ref="#調布">調布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書 #京博本傍書">端イ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」に作る。九冊本・京博本傍書「端イ」。</note>
+</app>、<app>
+<lem wit="#土本朱傍書 #条本朱傍書 #等朱傍書">庸布五段</lem>
+<rdg/>
+<note>庸布五段　諸本本文に無し。土本・条本等朱傍書により補う。</note>
+</app>、<name ref="#木綿">木綿</name>大一斤、麻二斤、<name ref="#鍬">鍬</name>五口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各五升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>・<app>
+<lem wit="#条本補書">雑海菜各</lem>
+<rdg wit="#土本 #等"/>
+<rdg wit="#京博本朱傍書">雑海菜各イ</rdg>
+<rdg><p>雑海菜各　土本等無し。条本補書により補う。京博本朱傍書にも「雑海菜各イ」とあり。</p></rdg>
+</app>五斤、                                     <name ref="#腊">腊</name>・<name ref="#塩">塩</name>各五升、坩・坏各五口、匏二柄、柏廿把、<name ref="#食薦">食薦</name>五枚、席一枚、</p>    </div> <div ana="斎宮" n="5.18" subtype="項" type="条" xml:id="o-5_18"> <head ana="造野宮畢祓料"/> <p ana="項" xml:id="o-item05101801"> 造野宮畢祓料<lb/> <name ref="#庸布">庸布</name>二段、<name ref="#木綿">木綿</name>三斤、麻四斤、烏装横刀二口、<name ref="#弓">弓</name>二張、矢卌隻、<name ref="#鹿角">鹿角</name>四頭、<name ref="#鹿皮">鹿皮</name>四張、<name ref="#鍬">鍬</name>四口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各四斗、稲四束、<app>
+<lem wit="#条本">鰒</lem>
+<rdg wit="#土本 #等"/>
+<rdg wit="#九冊本傍書 #京博本傍書">鰒イニ</rdg>
+<note>鰒　土本等無し。条本により補う。九冊本・京博本傍書「鰒イニ」。</note>
+</app>・<name ref="#堅魚">堅魚</name>各五斤、 雑<name ref="#腊">腊</name>四斗、<name ref="#海藻">海藻</name>・<app>
+<lem wit="#条本補書">滑海藻雑海菜各</lem>
+<rdg wit="#土本 #等"/>
+<rdg wit="#九冊本傍書 #京博本傍書">滑海藻雑海菜各イ本ニ</rdg>
+<note>滑海藻雑海菜各　土本等無し。条本補書により補う。九冊本・京博本傍書「滑海藻雑海菜各イ本ニ」。</note>
+</app>九斤、<name ref="#塩">塩</name>四斗、盆四口、匏四柄、槲廿把、<name ref="#輿籠">輿籠</name>一口、<name ref="#葉薦">葉薦</name>二枚、馬二疋、祝詞料<name ref="#庸布">庸布</name>五段、</p>   </div> <div ana="斎宮" n="5.19" subtype="項" type="条" xml:id="o-5_19"> <head ana="野宮河頭禊"/> <p ana="項" xml:id="o-item05101901"> 斎王遷入野宮河頭禊<lb/>                                     其日斎王駕輿、〈輿者、主殿官人率史生、前禊二日設候、〉輿長八人、駕輿丁卌人、駕馬女廿人、〈乳母二人、蔵人六人、釆女四人、童女四人、掃部二人、御厠二人、〉                                     勅使大納言・中納言各一人、参議二人、四位・五位各四人、禊事既畢、賜饌并禄、〈勅使已下五位已上、内蔵寮饗之、六位已下大膳職、〉                                     訖即廻帰、便留野宮更賜禄、〈自余之儀、大略同初度禊、〉</p> </div> <div ana="斎宮" n="5.20" subtype="項" type="条" xml:id="o-5_20"> <head ana="野宮河頭禊祓料"/> <p ana="項" xml:id="o-item05102001"> 祓料<lb/> 五色<name ref="#絁">絁</name>各一尺、荒服料<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書 #京博本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本・京博本傍書「端イニ」。</note>
+</app>、筥一合、<name ref="#木綿">木綿</name>四両、麻一斤、<name ref="#鉄人像">鉄人像</name><app>
+<lem wit="#特記なし #諸本">二</lem>
+<rdg wit="#訳注本">一</rdg>
+<note>二　訳注本「一」に誤る。諸本「二」。</note>
+</app>枚、黄蘗四枚、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各二斤、<name ref="#腊">腊</name>四升、<name ref="#塩">塩</name>二升、<name ref="#米">米</name>・<name ref="#酒">酒</name>各四升、                                           【瓦并】一口、<name ref="#食薦">食薦</name>二枚、柏四把、瓫四口、坏四口、<name ref="#輦籠">輦籠</name>一<app>
+<lem wit="#特記なし">腰</lem>
+<rdg wit="#玄梁本傍書">脚</rdg>
+<note>腰　訳注本は玄梁本傍書「脚」を指摘する。</note>
+</app>、匏二柄、<name ref="#鍬">鍬</name>四口、祝詞料<name ref="#庸布">庸布</name>二段、<name ref="#夫">夫</name>二人、朸二<app>
+<lem wit="#特記なし #諸本">枝</lem>
+<rdg wit="#訳注本">枚</rdg>
+<note>枝　訳注本は「枚」。諸本「枝」。</note>
+</app>、</p>     </div> <div ana="斎宮" n="5.21" subtype="項" type="条" xml:id="o-5_21"> <head ana="野宮祓清料"/> <p ana="項" xml:id="o-item05102101"> 斎王遷入野宮祓清其宮料<lb/> <name ref="#庸布">庸布</name>二<app>
+<lem wit="#特記なし">段</lem>
+<rdg wit="#九冊本傍書 #京博本傍書">端イニ</rdg>
+<note>段　九冊本・京博本傍書「端イニ」。</note>
+</app>、<name ref="#木綿">木綿</name>・麻各二斤、<name ref="#鹿皮">鹿皮</name>二張、<name ref="#鍬">鍬</name>二口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各二斗、稲四束、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各五斤、雑<name ref="#腊">腊</name>二斗、<name ref="#海藻">海藻</name>・<app>
+<lem wit="#土本朱補書 #条本朱補書 #等朱補書">滑海藻各</lem>
+<rdg/>
+<note>滑海藻各　土本・条本等朱補書により補う。</note>
+</app>十斤、<name ref="#塩">塩</name>四升、盆二口、                                     匏二柄、槲四把、<name ref="#輿籠">輿籠</name>一脚、<name ref="#裹葉薦">裹葉薦</name>二枚、帖一枚、【瓦并】二口、祝詞料<name ref="#庸布">庸布</name>五段、<name ref="#夫">夫</name>二人、</p>   </div> <div ana="斎宮" n="5.22" subtype="項" type="条" xml:id="o-5_22"> <head ana="野宮祈年祭"/> <p ana="項" xml:id="o-item05102201"> 二月祈年祭<app>
+<lem wit="#特記なし">廿一</lem>
+<rdg wit="#訳注本">十九</rdg>
+<rdg wit="#京博本朱傍書">卜度神二前イ「庭イ」</rdg>
+<rdg wit="#鈴鹿本書入">卜庭神二所イ祢本</rdg>
+<note>廿一　訳注本「底「廿一座」。分注ノ座数並ビニ下文29条ノ座数及ビ分注ニヨリテ改ム。」として「十九」に改める。今、諸本に従う。なお京博本朱傍書「卜度神二前イ」「庭イ」、鈴鹿本書入「卜庭神二所イ祢本」あり。</note>
+</app>座〈大宮売神四前、御門神八前、忌火神一前、庭火神一前、竈神二前、御井神二前、地主神一前、〉<lb/>                                     座別絹五尺、五色薄<name ref="#絁">絁</name>各一尺、<name ref="#倭文">倭文</name>一尺、<name ref="#庸布">庸布</name>一丈、<name ref="#木綿">木綿</name>二両、麻五両、槍鋒一口、<name ref="#鍬">鍬</name>一口、<name ref="#酒">酒</name>四升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各六両、                                     <name ref="#腊">腊</name>二升、<name ref="#塩">塩</name>一升、坩・坏各一口、<lb/>                                           　右、供神料物如前、但宮売神加馬一疋、其総祭所須缶二口、匏二柄、裹調薦四枚、<app>
+<lem wit="#特記なし #諸本">一丈</lem>
+<rdg wit="#訳注本"/>
+<note>一丈　訳注本「薦の単位は「一枚小半」「半枚」の例も含めて「枚」が大部分であり、「五尺」「三尺」の例も若干あるが、「枚」と「丈尺」とを併用する例はない」としてこの二字を削除する。諸本あり。あるいは説明注か。</note>
+</app>、<name ref="#短帖">短帖</name>一枚、祝詞料<name ref="#庸布">庸布</name>五段、造幣忌部三人明衣料<name ref="#調布">調布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>三丈五尺、</p>    </div> <div ana="斎宮" n="5.23" subtype="項" type="条" xml:id="o-5_23"> <head ana="月次祭"/> <p ana="項" xml:id="o-item05102301"> 六月祭〈十二月准此〉<lb/> 月次祭<lb/>                                     　右、供神調度、准祈年祭、但除<name ref="#鍬">鍬</name>、</p> </div> <div ana="斎宮" n="5.24" subtype="項" type="条" xml:id="o-5_24"> <head ana="月次祭大殿祭"/> <p ana="項" xml:id="o-item05102401"> 大殿祭<lb/> 　右、供料并中臣等禄、<app>
+<lem wit="#条本傍書">並</lem>
+<rdg wit="#土本 #等">并</rdg>
+<note>並　土本等「并」。条本傍書により改める。</note>
+</app>准上例、但減筥二合、</p>  </div> <div ana="斎宮" n="5.25" subtype="項" type="条" xml:id="o-5_25"> <head ana="御贖料"/> <p ana="項" xml:id="o-item05102501"> 御贖料<lb/>                                           五色薄<name ref="#絁">絁</name>各二尺、糸三両、<name ref="#倭文">倭文</name>二尺、安芸<name ref="#木綿">木綿</name>一斤、凡<name ref="#木綿">木綿</name>八両、麻六両、<name ref="#鍬">鍬</name>四口、<name ref="#鉄人像">鉄人像</name>二枚、<name ref="#庸布">庸布</name>二段、<name ref="#布">布</name>御服二領料<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、 裳二腰料<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、被二帖料<name ref="#布">布</name>二<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、〈着<name ref="#綿">綿</name>各四屯、自余物見縫殿式、〉帷二条、袜二両料<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二尺、帯二条料絹七尺、履二両、                                     筥六合、〈二合方二尺、四合方一尺五寸、〉<name ref="#米">米</name>・<name ref="#酒">酒</name>各四斗、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各一斤、<name ref="#腊">腊</name>二斗、<name ref="#塩">塩</name>二升、水盆・坩・坏各二口、                                           <name ref="#裹葉薦">裹葉薦</name>一枚、小川<name ref="#竹">竹</name>廿株、<name ref="#調布">調布</name>四<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本 #九冊本傍書">端</rdg>
+<rdg wit="#京博本傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">祢端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本傍書「端イニ」、九冊本傍書「端」、鈴鹿本書入「祢端イニ」。</note>
+</app>、〈卜部六人明衣料、人別二丈八尺、〉中臣〈男一人、女一人、〉禄料各絹二疋、</p>      </div> <div ana="斎宮" n="5.26" subtype="項" type="条" xml:id="o-5_26"> <head ana="大祓"/> <p ana="項" xml:id="o-item05102601"> 野宮六月晦日大祓〈十二月准此、〉<lb/> <name ref="#庸布">庸布</name>二段、<name ref="#木綿">木綿</name>二斤、枲八両、麻四斤、<name ref="#大刀">大刀</name>二口、<name ref="#弓">弓</name>二張、篦一百隻、<name ref="#鍬">鍬</name>二口、<app>
+<lem wit="#特記なし">鳥</lem>
+<rdg wit="#訳注本 #貞享本">烏</rdg>
+<note>鳥　訳注本は貞享本により「烏」に改める。</note>
+</app>羽二翼、<name ref="#鹿角">鹿角</name>二頭、<name ref="#鹿皮">鹿皮</name>二張、 <name ref="#米">米</name>・<name ref="#酒">酒</name>各二斗、稲四束、<name ref="#鰒">鰒</name>二斤、<name ref="#堅魚">堅魚</name>四斤、<name ref="#海藻">海藻</name>・<app>
+<lem wit="#土本傍書 #条本傍書 #九冊本傍書 #等傍書 #慶長本 #等">滑海藻</lem>
+<rdg wit="#土本 #条本 #等"/>
+<note>滑海藻　土本・条本等脱。土本・条本・九冊本等傍書および慶長本等により補う。</note>
+</app>@<app>
+<lem wit="#近本朱傍書 #京博本朱傍書">各</lem>
+<rdg wit="#土本 #等"/>
+<note>各　土本等無し。近本・京博本朱傍書により補う。</note>
+</app>十斤、<name ref="#腊">腊</name>・<name ref="#塩">塩</name>各二斗、水盆二口、匏二柄、薦二枚、馬二疋、〈其在国之日四疋、〉祝詞料<name ref="#庸布">庸布</name>五段、<name ref="#短帖">短帖</name>一枚、</p>    </div> <div ana="斎宮" n="5.27" subtype="項" type="条" xml:id="o-5_27"> <head ana="鎮火祭"/> <p ana="項" xml:id="o-item05102701"> 野宮鎮火祭<lb/>                                     五色薄<name ref="#絁">絁</name>各四尺、<name ref="#倭文">倭文</name>四尺、<name ref="#庸布">庸布</name>二段、<name ref="#木綿">木綿</name>五両、麻一斤、<name ref="#鍬">鍬</name>四口、<name ref="#酒">酒</name>四升、<name ref="#鰒">鰒</name>一斤五両、<name ref="#堅魚">堅魚</name>一斤五両、<name ref="#腊">腊</name>四升、<name ref="#塩">塩</name>二升、<name ref="#海藻">海藻</name>一斤五両、                                     【瓦并】四口、坩四口、坏四口、槲四把、匏四柄、薦一枚、</p> </div> <div ana="斎宮" n="5.28" subtype="項" type="条" xml:id="o-5_28"> <head ana="道饗祭"/> <p ana="項" xml:id="o-item05102801"> 野宮道饗祭<lb/>                                     五色薄<name ref="#絁">絁</name>各一丈、<name ref="#倭文">倭文</name>四尺、<name ref="#庸布">庸布</name>二段、<name ref="#木綿">木綿</name>一斤十両、麻七斤五両、<name ref="#鍬">鍬</name>四口、牛・猪・鹿・熊皮各二張、<name ref="#米">米</name>・<name ref="#酒">酒</name>各四斗、稲四束、<name ref="#鰒">鰒</name>二斤五両、<name ref="#堅魚">堅魚</name>五斤、                                     <name ref="#腊">腊</name>八升、<name ref="#塩">塩</name>二升、<name ref="#海藻">海藻</name>五斤、盆四口、坏四口、<name ref="#藁">藁</name>四囲、薦一枚、</p> </div> <div ana="斎宮" n="5.29" subtype="項" type="条" xml:id="o-5_29"> <head ana="野宮新嘗祭"/> <p ana="項" xml:id="o-item05102901"> 十一月祭<lb/>                                           新嘗祭廿八座〈炊殿忌火・庭火神二前、水部忌火・庭火神二前、殿部御竈神一前、御川水神一前、<name ref="#酒">酒</name>殿神一前、膳部御食神一前、大炊竈神一前、自余供祈年祭・月<app>
+<lem wit="#特記なし #諸本">次</lem>
+<rdg wit="#訳注本">次祭</rdg>
+<note>次　訳注本この下に「祭」を意補。諸本無し。</note>
+</app>神是、〉<lb/> 座別絹五尺、<name ref="#倭文">倭文</name>并五色薄<name ref="#絁">絁</name>各一尺、<name ref="#庸布">庸布</name>一丈四尺、<name ref="#木綿">木綿</name>二両、麻五両、<name ref="#酒">酒</name>四升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>・<app>
+<lem wit="#土本傍書 #条本傍書 #等傍書 #慶長本 #等">滑海藻</lem>
+<rdg wit="#土本 #条本 #等"/>
+<note>滑海藻　土本・条本等脱。土本・条本等傍書および慶長本等により補う。</note>
+</app>各六両、<name ref="#腊">腊</name>二升、<name ref="#塩">塩</name>一升、 壺・坏各一口、馬一疋、〈宮売神料缶二口、匏二柄、<name ref="#短帖">短帖</name>一枚、〉<lb/>                                           右、供神料物如前、但預祈年神、座別加槍鋒一口、其惣祭所須<name ref="#葉薦">葉薦</name>六枚、祝詞料<name ref="#庸布">庸布</name>五段、造幣忌部三人明衣料<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>三丈五尺、</p>    </div> <div ana="斎宮" n="5.30" subtype="項" type="条" xml:id="o-5_30"> <head ana="野宮供新嘗料"/> <p ana="項" xml:id="o-item05103001"> 供新嘗料<lb/> 絹二丈、糸二両、紵一丈二尺、<app>
+<lem wit="#特記なし #諸本">暴</lem>
+<rdg wit="#訳注本">曝</rdg>
+<note>暴　訳注本「曝」。諸本「暴」。</note>
+</app><name ref="#布">布</name>一丈二尺、細<name ref="#布">布</name>一丈六尺、<name ref="#調布">調布</name>三<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本傍書「端イニ」。</note>
+</app>一丈、<name ref="#木綿">木綿</name>二斤四両、刀子二枚、長刀子十枚、短刀子十枚、                                     <name ref="#米">米</name>四斗、粟二斗、筥十四合、〈径一尺五寸、〉麁筥二合、明櫃三合、案十脚、切案二脚、土火爐二脚、槌・砧各二枚、土盤・椀・堝各十口、                                     陶椀八口、盤廿口、鉢八口、瓼五口、平居【瓦并】五口、都婆波・多志良加各四口、 <app>
+<lem wit="#特記なし">土盆陶叩盆四口</lem>
+<rdg/>
+<note>土盆陶叩盆四口　訳注本「「土盆」の下に数量を脱しているか、あるいは「四口」の上に「各」字を補うべきか、いずれかであろう。」とする。</note>
+</app>、匜八口、土手湯盆・陶手洗各二口、洗盤六口、<name ref="#酒">酒</name>盞十口、片垸廿口、〈十口陶、〉高坏廿口、〈十口陶、〉                                     盆四口、<name ref="#酒">酒</name>垂四口、筥坏廿口、陶臼二口、蝦鰭槽二隻、匏十八柄、〈小二、〉<name ref="#油">油</name>三升、槲四俵、日蔭二荷、</p>    </div> <div ana="斎宮" n="5.31" subtype="項" type="条" xml:id="o-5_31"> <head ana="新嘗祭大殿祭"/> <p ana="項" xml:id="o-item05103101"> 大殿祭〈准上、〉</p> </div> <div ana="斎宮" n="5.32" subtype="項" type="条" xml:id="o-5_32"> <head ana="主神司月料"/> <p ana="項" xml:id="o-item05103201"> 野宮主神司所請月料<lb/> <name ref="#紙">紙</name>廿張、<name ref="#筆">筆</name>一管、<name ref="#亀甲">亀甲</name>一枚、波々可五枚、〈<name ref="#亀甲">亀甲</name>・波々可者、神祇官所行、〉</p> </div> <div ana="斎宮" n="5.33" subtype="項" type="条" xml:id="o-5_33"> <head ana="鎮炊殿祭"/> <p ana="項" xml:id="o-item05103301"> 鎮新造炊殿祭<lb/>                                           絹二丈、五色薄<name ref="#絁">絁</name>各二尺、<name ref="#倭文">倭文</name>二尺、<name ref="#木綿">木綿</name>・麻各二斤、<name ref="#鍬">鍬</name>四口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各四升、稲四束、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各四斤、<name ref="#腊">腊</name>五升、<name ref="#海藻">海藻</name>・<app>
+<lem wit="#土本傍書 #条本傍書 #慶長本 #等">雑海菜各</lem>
+<rdg wit="#土本 #条本 #等"/>
+<note>雑海菜各　土本・条本等脱。土本・条本傍書および慶長本等により補う。</note>
+</app>四斤、                                     <name ref="#塩">塩</name>二斤、【瓦并】・坏各四口、柏四把、薦一枚、祝詞料<name ref="#庸布">庸布</name>二段、</p>  </div> <div ana="斎宮" n="5.34" subtype="項" type="条" xml:id="o-5_34"> <head ana="忌火庭火祭"/> <p ana="項" xml:id="o-item05103401"> 新造炊殿忌火・庭火祭<lb/>                                           五色薄<name ref="#絁">絁</name>各四尺、<name ref="#倭文">倭文</name>四尺、絹二疋、糸二絇、<name ref="#調布">調布</name>二<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、<name ref="#庸布">庸布</name>二段、<name ref="#木綿">木綿</name>・麻各二斤、<name ref="#米">米</name>・<name ref="#酒">酒</name>各二斗、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各二斤、<name ref="#腊">腊</name>・<name ref="#海藻">海藻</name>各<app>
+<lem wit="#特記なし">二</lem>
+<rdg wit="#条本朱傍書 #京博本墨傍書">一</rdg>
+<rdg wit="#鈴鹿本書入">一、祢傍書</rdg>
+<note>二　条本朱傍書・京博本墨傍書「一」。鈴鹿本書入「一、祢傍書」。</note>
+</app>斤、<name ref="#塩">塩</name>二斤、<name ref="#鍬">鍬</name>四口、</p>   </div> <div ana="斎宮" n="5.35" subtype="項" type="条" xml:id="o-5_35"> <head ana="卜戸座火炬"/> <p ana="項" xml:id="o-item05103501"> 卜戸座一人、〈取山城国愛宕郡鴨県主氏童子、〉<lb/>                                     火炬二人〈取同国葛野郡秦氏童女、〉<lb/> 　右、始自初斎院至于参入大神宮奉仕、其斎王入伊勢斎宮<app>
+<lem wit="#条本傍書">畢即</lem>
+<rdg wit="#土本朱傍書 #近本朱傍書 #等朱傍書">即</rdg>
+<note>畢即　土本・近本等「畢」に朱傍書「即」。条本は「畢」と「各」の間に「即」を傍書する。条本に従い「即」を補入と判断する。</note>
+</app>各替却、</p>  </div> <div ana="斎宮" n="5.36" subtype="項" type="条" xml:id="o-5_36"> <head ana="野宮装束"/> <p ana="項" xml:id="o-item05103601"> 遷野宮装束<lb/>                                     白絹廿疋、<name ref="#綿">綿</name>五十屯、紅花廿五斤、白木斗帳一具、几帳四基、〈三尺二基、二尺二基、〉五尺屏風四帖、輿一具、腰輿一具、菅翳二具、                                           笠二具、〈一盛緑袋、一盛<name ref="#油">油</name><name ref="#絁">絁</name>袋、〉刺扇一枚、朱<name ref="#漆">漆</name>台盤四前、雕木一具、〈已上供料、〉絹七十二疋、細<name ref="#布">布</name>十<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、<name ref="#調布">調布</name>一百廿<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、銭四貫文、〈已上、命婦已下洗人已上装束、〉                                           当色六領、〈別当五位・内舎人・中臣・忌部等六人料、〉<name ref="#調布">調布</name>廿五<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>一丈二尺、〈卜部以下今良以上装束、〉輿長八人、緋服、<name ref="#布">布</name>帯、駕輿丁卌人、 纁衫、紅褶、<name ref="#布">布</name>帯、<app>
+<lem wit="#土本朱傍書 #条本朱傍書 #等朱傍書">布</lem>
+<rdg wit="#土本 #条本 #等"/>
+<note>布　土本・条本等脱、同本朱傍書により補う。</note>
+</app>袴、頭巾、脛巾、黄<name ref="#布">布</name>衫卌領、袴卌腰、<name ref="#布">布</name>帯卌条、〈左右京職進担<name ref="#夫">夫</name>各廿人料、事了返上、〉</p>     </div> <div ana="斎宮" n="5.37" subtype="項" type="条" xml:id="o-5_37"> <head ana="野宮年料供物"/> <p ana="項" xml:id="o-item05103701"> 年料供物<lb/>                                           絹七十二疋五丈五寸、長絹十五疋、白絹十疋、<name ref="#帛">帛</name>廿疋、白綾二疋、<name ref="#綿">綿</name>一百七十二屯、紵五<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>四丈、細<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈二尺、糸十斤、〈已上冬御服料、自九月迄二月、〉                                     絹六十疋、<name ref="#帛">帛</name>卅疋、<name ref="#綿">綿</name>一百屯、〈已上夏御服料、自三月迄八月、〉</p> <p ana="項" xml:id="o-item05103702">                                     斗帳一具、壁代帳十一条、幌三条、〈縫殿寮縫備、毎年供之、但斗帳骨内匠寮作一度供之、〉                                     支子一石八斗、紅花廿六斤、酢八斗、簾四張、席二枚、両面端帖三枚、<name ref="#短帖">短帖</name>一枚、緑端帖十枚、〈已上秋冬料、〉春夏料亦如是、但為薄帖、〈掃部寮作備、毎年二季供之、但簾隼人司供之、〉</p> <p ana="項" xml:id="o-item05103703"> 白<name ref="#布">布</name>端帖七枚、<name ref="#短帖">短帖</name>三枚、〈已上乳母料、〉黄<name ref="#布">布</name>端帖三枚、<app>
+<lem wit="#雲州本傍書 #勢多本傍書">折</lem>
+<rdg wit="#土本 #条本 #等">料</rdg>
+<note>折　土本・条本等「料」。雲州本および勢多本傍書により改める。</note>
+</app>薦帖九十枚、<name ref="#短帖">短帖</name>十三枚、長帖二枚、席百八枚、長席二枚、調薦二百廿三枚、簀七十五枚、〈已上官人已下料、〉</p> <p ana="項" xml:id="o-item05103704"> <name ref="#油">油</name><name ref="#絁">絁</name>一疋四尺、裏料<name ref="#絁">絁</name>一疋四尺、〈膳部・<name ref="#酒">酒</name>部・水部所前案【巾巴】料、〉                                           絹一疋一丈九尺五寸、〈一丈一尺五寸膳部所篩十口料、一丈四尺<name ref="#酒">酒</name>部所篩六口并御<name ref="#酒">酒</name>案【巾巴】料、五丈水部所篩廿口<app>
+<lem wit="#訳注本">并</lem>
+<rdg wit="#土本 #条本 #等"/>
+<note>并　土本・条本等脱。訳注本にならい意補する。</note>
+</app>案【巾巴】料、四尺戸座所篩四口料、〉                                           白絹六尺、〈<name ref="#酒">酒</name>部所料、〉糸七両、〈膳部所三両、水部所二両、<name ref="#酒">酒</name>部所二両、〉細<name ref="#布">布</name>八<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書 #京博本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本・京博本傍書「端イニ」。</note>
+</app>二丈八尺、〈六<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈四尺膳部所料、二<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>四尺<name ref="#酒">酒</name>部所料、〉 <app>
+<lem wit="#特記なし">望陀布一端、〈水部所料、〉曝布一端二尺、〈一丈二尺酒部所料、三丈水部所料、〉</lem>
+<rdg wit="#条本"/>
+<note>望陀布一端、〈水部所料、〉曝布一端二尺、〈一丈二尺酒部所料、三丈水部所料、〉　条本脱。</note>
+</app>@<app>
+<lem wit="#特記なし">調布七段九尺</lem>
+<rdg/>
+<note>調布七段九尺　訳注本「この数値は四丈一端とすれば分注と合うが、四丈一端制は一般に細布に適用されるもので、調布は四丈二尺一端制を原則とする。しかし式内においても調布四丈一端の例が他にあるので、しばらく本のままとする。」と記す。</note>
+</app>、〈四<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>八尺膳部所料、三丈一尺<name ref="#酒">酒</name>部所料、一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>一丈九尺水部所料、三丈一尺戸座所料、〉 東席六枚、〈二枚水部所料、四枚戸座所料、〉</p> <p ana="項" xml:id="o-item05103705">                                           調韓櫃五合、〈一合主神所料、二合膳部所料、一合<name ref="#酒">酒</name>部所料、一合水部所料、〉<app>
+<lem wit="#特記なし">板</lem>
+<rdg wit="#近本">飯</rdg>
+<rdg wit="#京博本頭書">飯歟</rdg>
+<note>板　近本は「飯」に訂正。京博本頭書「飯歟」。</note>
+</app>笥・藺笥各五合、折櫃十四合、〈八合膳部所料、二合水部所料、四合戸座所料、〉                                     杓廿三柄、〈八柄膳部所料、三柄<name ref="#酒">酒</name>部所料、十柄水部所料、二柄戸座所料、〉木盤一百八十二口、〈百六十二口膳部所料、廿口<name ref="#酒">酒</name>部所料、〉                                           水瓺麻笥<app>
+<lem wit="#考異">六</lem>
+<rdg wit="#諸本">各六</rdg>
+<note>六　諸本「各六」。考異に従い「各」を衍と見て削除する。</note>
+</app>口、〈二口膳部所料、一口<name ref="#酒">酒</name>部所料、二口水部所料、<app>
+<lem wit="#九冊本傍書 #京博本傍書">一</lem>
+<rdg wit="#土本 #等">二</rdg>
+<rdg wit="#鈴鹿本書入">一祢傍書</rdg>
+<note>一　土本等「二」。九冊本・京博本傍書により改める。鈴鹿本書入「一祢傍書」。</note>
+</app>口戸座所料、〉<app>
+<lem>籬</lem>
+<rdg wit="#諸本">蘿</rdg>
+<rdg wit="#九冊本傍訓 #京博本傍訓 #版本傍訓">シタミ</rdg>
+<note>籬　諸本「蘿」。「籬」との通用と判断する。九冊本・京博本・版本傍訓「シタミ」。</note>
+</app>口、〈一口<name ref="#酒">酒</name>部所料、二口水部所料、〉水麻笥十一口、〈四口膳部所料、二口<name ref="#酒">酒</name>部所料、四口水部所料、一口戸座所料、〉                                     大笥二合、〈戸座所料、〉<name ref="#酒台">酒台</name>五十口、<name ref="#酒">酒</name>盞百五口、〈<name ref="#酒">酒</name>部所料、〉楊筥卅合、〈九合各方一尺五寸、十一合各方一尺、五合各方一尺二寸、五合長各一尺二寸、広五寸、一合主神司料、廿合膳部所料、五合<name ref="#酒">酒</name>部所料、二合水部所料、二合戸座所料、〉                                     供飯被料<name ref="#帛">帛</name>一疋一丈五尺、<name ref="#綿">綿</name>十二屯、〈膳部所料、〉砥二顆、〈同所料、〉</p> <p ana="項" xml:id="o-item05103706"> <name ref="#銀盞">銀盞</name>一合、<name ref="#銀">銀</name>鋺一合、<name ref="#銀">銀</name><app>
+<lem wit="#特記なし">匕四枚銀</lem>
+<rdg wit="#条本">匕枚銀</rdg>
+<note>匕四枚銀　条本この四字を脱し傍書補入する。</note>
+</app>鍋子一口、〈並供御料、長用、〉<app>
+<lem wit="#特記なし">檳榔葉</lem>
+<rdg wit="#九冊本傍書 #勢多本朱書">扇蝿云</rdg>
+<rdg wit="#京博本傍書">扇蝿云々本定</rdg>
+<note>檳榔葉　九冊本傍書・勢多本朱書「扇蝿云」、京博本傍書「扇蝿云々本定」。</note>
+</app>二枚、〈戸座所料、〉 <app>
+<lem wit="#特記なし">坩</lem>
+<rdg wit="#条本">供匕四枚</rdg>
+<note>坩　条本この上に「供匕四枚」あり。21の脱字と関わるか。</note>
+</app>三合、〈一合受一斗、二合受五升、〉陶手洗十六口、臼八口、【瓦并】五口、〈一口受二升、四口<app>
+<lem wit="#条本">各</lem>
+<rdg wit="#特記なし #等"/>
+<note>各　土本等無し。条本により補う。</note>
+</app>受一升、〉叩戸十四口、<name ref="#塩">塩</name>坏六<app>
+<lem wit="#特記なし">合</lem>
+<rdg/>
+<note>合　訳注本「典本・国史大系本「口」ニ作ル（両本トモ校注ナシ）。コノ方是カ。」と記す。</note>
+</app>、埦卅合、罇二口、                                     盤卅口、由加二口、麁筥廿八合、<name ref="#鰒">鰒</name>切二具、打刀子二枚、刀子十一枚、〈十枚長各五寸、広三分、一枚長一尺、広一寸、〉</p> <p ana="項" xml:id="o-item05103707"> 韓竈二口、銅旅竈一具、〈長用、〉木<name ref="#蓋">蓋</name>十一枚、                                           鉄火爐一枚、〈長用、〉土火爐四枚、𨨞一柄、小𨨞二柄、<name ref="#酒">酒</name>槽六隻、釜四口、〈一口受一石、二口各受五斗、煎釜一口、受五斗、長用、〉箕三枚、簀四枚、小匏卅二<app>
+<lem wit="#特記なし">柄</lem>
+<rdg wit="#近本">枚</rdg>
+<note>柄　近本「枚」。</note>
+</app>、橧一口、〈受二石、〉円槽三隻、                                     洗槽三隻、御前案三脚、〈長各三尺、高八寸、広一尺八寸、〉外居案五脚、〈長各四尺、広二尺、高二尺八寸、〉御水案二脚、匜・手洗各一口、                                     手水案二脚、<name ref="#酒">酒</name>案一脚、〈已上五脚、長各三尺、広一尺八寸、高一尺八寸、〉中取八脚、切案六脚、<name ref="#酒">酒</name>垂一口、<name ref="#塩">塩</name>臼二口、槲案四脚、砥一顆、小𨨞三柄、鑿三枚、〈已上三物、主神所料、〉                                     <name ref="#鍬">鍬</name>八口、〈掃除料、〉<name ref="#塩">塩</name>五石、〈漬雑給菜料、〉黒<name ref="#米">米</name>卌石、〈雑給<name ref="#酒">酒</name>料、〉𤭖五口、〈長用、〉瓼五口、〈長用、〉缶十口、<name ref="#油">油</name>一斗二升、<name ref="#油">油</name>坏一百廿口、                                     後盤卌口、平【瓦并】二口、〈十二月晦夜料、〉墨三廷、</p>                       </div> <div ana="斎宮" n="5.38" subtype="項" type="条" xml:id="o-5_38"> <head ana="野宮月料"/> <p ana="項" xml:id="o-item05103801"> 月料〈小月物<app>
+<lem wit="#条本 #近本 #等">別</lem>
+<rdg wit="#土本">引</rdg>
+<note>別　土本「引」。条本・近本等により改める。</note>
+</app>減卅分之一〉<lb/>                                           稲卅九束一把六分、粟十七束八把、〈並大炊寮、毎月舂供、〉<app>
+<lem wit="#条本 #近本 #等">東</lem>
+<rdg wit="#土本">束</rdg>
+<note>東　土本「束」。条本・近本等により改める。</note>
+</app><name ref="#鰒">鰒</name>廿四斤六両、雑<name ref="#鰒">鰒</name>・煮<name ref="#堅魚">堅魚</name>各十一斤四両、烏賊・押年魚各七斤八両、乞魚皮十五斤、 鰯魚汁一斗五升、<app>
+<lem wit="#近本傍書 #等">腸</lem>
+<rdg wit="#土本 #等">腹</rdg>
+<note>腸　土本等「腹」。近本傍書等により改める。</note>
+</app>漬<name ref="#鰒">鰒</name>・<app>
+<lem wit="#条本 #近本 #等">貽</lem>
+<rdg wit="#土本">貼</rdg>
+<note>貽　土本「貼」。条本・近本等により改める。</note>
+</app>貝<name ref="#鮨">鮨</name>各一斗五升、<app>
+<lem wit="#京博本朱傍書 #貞享本傍書 #等">堅</lem>
+<rdg wit="#土本 #等">塩</rdg>
+<note>堅　土本等「塩」。京博本朱傍書・貞享本傍書等により改める。</note>
+</app>魚廿四斤六両、鯛楚割・鮫楚割各七斤八両、大鯖九十隻、<app>
+<lem wit="#特記なし">雑魚鮨</lem>
+<rdg wit="#九冊本傍書 #京博本傍書">課時鮮物云々イ本ニ</rdg>
+<rdg wit="#鈴鹿本書入">祢本傍注、課時鮮物云々イ本ニ</rdg>
+<rdg wit="#勢多本書入">課時鮮物云フ、イ本</rdg>
+<note>雑魚鮨　九冊本・京博本傍書「課時鮮物云々イ本ニ」、鈴鹿本書入「祢本傍注、課時鮮物云々イ本ニ」、勢多本書入「課時鮮物云フ、イ本」。</note>
+</app>六斗、芥子・<name ref="#堅魚">堅魚</name>煎汁各三升、口味直銭、〈其数准時沽価充之、〉                                           紫菜・海松各二斤十三両、<name ref="#海藻">海藻</name>・凝海菜各十一斤四両、<name ref="#塩">塩</name>・搗<app>
+<lem wit="#特記なし">栗</lem>
+<rdg wit="#訳注本">栗子</rdg>
+<note>栗　訳注本下に「子」を意補。諸本無し。</note>
+</app>各三斗、生<app>
+<lem wit="#特記なし">栗</lem>
+<rdg wit="#訳注本">栗子</rdg>
+<note>栗　訳注本下に「子」を意補。諸本無し。</note>
+</app>六斗、豉六升、醤二斗四升、醤瓜卅顆、味醤一斗二升、糖一斗五升、                                     糯<name ref="#米">米</name>・大豆・小豆・<name ref="#小麦">小麦</name>・黍子・胡麻子・葟子各三斗、<name ref="#米">米</name>二斗一升、酢一斗二升、<name ref="#酒">酒</name>二斛四斗、汁槽一斗五升、<name ref="#油">油</name>二斗四升、〈供料<name ref="#油">油</name>六升、灯<name ref="#油">油</name>一斗八升、〉                                     瓫十口、堝卅口、大垸十合、鋺形二百口、片盤四百口、枚片坏六百口、窪坏三百八十口、<name ref="#酒">酒</name>盞・<name ref="#酒台">酒台</name>各十五具、椀七十合、齏坏六十口、                                     <name ref="#布">布</name>四尺三寸五分、松明三百把、薪五千四百斤、<name ref="#炭">炭</name>廿四石、<name ref="#藁">藁</name>卅囲、<name ref="#紙">紙</name>七十張、〈五十張雑用料、廿張主神所料、〉<name ref="#筆">筆</name>三管、〈二管雑用料、一管主神所料、〉<name ref="#亀甲">亀甲</name>一枚、<name ref="#竹">竹</name>廿株、</p>         </div> <div ana="斎宮" n="5.39" subtype="項" type="条" xml:id="o-5_39"> <head ana="正月三節料"/> <p ana="項" xml:id="o-item05103901"> 正月三節料<lb/>                                     東<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・隠伎<name ref="#鰒">鰒</name>・煮<name ref="#堅魚">堅魚</name>・鳥<name ref="#腊">腊</name>・烏賊・鯛楚割各三斤、楚割鮭三隻、鮭三隻、薄<name ref="#鰒">鰒</name>・熬海鼠各二斤、紫菜・<name ref="#海藻">海藻</name>各一斤、<name ref="#塩">塩</name>三升、                                           醤・味醤・酢各一升五合、<name ref="#酒">酒</name>六斗、糯<name ref="#米">米</name>九升、大豆・小豆・粟・黍各三升、<name ref="#小麦">小麦</name>・胡麻・生<app>
+<lem wit="#条本 #近本傍書 #等">栗</lem>
+<rdg wit="#土本 #等">粟</rdg>
+<note>栗　土本等「粟」。条本および近本傍書等により改める。</note>
+</app>子各六升、糒三升、干柿三連、搗栗子三升、〈已上供料、〉                                     <name ref="#米">米</name>一石、糯<name ref="#米">米</name>一石、大豆二斗、小豆三斗、<name ref="#油">油</name>一斗、雑<name ref="#腊">腊</name>・<name ref="#鮨">鮨</name>各三斗、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各廿斤、<name ref="#酒">酒</name>一石、〈已上官人以下料、〉 <app>
+<lem wit="#特記なし">調布十三段三丈六尺</lem>
+<rdg/>
+<note>調布十三段三丈六尺　訳注本「この数量は分注と合わない。いずれか又は双方に誤りがあろう。」と記す。</note>
+</app>、〈膳部四人、水部・<name ref="#酒">酒</name>部・炊部・殿部各三人、掃部二人、別衫料二丈、褠・襅料八尺、女孺三人襅<app>
+<lem wit="#考異">料</lem>
+<rdg wit="#特記なし #諸本"/>
+<note>料　諸本無し。考異に従い意補する。</note>
+</app>各四尺、仕丁一人褠・襅料八尺、〉</p>     </div> <div ana="斎宮" n="5.40" subtype="項" type="条" xml:id="o-5_40"> <head ana="五月節"/> <p ana="項" xml:id="o-item05104001"> 五月節<lb/>                                     糯<name ref="#米">米</name>一斗五升、大角豆三升、<name ref="#酒">酒</name>二斗、口味直銭、〈数随時価、已上供料、〉糯<name ref="#米">米</name>五斗、<name ref="#米">米</name>一石、大角豆一斗五升、〈已上官人以下料、〉                                           <name ref="#調布">調布</name>七<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書 #京博本傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本傍書">祢端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本・京博本傍書「端イニ」、鈴鹿本傍書「祢端イニ」。</note>
+</app>一丈八尺、〈四<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈八尺、膳部三人・水部二人・<name ref="#酒">酒</name>部二人衫并襅料、<app>
+<lem>三丈二尺釆女二人・女孺二人褠・襅料</lem>
+<rdg wit="#土本 #等">三丈二尺釆女二人・女孺二人褠・襅料三丈二尺釆女二人・女孺二人褠・襅料</rdg>
+<rdg wit="#条本補筆">三丈二尺釆女二人・女孺二人褠・襅料</rdg>
+<note>三丈二尺釆女二人・女孺二人褠・襅料　土本等弥書あり、削除する。条本は弥書部分を補筆。</note>
+</app>、一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈二尺、仕丁三人・仕女五人褠・襅料、一丈水【瓦并】麻笥二口<app>
+<lem>帊</lem>
+<rdg wit="#土本 #等">把</rdg>
+<note>帊　土本等「把」。意により改める。</note>
+</app>料、一丈拭<name ref="#布">布</name>料、〉</p>      </div> <div ana="斎宮" n="5.41" subtype="項" type="条" xml:id="o-5_41"> <head ana="七月節"/> <p ana="項" xml:id="o-item05104101"> 七月節〈九月亦同、〉<lb/>                                     供料<name ref="#酒">酒</name>二斗、口味直銭、〈数随時価、〉官人以下料鮭二十隻、熟瓜一百顆、</p> </div> <div ana="斎宮" n="5.42" subtype="項" type="条" xml:id="o-5_42"> <head ana="斎終行事"/> <p ana="項" xml:id="o-item05104201"> 凡斎内親王三年斎終、四月上旬任装束司、五位二人、〈<app>
+<lem wit="#条本 #梵本 #等">神</lem>
+<rdg wit="#土本"/>
+<note>神　土本無し。条本・梵本等により補う。</note>
+</app>祇副以上一人、左右少弁以上一人、〉六位以下四人、〈諸司主典以上、〉諸司史生六人、                                           雑使十人、〈散位六人、位子四人、〉雑<name ref="#工">工</name>卌人、〈<app>
+<lem wit="#近本傍書 #京博本傍書 #等">簡</lem>
+<rdg wit="#土本 #等">筒</rdg>
+<note>簡　土本等「筒」。近本・京博本傍書等により改める。</note>
+</app>取内匠・木<name ref="#工">工</name>・隼人等寮司長上以下諸部等<app>
+<lem wit="#特記なし">為</lem>
+<rdg wit="#訳注本">充</rdg>
+<note>為　訳注本考異に従い「充」に意改する。</note>
+</app>之、〉共作廿人、〈取仕丁充之、〉女孺廿人、直丁二人、同旬於神祇官西院始行事、                                           五位以下給明衣、史生以上各絹四丈五尺、女孺各三丈、女雑<name ref="#工">工</name>以上各<name ref="#布">布</name>二丈六尺、共作及直丁不<app>
+<lem wit="#近本">在</lem>
+<rdg wit="#土本 #条本 #等">仕</rdg>
+<note>在　土本・条本等「仕」。近本により改める。</note>
+</app>給例、其食依常例、</p>     </div> <div ana="斎宮" n="5.43" subtype="項" type="条" xml:id="o-5_43"> <head ana="造備雑物"/> <p ana="項" xml:id="o-item05104301"> 造備雑物<lb/>                                     輿一具、下案一脚、〈白木、〉腰輿一具、<name ref="#蓋">蓋</name>一具、翳二枚、笠二枚、〈一日笠、一雨笠、〉胡床二脚、床一脚、〈白木、〉御鞍二具、命婦鞍一具、〈已上毛韉、〉                                     女孺鞍四具、〈皺文韉、〉</p> <p ana="項" xml:id="o-item05104302"> 班幔四条、斗帳一具、〈方一丈二尺、高七尺五寸、〉皂頭巾八十八条、<app>
+<lem wit="#諸本傍訓">緌</lem>
+<rdg wit="#土本 #等">綏</rdg>
+<note>緌　土本等「綏」。諸本傍訓「ヲイカケ」より推し改める。</note>
+</app>八十八条、縹<name ref="#布">布</name>揩衣五十七領、縹<name ref="#布">布</name>衣九十六領、 <name ref="#布">布</name>袴一百五十三腰、<name ref="#布">布</name>帯<app>
+<lem wit="#特記なし #諸本">百</lem>
+<rdg wit="#訳注本">一百</rdg>
+<note>百　訳注本は考異に従い上に「一」を意補。諸本無し。</note>
+</app>五十三条、褶八十<app>
+<lem wit="#考異">八</lem>
+<rdg wit="#諸本"/>
+<note>八　諸本無し。考異に従い意補する。</note>
+</app>条、脛巾八十八条、脛纏八十<app>
+<lem wit="#条本 #等">八</lem>
+<rdg wit="#土本 #等"/>
+<note>八　土本等無し。条本等により補う。</note>
+</app>条、袜八十八両、</p> <p ana="項" xml:id="o-item05104303"> 沐槽一口、下案一脚、〈<name ref="#漆">漆</name>塗、〉洗槽一口、下案一脚、〈<name ref="#漆">漆</name>塗、〉                                           小槽一口、彫木一具、納韓櫃一合、軽幄一具、紺<name ref="#絁">絁</name>幕一具、四尺屏風四帖、薬韓櫃一合、下案一脚、〈<name ref="#漆">漆</name><app>
+<lem wit="#条本 #等">塗</lem>
+<rdg wit="#土本">【涂/衣】</rdg>
+<note>塗　土本「【涂/衣】」。条本等により改める。</note>
+</app>、〉<name ref="#銀">銀</name><name ref="#飯笥">飯笥</name>一合、<name ref="#銀">銀</name><name ref="#酒">酒</name>盞一具、<name ref="#銀">銀</name>鍋子一口、<name ref="#銀">銀</name><name ref="#水鋺">水鋺</name>一合、 <name ref="#銀">銀</name>【匙-是】一枚、<app>
+<lem wit="#特記なし">板</lem>
+<rdg wit="#近本 #京博本 #等">板飯</rdg>
+<note>板　近本・京博本等、下に「飯」を補入。</note>
+</app>笥二合、小<name ref="#膳櫃">膳櫃</name>一合、<name ref="#膳櫃">膳櫃</name>六合、下案六脚、厨韓櫃一合、膳案三脚、<name ref="#酒">酒</name>案一脚、粥案一脚、切案一脚、明櫃一合、〈加筥形、〉                                     柳筥七合、麁筥四合、紵巾一条、絹篩五口、<name ref="#調布">調布</name>篩二口、帒七口、拭<name ref="#布">布</name>三条、〈長各一丈、〉塗<name ref="#漆">漆</name><name ref="#樽">樽</name>二合、塗<name ref="#漆">漆</name>匜一口、塗<name ref="#漆">漆</name>手洗二口、<name ref="#轆轤">轆轤</name>槽二口、捧坩三口、                                           木盤七口、負【瓦并】四口、平【瓦并】二口、陶坩二口、手洗二口、洗盤二口、<app>
+<lem wit="#藤波本 #京博本傍書 #等">齏</lem>
+<rdg wit="#土本 #等">斎</rdg>
+<note>齏　土本等「斎」。藤波本・京博本傍書等により改める。</note>
+</app>鉢二口、筯坩二口、杓三柄、匏四柄、打刀子一枚、檜朸卅<app>
+<lem wit="#特記なし #諸本">枝</lem>
+<rdg wit="#訳注本">枚</rdg>
+<note>枝　訳注本「枚」とする。諸本「枝」。</note>
+</app>、</p> <p ana="項" xml:id="o-item05104304"> 壁代紗帳一具、 所須秘錦三尺四寸、錦五<app>
+<lem wit="#条本 #近本傍書 #等">丈</lem>
+<rdg wit="#土本 #等">尺</rdg>
+<note>丈　土本等「尺」。条本および近本傍書等により改める。</note>
+</app>七尺一寸、紫纈<name ref="#帛">帛</name>一疋、深紫綾三丈八尺、浅紫綾一疋五丈一尺一寸、深紫<name ref="#帛">帛</name>二丈八尺、浅紫<name ref="#帛">帛</name>一疋一丈三尺六寸、緋綾二疋八尺五寸、<name ref="#油">油</name><name ref="#絁">絁</name>十疋三尺六寸、                                           練紗一疋三丈、紫糸十二斤五両、紫革五張、独<app>
+<lem wit="#条本 #等">犴</lem>
+<rdg wit="#土本">行</rdg>
+<note>犴　土本「行」。条本等により改める。</note>
+</app>皮二張、熊皮七張、﨟小一斤、白﨟大四両、<app>
+<lem wit="#特記なし #諸本">練</lem>
+<rdg wit="#訳注本">錬</rdg>
+<note>練　訳注本「錬」とする。諸本「練」。</note>
+</app>金小十一両一分二銖、<name ref="#銀">銀</name>大五斤十一両、水<name ref="#銀">銀</name>小五斤三両、<name ref="#青砥">青砥</name>二顆、 曝黒葛七両、棗鞍橋二具、〈已上請内蔵寮、〉</p> <p ana="項" xml:id="o-item05104305">                                     両面六疋一丈一尺七寸、緋<name ref="#帛">帛</name>十七疋五丈八尺九寸、緋東<name ref="#絁">絁</name>二丈九尺一寸、緑<name ref="#帛">帛</name>五疋九寸、縹<name ref="#帛">帛</name>六疋四丈三尺、                                           紺東<name ref="#絁">絁</name>四疋二丈二尺、黄<name ref="#帛">帛</name>八疋五丈九尺三寸、生綾三丈一尺三寸、白綾一疋三丈一尺二寸、<app>
+<lem wit="#特記なし">帛</lem>
+<rdg wit="#条本">白帛</rdg>
+<note>帛　条本この上に「白」あり。ただし抹消するか。</note>
+</app>八尺、橡東<name ref="#絁">絁</name>二疋、<name ref="#帛">帛</name>廿一疋二丈二尺、生<name ref="#絁">絁</name>十四疋五丈五尺七寸、 東<name ref="#絁">絁</name>三丈二尺二<app>
+<lem wit="#近本補書 #等">寸</lem>
+<rdg wit="#土本 #等"/>
+<note>寸　土本等無し。近本補書等により補う。</note>
+</app>、<app>
+<lem wit="#考異">色</lem>
+<rdg wit="#土本 #等">包</rdg>
+<note>色　土本等「包」。考異に従い意改する。</note>
+</app>綾三丈七尺、緋糸十九斤一両、緑糸一斤一両、紺糸四両、縹糸一斤三両、黄糸十四両、橡糸八両、練糸二斤九両二分、生糸一斤二両、調<name ref="#綿">綿</name>五十三屯一両、                                           縹細<name ref="#布">布</name>一丈七尺、紺<name ref="#調布">調布</name>二<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書">端イ</rdg>
+<rdg wit="#京博本傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">祢、端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本傍書「端イ」、京博本傍書「端イニ」、鈴鹿本書入「祢、端イニ」。</note>
+</app>一丈四尺、縹<name ref="#調布">調布</name>六十三<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>三丈一尺、細<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>一丈、<name ref="#調布">調布</name>一百五<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>三丈五尺、紵<name ref="#布">布</name>三丈、商<name ref="#布">布</name>十七段一丈六尺、藍四囲、                                     紅花大廿一斤二両、<name ref="#漆">漆</name>三斗九升五勺、熟麻大一斤八両、苧小二斤二分、東席三枚、出雲席二枚、葛野席十一枚、<name ref="#葉薦">葉薦</name>四枚、洗革三張、牛皮一張、膠大一斤、木賊一斤、                                     <name ref="#伊予砥">伊予砥</name>七顆、</p> <p ana="項" xml:id="o-item05104306">                                     金薄卌枚、熟銅大五十七斤七両、半熟銅十八斤、鉄五十一斤四両、調韓櫃七合、薄<name ref="#紙">紙</name>七十三張、<name ref="#紙">紙</name>三百廿四張、墨二廷、<name ref="#筆">筆</name>十管、<name ref="#掃墨">掃墨</name>九升一合、                                     黒葛五斤、<name ref="#油">油</name>四升五合、〈一升五合荏、二升槾椒、一升胡麻、〉荒筥四合、糯<name ref="#米">米</name>八升二合、<name ref="#小麦">小麦</name>一斗二升二合、酢三斗五升、</p> <p ana="項" xml:id="o-item05104307"> <app>
+<lem wit="#考異 #勢多本書入">榲</lem>
+<rdg wit="#土本 #等">槾</rdg>
+<note>榲　土本等「槾」。考異および勢多本書入に従い改める。</note>
+</app>榑十五村、柏廿把、匏四柄、 篦一百隻、朴十村、〈各径一尺、厚三寸、〉桜十六村、〈各長二尺五寸、方<app>
+<lem wit="#条本 #近本 #等">二</lem>
+<rdg wit="#土本 #等">三</rdg>
+<note>二　土本等「三」。条本・近本等により改める。</note>
+</app>寸、〉 <app>
+<lem wit="#特記なし">槻卅四村</lem>
+<rdg wit="#京博本朱傍書">従此下注今加云々、本</rdg>
+<note>槻卅四村　京博本朱傍書「従此下注今加云々、本」。</note>
+</app>、〈一村長三尺、径八寸、<app>
+<lem wit="#特記なし">厚三寸</lem>
+<rdg/>
+<note>厚三寸　あるいは衍字か。</note>
+</app>、一村長一尺二寸、径九寸、四村各長三尺、厚方一寸二分、二村各長一尺八寸、径八寸、二村各長一尺七寸、径一尺、                                           三村各長一尺、径八寸、四村各<app>
+<lem wit="#特記なし #諸本">方</lem>
+<rdg wit="#訳注本">長</rdg>
+<note>方　訳注本島原本傍書により「長」に改める。諸本「方」。</note>
+</app>一尺八寸、厚八寸、<app>
+<lem wit="#特記なし">一村各方九寸</lem>
+<rdg wit="#訳注本">一村方九寸</rdg>
+<note>一村各方九寸　訳注本は考異に従い「各」を削り、また「一村」の下に「長……」の脱文を想定する。あるいは「方九寸」の上ないし下に脱文を想定すべきか。</note>
+</app>、四村各長一尺八寸、厚方一寸二分、十二村各長六尺、方三寸五分、〉篦<name ref="#竹">竹</name>三百七十株、                                           桧榑五十三村、簀子十五枚、歩板十枚、五六寸桁四枚、八多板四<app>
+<lem wit="#特記なし">枝</lem>
+<rdg wit="#訳注本">枚</rdg>
+<note>枝　訳注本は島原本により「枚」に改める。</note>
+</app>、知佐木卌五<app>
+<lem wit="#特記なし">枝</lem>
+<rdg wit="#訳注本">枚</rdg>
+<note>枝　訳注本は藤波本により「枚」に改める。</note>
+</app>、菅廿把、荒<name ref="#炭">炭</name>廿二石二斗、<name ref="#和炭">和炭</name>九十四石一斗、針卌枚、頭巾八十八条、〈已上申官請受、〉</p>                           </div> <div ana="斎宮" n="5.44" subtype="項" type="条" xml:id="o-5_44"> <head ana="御馬"/> <p ana="項" xml:id="o-item05104401"> 凡御馬二疋、女孺乗馬六疋、並以左右馬寮馬充之、若有死失者請替、</p> </div> <div ana="斎宮" n="5.45" subtype="項" type="条" xml:id="o-5_45"> <head ana="潔斎三年"/> <p ana="項" xml:id="o-item05104501">                                           凡斎内親王在京潔斎三年、即毎朔日、着<name ref="#木綿">木綿</name>鬘、参入斎殿、遥拝大神、時先供御麻、次鬘<name ref="#木綿">木綿</name>、其料安芸<name ref="#木綿">木綿</name>四両、麻二斤、<app>
+<lem wit="#条本">〈別当已下料在此内、〉</lem>
+<rdg wit="#土本 #等">別当已下料在此内</rdg>
+<note>別当已下料在此内　土本等本文に作る。条本により改める。</note>
+</app>                                     別当大<name ref="#夫">夫</name>已下卜食者、共再拝両段、但九月・六月・十二月不参、至十六七日参入、再拝両段、長拍手両段、斎王不拍手、斎終之後、乃向伊勢大神宮、                                           其<app>
+<lem wit="#特記なし">野宮内外屋</lem>
+<rdg wit="#京博本朱頭書">野宮内外屋并垣類等分給事</rdg>
+<rdg wit="#九冊本朱頭書">野宮内外屋并祗頴分治坙イ本ニ</rdg>
+<rdg wit="#鈴鹿本書入">祢本、野宮内外屋并垣類等分給事</rdg>
+<note>野宮内外屋　京博本朱頭書「野宮内外屋并垣類等分給事」、九冊本朱頭書「野宮内外屋并祗頴分治坙イ本ニ」、鈴鹿本書入「祢本、野宮内外屋并垣類等分給事」。</note>
+</app>并垣之類、給神祇官中臣、出居殿御座・装束之類、給主神司中臣、寝殿内雑物、給同司忌部、但金・<name ref="#銀">銀</name>器及釜・甕之類、納斎王家、</p>   </div> <div ana="斎宮" n="5.46" subtype="項" type="条" xml:id="o-5_46"> <head ana="弁備雑事"/> <p ana="項" xml:id="o-item05104601"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg wit="#九冊本頭書">前【氵矢】【甲刂】舌イニ</rdg>
+<note>凡　九冊本頭書「前【氵矢】【甲刂】舌イニ」。</note>
+</app>斎内親王向伊勢時、七月以前、遣寮允・史生各一人於斎宮及国、弁備雑事、</p>  </div> <div ana="斎宮" n="5.47" subtype="項" type="条" xml:id="o-5_47"> <head ana="河頭禊"/> <p ana="項" xml:id="o-item05104701"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg wit="#京博本朱頭書">群行御禊事</rdg>
+<rdg wit="#九冊本頭書">行御撰事</rdg>
+<rdg wit="#鈴鹿本書入">祢本、群行御禊事</rdg>
+<note>凡　京博本朱頭書「群行御禊事」、九冊本頭書「行御撰事」、鈴鹿本書入「祢本、群行御禊事」。</note>
+</app>斎王出自野宮、入大神宮、臨於川頭、在前為禊、〈定日時方同上、〉</p>  </div> <div ana="斎宮" n="5.48" subtype="項" type="条" xml:id="o-5_48"> <head ana="河頭禊祓料"/> <p ana="項" xml:id="o-item05104801"> 祓<app>
+<lem wit="#特記なし">料</lem>
+<rdg wit="#京博本墨書">件二〈イ本ニ〉</rdg>
+<rdg wit="#京博本朱注">件二字今加</rdg>
+<rdg wit="#九冊本注">件二〈イ本ニ、字令加、〉</rdg>
+<note>料　この下に京博本墨書「件二〈イ本ニ〉」および朱注「件二字今加」、九冊本注「件二〈イ本ニ、字令加、〉」あり。</note>
+</app><lb/> 五色<name ref="#絁">絁</name>各一尺、荒服料<name ref="#布">布</name>一<app>
+<lem wit="#特記なし #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本傍書「端イニ」。</note>
+</app>、筥一合、〈長一尺五寸、〉<name ref="#木綿">木綿</name>一斤四両、麻三斤、<name ref="#鉄人像">鉄人像</name>二枚、黄蘗四枚、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各四斤、<name ref="#腊">腊</name>四升、<name ref="#塩">塩</name>二升、                                           <name ref="#米">米</name>・<name ref="#酒">酒</name>各四斗、納缶四口、【瓦并】一口、<name ref="#食薦">食薦</name>二枚、柏四把、瓫二口、<name ref="#輦籠">輦籠</name>一<app>
+<lem wit="#特記なし">腰</lem>
+<rdg wit="#玄梁本訂正書 #鈴鹿本書入">脚</rdg>
+<note>腰　玄梁本訂正書・鈴鹿本書入「脚」。</note>
+</app>、匏二柄、稲二束、<name ref="#鍬">鍬</name>四口、祝詞料<name ref="#庸布">庸布</name>二段、<name ref="#夫">夫</name>二人、朸二枝、</p>    </div> <div ana="斎宮" n="5.49" subtype="項" type="条" xml:id="o-5_49"> <head ana="大祓使"/> <p ana="項" xml:id="o-item05104901"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg wit="#京博本朱頭書">大祓</rdg>
+<rdg wit="#九冊本朱頭書">大祓イニ</rdg>
+<note>凡　京博本朱頭書「大祓」、九冊本朱頭書「大祓イニ」。</note>
+</app>斎王将入大神宮、在前七月若八月、同時遣大祓使、〈左右京一人、五畿内一人、七道各一人、〉</p>  </div> <div ana="斎宮" n="5.50" subtype="項" type="条" xml:id="o-5_50"> <head ana="朝庭大祓料"/> <p ana="項" xml:id="o-item05105001"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg wit="#京博本朱頭書">同事</rdg>
+<rdg wit="#九冊本頭書">同事イニ</rdg>
+<rdg wit="#鈴鹿本">祢　同事</rdg>
+<note>凡　京博本朱頭書「同事」、九冊本頭書「同事イニ」、鈴鹿本「祢　同事」。</note>
+</app>斎王将入大神宮、八月晦日朝庭大祓料、<name ref="#庸布">庸布</name>二段、<name ref="#木綿">木綿</name>・麻各大四斤、<name ref="#鹿皮">鹿皮</name>四張、<name ref="#鹿角">鹿角</name>四枝、<name ref="#大刀">大刀</name>四口、<name ref="#弓">弓</name>四枝、<name ref="#箭">箭</name>四具、<name ref="#鍬">鍬</name>四口、<app>
+<lem wit="#特記なし #諸本">葈</lem>
+<rdg wit="#訳注本">枲</rdg>
+<note>葈　訳注本は「枲」。諸本「葈」。</note>
+</app>一斤、<name ref="#短帖">短帖</name>一枚、                                     <name ref="#酒">酒</name>・<name ref="#米">米</name>各四斗、稲四束、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各八斤、<name ref="#海藻">海藻</name>廿六斤、<name ref="#滑海藻">滑海藻</name>十斤、<name ref="#雑海菜">雑海菜</name>八斤、<name ref="#腊">腊</name>七斗、<name ref="#塩">塩</name>四斗、<name ref="#水戸">水戸</name>四口、匏四柄、薦二枚、馬二疋、祝詞軾料<name ref="#庸布">庸布</name>五段、</p>   </div> <div ana="斎宮" n="5.51" subtype="項" type="条" xml:id="o-5_51"> <head ana="斎宮修理"/> <p ana="項" xml:id="o-item05105101"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg wit="#九冊本頭書">破壊イニ</rdg>
+<note>凡　九冊本頭書「破壊イニ」。</note>
+</app>斎宮破壊、国司修理、若<app>
+<lem wit="#特記なし">壊破</lem>
+<rdg/>
+<note>壊破　訳注本、条本に「「破」字の右傍ニ顛倒符トオボシキ「レ」点アリ。或イハ「破壊」ニ改ムベキカ」とする。</note>
+</app>過多、在前遣使修造、</p>   </div> <div ana="斎宮" n="5.52" subtype="項" type="条" xml:id="o-5_52"> <head ana="勢江州忌"/> <p ana="項" xml:id="o-item05105201"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg wit="#九冊本頭書">群行イニ</rdg>
+<note>凡　九冊本頭書「群行イニ」。</note>
+</app>斎王将入大神宮之時、自九月一日迄卅日、京・畿内・伊勢・近江等国、不得奉燈北辰及挙哀改葬、</p>  </div> <div ana="斎宮" n="5.53" subtype="項" type="条" xml:id="o-5_53"> <head ana="頓宮"/> <p ana="項" xml:id="o-item05105301"> <app>
+<lem wit="#特記なし">凡</lem>
+<rdg wit="#京博本朱頭書 #九冊本頭書">頓宮事</rdg>
+<rdg wit="#鈴鹿本書入">祢　事</rdg>
+<note>凡　京博本朱頭書・九冊本頭書「頓宮事」。鈴鹿本書入「祢　事」。</note>
+</app>頓宮者、近江国国府・甲賀・垂水、伊勢国鈴鹿・壱志、総五所、並国司依例営造、所須稲、近江一万<app>
+<lem wit="#特記なし">五</lem>
+<rdg wit="#主税式上39条">二</rdg>
+<note>五　主税式上39条では「二」。</note>
+</app>千束、伊勢二万<app>
+<lem wit="#特記なし">三</lem>
+<rdg wit="#主税式上39条">二</rdg>
+<note>三　主税式上39条では「二」。</note>
+</app>千束、鋪設・雑器及供給、総用此内、</p>    </div> <div ana="斎宮" n="5.54" subtype="項" type="条" xml:id="o-5_54"> <head ana="監送使"/> <p ana="項" xml:id="o-item05105401"> <app>
+<lem wit="#土本">凡</lem>
+<rdg wit="#京博本朱頭書 #九冊本戸奧書">長奉送使事</rdg>
+<rdg wit="#鈴鹿本">祢　長奉送使事</rdg>
+<note>凡　京博本朱頭書・九冊本戸奧書「長奉送使事」、鈴鹿本「祢　長奉送使事」。</note>
+</app>斎内親王臨行、預定監送使、参議一人、〈或以中納言充之、〉弁一人、史一人、六位<app>
+<lem wit="#近本補書 #条本 #等">以</lem>
+<rdg wit="#土本"/>
+<note>以　土本無し。近本補書および条本等により補う。</note>
+</app>下官人一人、即使及斎宮官人以下、皆賜装束、</p>   <p ana="項" xml:id="o-item05105402"> 使四位<name ref="#布">布</name>十<app>
+<lem wit="#諸本 #特記なし">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">祢　端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「祢　端イニ」。</note>
+</app>、五位<name ref="#布">布</name>五<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、六位<name ref="#絁">絁</name>一疋、<name ref="#綿">綿</name>一屯、<name ref="#布">布</name>一<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同上」。</note>
+</app>、唯忌部<name ref="#布">布</name>三<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同上」。</note>
+</app>、斎宮頭絹十疋、<name ref="#綿">綿</name>廿屯、<name ref="#布">布</name>廿<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書 #鈴鹿本書入">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書・鈴鹿本書入「端イニ」。</note>
+</app>、助絹八疋、<name ref="#綿">綿</name>十五屯、<name ref="#布">布</name>十五<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同上」。</note>
+</app>、 主神司中臣・忌部、寮允、舎人司長、膳部司長各絹四疋、<name ref="#綿">綿</name>六屯、<name ref="#布">布</name>五<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同上」。</note>
+</app>、寮属、蔵部・炊部・<name ref="#酒">酒</name>部・水部・女部・殿部・薬部・掃部・門部・馬部長及二司判官等、 絹三疋、<name ref="#綿">綿</name>五屯、<name ref="#布">布</name>四<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イ」、鈴鹿本書入「端同上」。</note>
+</app>、宮主、舎人・蔵部・膳部・門部主典各<name ref="#絁">絁</name>二疋、<name ref="#綿">綿</name>四屯、<name ref="#布">布</name>三<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、史生、大舎人、寮舎人及諸司番上等各絹一疋、<name ref="#綿">綿</name>二屯、<name ref="#布">布</name>二<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書">端イ</rdg>
+<rdg wit="#九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書「端イ」、九冊本左傍書「端イニ」、鈴鹿本書入「端同」。</note>
+</app>、 寮使部各<name ref="#布">布</name>二端、飼丁・今良各<name ref="#布">布</name>一<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、</p>            <p ana="項" xml:id="o-item05105403"> 其命婦者雑色綾廿疋、<name ref="#綿">綿</name>卌屯、<name ref="#布">布</name>廿<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同」。</note>
+</app>、乳母各雑色<app>
+<lem wit="#考異">帛</lem>
+<rdg wit="#土本 #等">帛綾</rdg>
+<rdg wit="#近本"/>
+<rdg wit="#近本傍書">綾</rdg>
+<note>帛　土本等「帛綾」。近本は本文になく傍書にて「綾」を補う。考異に従い「綾」を衍字と見て削除する。</note>
+</app>十四疋、<name ref="#綿">綿</name>廿屯、<name ref="#布">布</name>十三<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、一等女孺各雑色<name ref="#帛">帛</name>十疋、<name ref="#綿">綿</name>十屯、<name ref="#布">布</name>五<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同上」。</note>
+</app>、                                           二等女孺各雑色<name ref="#帛">帛</name>八疋、<name ref="#綿">綿</name>七屯、<name ref="#布">布</name>四<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同上」。</note>
+</app>、三等女孺各絹六疋、<name ref="#綿">綿</name>五屯、<name ref="#布">布</name>三<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同上</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同上」。</note>
+</app>、殿守各雑色<name ref="#帛">帛</name>四疋、<name ref="#綿">綿</name>四屯、<name ref="#布">布</name>二<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、女丁各雑色<name ref="#帛">帛</name>二疋二丈五尺、 <name ref="#貲布">貲布</name>一<app>
+<lem wit="#土本 #諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、<name ref="#綿">綿</name>四屯、戸座・火炬小子各絹二疋二丈、<name ref="#綿">綿</name>四屯、<name ref="#布">布</name>二<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#京博本左傍書 #九冊本左傍書">端イニ</rdg>
+<rdg wit="#鈴鹿本書入">端同</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。京博本左傍書・九冊本左傍書「端イニ」、鈴鹿本書入「端同」。</note>
+</app>、縹<name ref="#布">布</name>一丈五尺、</p>          </div> <div ana="斎宮" n="5.55" subtype="項" type="条" xml:id="o-5_55"> <head ana="給馬"/> <p ana="項" xml:id="o-item05105501"> <app>
+<lem wit="#土本">凡</lem>
+<rdg wit="#京博本朱頭書 #九冊本頭書">給馬事</rdg>
+<rdg wit="#鈴鹿本書入">祢　給馬事</rdg>
+<note>凡　京博本朱頭書・九冊本頭書「給馬事」、鈴鹿本書入「祢　給馬事」。</note>
+</app>従行群官以下給馬、主神司中臣・忌部・宮主各二疋、頭四疋、助三疋、諸司主典以上各二疋、番上各一疋、其命婦四<app>
+<lem wit="#近本 #京博本朱傍書 #等朱傍書">疋</lem>
+<rdg wit="#土本 #等">人</rdg>
+<note>疋　土本等「人」。近本・京博本等朱傍書により改める。</note>
+</app>、乳母并女孺各三疋、輿長及殿守各一疋、                                     其監送使及飼丁・女丁、宮主・卜部等家口不在給限、其将従四位六人、五位五人、余准馬数、品官不要者、在前発遣、</p>   </div> <div ana="斎宮" n="5.56" subtype="項" type="条" xml:id="o-5_56"> <head ana="神嘗祭使"/> <p ana="項" xml:id="o-item05105601"> <app>
+<lem wit="#土本">九</lem>
+<rdg wit="#京博本朱頭書 #九冊本頭書">例幣事</rdg>
+<rdg wit="#鈴鹿本書入">祢　例幣事</rdg>
+<note>九　京博本朱頭書・九冊本頭書「例幣事」、鈴鹿本書入「祢　例幣事」。</note>
+</app>月神嘗祭使<lb/>                                     　右尋常之例、十一日参入、而当斎王参入之時、即陪従参入、其幣并明衣料、与尋常同、更差使中臣一人、遣近江・伊勢二国、在前祓清、</p>  </div> <div ana="斎宮" n="5.57" subtype="項" type="条" xml:id="o-5_57"> <head ana="斎十八箇日"/> <p ana="項" xml:id="o-item05105701"> 斎十八箇日<lb/>                                           　右尋常斎三箇日、当此時、自一日至十八日斎、但挙哀改<app>
+<lem>葬</lem>
+<rdg wit="#土本 #等">喪</rdg>
+<note>葬　土本等「喪」。52条にならい改める。</note>
+</app>限月内忌之、</p>  </div> <div ana="斎宮" n="5.58" subtype="項" type="条" xml:id="o-5_58"> <head ana="発日"/> <p ana="項" xml:id="o-item05105801"> <app>
+<lem wit="#土本">凡</lem>
+<rdg wit="#京博本朱頭書 #九冊本頭書">行幸事</rdg>
+<note>凡　京博本朱頭書・九冊本頭書「行幸事」。</note>
+</app>斎内親王発日、所司預設御座於大極後殿、天皇御<app>
+<lem wit="#条本 #近本 #等">後</lem>
+<rdg wit="#土本"/>
+<note>後　土本無し。条本・近本等により補う。</note>
+</app>殿、〈不警、〉神祇官五位中臣進御麻、史一人行麻於侍従五位以上、                                     時刻御大極殿、斎内親王下輿入就殿上座、事訖向大神宮、〈事見儀式、〉</p>   </div> <div ana="斎宮" n="5.59" subtype="項" type="条" xml:id="o-5_59"> <head ana="六処堺川"/> <p ana="項" xml:id="o-item05105901"> 六処堺川供奉御禊〈山<app>
+<lem wit="#土本">城</lem>
+<rdg wit="#貞享本傍書">□川歟</rdg>
+<note>城　この下に脱字あるか。貞享本傍書「□川歟」。</note>
+</app>、近江勢多川・甲賀川、伊勢鈴<app>
+<lem wit="#近本 #九冊本 #等">鹿</lem>
+<rdg wit="#土本">度</rdg>
+<rdg wit="#条本">庶</rdg>
+<note>鹿　土本「度」、条本「庶」。近本・九冊本等により改める。</note>
+</app>川・下樋小川・多気川、〉<lb/>                                     御荒服六具料<name ref="#庸布">庸布</name>六段、<name ref="#鉄人像">鉄人像</name>十二枚、<name ref="#木綿">木綿</name>・麻各六斤、<name ref="#酒">酒</name>・<name ref="#米">米</name>各六斤、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各六斤、<name ref="#腊">腊</name>六升、<name ref="#塩">塩</name>六升、 <name ref="#海藻">海藻</name>・雑海<app>
+<lem wit="#考異">菜</lem>
+<rdg wit="#土本 #等">藻</rdg>
+<rdg wit="#条本">雑海藻各</rdg>
+<note>菜　土本等「藻」。考異に従い意改する。なお条本は「雑海藻各」４字補筆。</note>
+</app>各六斤、【瓦并】六口、筥四口、〈各長一尺七寸、〉<app>
+<lem wit="#考異">席</lem>
+<rdg wit="#土本 #等">善品漆筥〈納堅魚鰒等類〉席</rdg>
+<note>席　土本等この上に「善品漆筥〈納堅魚鰒等類〉」一〇字あり。考異に従い傍書の竄入と判断する。ただし「〈納堅魚鰒等類〉」は本文注の可能性もある。</note>
+</app>一枚、<name ref="#夫">夫</name>三人、</p>     </div> <div ana="斎宮" n="5.60" subtype="項" type="条" xml:id="o-5_60"> <head ana="鎮祓"/> <p ana="項" xml:id="o-item05106001">                                     凡斎内親王在路、毎至山城・近江・伊勢等堺、勢多・鈴鹿・下樋・多気川等、遣神部・卜部各二人在前鎮祓之、所須<name ref="#鉄人像">鉄人像</name>十二枚、<name ref="#布">布</name>衣六領、裳六腰、〈以<name ref="#庸布">庸布</name>一段作一衣一裳、〉                                     <name ref="#木綿">木綿</name>・麻各六斤、<name ref="#米">米</name>・<name ref="#酒">酒</name>各六升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各六斤、<name ref="#腊">腊</name>・<name ref="#塩">塩</name>各六升、<name ref="#海藻">海藻</name>・<name ref="#雑海菜">雑海菜</name>各六斤、雑盛六籠、筥【瓦并】六口、筥四合、〈方一尺七寸、〉席・薦各一枚、<name ref="#夫">夫</name>三人、</p> <p ana="項" xml:id="o-item05106002">                                     其路次社幣料、絹一疋、糸五絇、<name ref="#綿">綿</name>五屯、<name ref="#木綿">木綿</name>一斤、麻二斤、又頓宮五処大殿祭料、安芸<name ref="#木綿">木綿</name>卌枚、凡<name ref="#木綿">木綿</name>一斤、亦路間儲幣料、<name ref="#絁">絁</name>一疋、                                           <name ref="#綿">綿</name>五屯、糸五絇、<name ref="#木綿">木綿</name>大一斤、麻大一斤、卜<name ref="#亀甲">亀甲</name>一枚、並主神司請<app>
+<lem wit="#条本 #近本 #等">領</lem>
+<rdg wit="#土本">舎頁</rdg>
+<note>領　土本「舎頁」。条本・近本等により改める。</note>
+</app>祭之、其鎮祓等料者、請受京庫、</p>  </div> <div ana="斎宮" n="5.61" subtype="項" type="条" xml:id="o-5_61"> <head ana="祈年祭神"/> <p ana="項" xml:id="o-item05106101"> 斎宮祈年祭神百十五座<lb/> 大社十七座〈在斎宮内、〉<lb/>                                     大宮売神四座　御門神八座　御井神二座　 卜庭神二座　地主神一座<lb/>                                     座別絹五尺、五色薄<name ref="#絁">絁</name>各一尺、<name ref="#倭文">倭文</name>一尺、<name ref="#木綿">木綿</name>二両、麻五両、<name ref="#庸布">庸布</name>一丈四尺、<name ref="#鍬">鍬</name>一口、楯一枚、八座置・四座置各一束、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各五両、<name ref="#腊">腊</name>二升、<name ref="#塩">塩</name>一升、                                     <name ref="#海藻">海藻</name>・<name ref="#滑海藻">滑海藻</name>・<name ref="#雑海菜">雑海菜</name>各六両、<name ref="#酒">酒</name>二升、坩一口、但加宮売神馬一疋、御門神各槍二竿、</p> <p ana="項" xml:id="o-item05106102"> 小社九十八座〈在多気・度会両郡、〉<lb/>                                     須麻留売社　佐那社二座　櫛田社<lb/> 有弐社　麻績社　服部伊刀麻社<lb/> 相<app>
+<lem wit="#条本">鹿</lem>
+<rdg wit="#土本 #等">麻</rdg>
+<note>鹿　土本等「麻」。条本により改める。</note>
+</app>牟山社二座　奈々美社　宇爾桜社<lb/> 宇爾社　服部麻刀<app>
+<lem wit="#土本 #訳注本">方</lem>
+<rdg wit="#諸本傍訓">マ</rdg>
+<note>方　訳注本は、諸本傍訓「マ」であることから、或いは「万」を是とすべきかとする。</note>
+</app>社二座　紀師社<lb/>                                     天香山社　穴師社　流田社<lb/> 流田上社　石田社　<name ref="#竹">竹</name>佐々<name ref="#夫">夫</name>江社<lb/> 伊佐和社　牟礼社　大国玉社<lb/>                                           佐岐栗栖社二座　櫃倉社　伊蘇上<app>
+<lem wit="#土本">乃</lem>
+<rdg wit="#訳注本"/>
+<note>乃　訳注本は神名式上12条により削除する。</note>
+</app>社<lb/> 櫛田槻本社　牛庭社　大櫛社<lb/>                                     賀須夜社　<name ref="#竹">竹</name>上社　<name ref="#竹">竹</name>仲社<lb/> 魚海社二座　林社　相鹿上社<lb/> 守山社　大海田社　相鹿中社<lb/>                                     宇留<name ref="#布">布</name>都社　畠田社三座　火地社<lb/> 大与杼社　棒屋社　国生社<lb/> 大分社　相鹿社　伊呂上社〈已上多気郡、〉</p>    <p ana="項" xml:id="o-item05106103"> 朝熊社　荒御玉命社　伊佐奈伎社<lb/> 伊佐奈弥社　蚊野社　鴨社<lb/> <app>
+<lem wit="#条本">薗</lem>
+<rdg wit="#土本 #等">園</rdg>
+<note>薗　土本等「園」。条本により改める。</note>
+</app>相社　狭田国生社　田乃家社<lb/> 草名伎社　礒社　多伎原社<lb/> 月夜見社　湯田社　奈良波良社<lb/>                                     大水社　津長大水社　大国玉比女社<lb/> 御<app>
+<lem wit="#土本">饗</lem>
+<rdg wit="#大神宮式５条 #神名式上12条">食</rdg>
+<note>饗　大神宮式５条および神名式上12条では「食」。</note>
+</app>社　大土御祖社　田上大水社<lb/> 国津<app>
+<lem wit="#土本">御</lem>
+<rdg wit="#訳注本">御祖</rdg>
+<note>御　訳注本は儀式帳によりこの下に「祖」字を補う。</note>
+</app>社　坂手国生社　粟皇子社<lb/> 川原国生社　久々都比女社　大間国生社<lb/> 江社　神前社　榎村社<lb/>                                           朽羅社　度会<app>
+<lem>国御社</lem>
+<rdg wit="#土本大神宮式５条 #土本神名式上12条">国御神社</rdg>
+<rdg wit="#儀式帳">国都御神社</rdg>
+<note>国御社　大神宮式５条および神名式上12条では「国御神社」、儀式帳では「国都御神社」。</note>
+</app>　度会大国玉比女社<lb/>                                     清野井庭社　志等美社　川原社<lb/> 山末社　<app>
+<lem wit="#儀式帳">榛</lem>
+<rdg wit="#土本 #等">捧</rdg>
+<note>榛　土本等「捧」。儀式帳により「榛」とみなす。</note>
+</app>原社　川原大社<lb/> 宇須乃野社　小俣社　川原淵社<lb/>                                           大神御船社　雷電社　<app>
+<lem wit="#土本神名式上12条">萩</lem>
+<rdg wit="#儀式帳">葭</rdg>
+<note>萩　神名式上12条は「荻」、儀式帳は「葭」。</note>
+</app>原社<lb/> 大川内社〈已上度会<app>
+<lem>郡</lem>
+<rdg wit="#土本 #等">郡已上社名本官説</rdg>
+<note>郡　土本等、この下に「已上社名本官説」あり。</note>
+</app>、〉</p>        <p ana="項" xml:id="o-item05106104">                                           座別絹三尺、<name ref="#木綿">木綿</name>二両、麻五両、<name ref="#庸布">庸布</name>一丈四尺、楯一枚、八座置・四座置各一束、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各六両、<name ref="#腊">腊</name>・<name ref="#塩">塩</name>各五合、<name ref="#海藻">海藻</name>・<name ref="#滑海藻">滑海藻</name>・雑<app>
+<lem wit="#近本補書 #条本 #等">海</lem>
+<rdg wit="#土本 #等"/>
+<note>海　土本等無し。近本補書および条本等により補う。</note>
+</app>菜各一両二分、<name ref="#酒">酒</name>一升、 坩一口、惣祭所須甕三口、匏三柄、薦五枚、祝詞料<name ref="#庸布">庸布</name>五段、造幣忌部三人明衣<app>
+<lem wit="#訳注本">料布</lem>
+<rdg wit="#土本 #等"/>
+<note>料布　土本等無し。22条・29条等により補う訳注本に従い意改。</note>
+</app>三<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、<name ref="#短帖">短帖</name>一枚、</p>    <p ana="項" xml:id="o-item05106105"> 　右祭、二月四日供祭、其六月・十二月月次・鎮火・<app>
+<lem wit="#訳注本">道饗</lem>
+<rdg wit="#土本 #等">饗道</rdg>
+<note>道饗　土本等「饗道」。訳注本に従い意改。</note>
+</app>・大殿・御贖・大祓并朔日忌火・庭火等祭供神<app>
+<lem wit="#条本">雑</lem>
+<rdg wit="#土本 #等"/>
+<note>雑　土本等無し、条本により補う。</note>
+</app>物及明衣・祝詞料皆准在京、但月次祭加火雷神一座、</p>   </div> <div ana="斎宮" n="5.62" subtype="項" type="条" xml:id="o-5_62"> <head ana="三時祭禊料"/> <p ana="項" xml:id="o-item05106201"> 斎内親王参三時祭禊料<lb/>                                     五色<name ref="#絁">絁</name>各六尺、安芸<name ref="#木綿">木綿</name>十五枚、凡<name ref="#木綿">木綿</name>・麻各三斤、<name ref="#庸布">庸布</name>六段、<name ref="#布">布</name>衣・裳各三具、〈料<name ref="#庸布">庸布</name>、〉<name ref="#鍬">鍬</name>十二口、筥三合、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各六斤、<name ref="#海藻">海藻</name>・<name ref="#雑海菜">雑海菜</name>各六斤、                                     <name ref="#腊">腊</name>・<name ref="#塩">塩</name>各一斗二升、<name ref="#米">米</name>・<name ref="#酒">酒</name>各三斗、稲十二束、瓫十二口、坏六口、槲十八把、匏三柄、<name ref="#輿籠">輿籠</name>三脚、<name ref="#食薦">食薦</name>六枚、黄蘗十五両、〈已上晦日禊料、〉</p> <p ana="項" xml:id="o-item05106202"> 五色薄<name ref="#絁">絁</name>各九尺、<name ref="#倭文">倭文</name>九尺、安芸<name ref="#木綿">木綿</name>廿七枚、凡<name ref="#木綿">木綿</name>・麻各六斤、<name ref="#布">布</name>衣・裳<app>
+<lem wit="#訳注本">各</lem>
+<rdg wit="#土本 #等"/>
+<note>各　土本等無し。訳注本にならい意補。</note>
+</app>九具、〈料<name ref="#庸布">庸布</name>、〉<name ref="#鉄人像">鉄人像</name>十八枚、筥九合、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各九斤、<name ref="#腊">腊</name>・<name ref="#塩">塩</name>各九升、                                     <name ref="#海藻">海藻</name>・<name ref="#雑海菜">雑海菜</name>各九斤、雑盛九籠、<name ref="#米">米</name>・<name ref="#酒">酒</name>各二斗七升、稲九束、<name ref="#藁">藁</name>三囲、〈已上参日禊并堺祭料、〉</p>  <p ana="項" xml:id="o-item05106203">                                     　右五月・十一月晦日、隨近川頭為禊、八月晦日、臨尾野湊為禊、其三時祭月十五日、斎内親王向離宮、行路之間有二処堺祭、〈宮東堭外及多気・度会両郡堺祭之、料物色目在上、〉                                     到着禊殿、〈神宮司并掃部司供奉装束、〉主神司中臣為禊、〈料物神宮司儲之、〉大神宮司奉斎王膳、兼賜<name ref="#酒">酒</name>肴勅使已下、次主神司供奉内院大殿祭、〈所須祭物、神宮司儲之、〉                                     然後斎王遷内院〈装束雑具一同禊殿、〉奉夕膳、〈神宮司以料物附所司、但男女官供給弁備行之、〉</p> <p ana="項" xml:id="o-item05106204"> 　十六日朝饌之後、斎王参度会宮、路辺窮者賑給如常、                                           禊度会河、参入神宮、至板垣門東頭下輿、入外玉垣門就東殿、〈禰宜并掃部司供奉装束、〉<app>
+<lem wit="#土本">神宮司</lem>
+<rdg wit="#九冊本傍書">従此下川賜禄所奈〔祭ヵ〕加</rdg>
+<note>神宮司　九冊本傍書「従此下川賜禄所奈〔祭ヵ〕加」。</note>
+</app>執鬘<name ref="#木綿">木綿</name>、入外玉垣門而跪、命婦出受以奉斎王、拍手而執著鬘、                                           又神宮司持太玉串、入同門而跪、命婦亦転奉斎王、拍手而執、捧入内玉垣<app>
+<lem wit="#慶長本 #等">門</lem>
+<rdg wit="#土本 #条本">院門</rdg>
+<rdg wit="#近本">院門</rdg>
+<rdg wit="#近本">院内</rdg>
+<note>門　土本・条本「院門」。近本「院門」と記し「門」を「内」に訂正。慶長本等により改める。</note>
+</app>内就座席、〈命婦若女孺二人陪従、〉避席進前再拝両段、訖玉串授命婦、                                     受転授物忌、受執立瑞垣門西頭、斎王還就本座、宮司宣祝詞、訖物忌・内人奉幣<name ref="#帛">帛</name>案、斎王并衆官以下再拝、拍八開手、次拍短手再拝、如此両遍、既而衆官退出、                                     就解斎殿給<name ref="#酒">酒</name>食、訖入外玉垣門供倭舞、先神宮司以下及主神司・寮官次第舞、次斎宮女孺四人供五節舞、訖給禄有差、其後斎王還着離宮、主神司中臣候南門奉御麻、</p>   <p ana="項" xml:id="o-item05106205">                                     　十七日参大神宮禊御裳洗河、自余之儀、同度会宮、〈事見大神宮式、〉是日神宮司献物即賜禄、又奉幣使同賜禄、並各有差、</p> <p ana="項" xml:id="o-item05106206"> 　十八日斎王還宮、主神司中臣候南門奉御麻、兼供奉大殿祭、祗承国司賜禄、</p> </div> <div ana="斎宮" n="5.63" subtype="項" type="条" xml:id="o-5_63"> <head ana="卜庭神祭"/> <p ana="項" xml:id="o-item05106301"> 毎月晦日卜庭神祭〈斎王参三時祭卜庭神祭准此、〉<lb/> <app>
+<lem>米・酒各四升</lem>
+<note>米酒各四升　考異はこの前後に脱文有らんと推測する。訳注本も従うべきかとする。</note>
+</app>、<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各一斤、<name ref="#腊">腊</name>二升、<app>
+<lem wit="#土本">塩一升</lem>
+<rdg wit="#九冊本 #京博本">塩一升新嘗会及向度会宮、令依御短尺イニ</rdg>
+<note>塩一升　九冊本・京博本この下に「新嘗会及向度会宮、令依御短尺イニ」と注す。九冊本は「令」に「本之〔定ヵ〕」と傍書する。</note>
+</app>、</p>   </div> <div ana="斎宮" n="5.64" subtype="項" type="条" xml:id="o-5_64"> <head ana="十月祓料"/> <p ana="項" xml:id="o-item05106401"> 凡十月晦日祓料、同三時祭祓、</p> </div> <div ana="斎宮" n="5.65" subtype="項" type="条" xml:id="o-5_65"> <head ana="新嘗祭"/> <p ana="項" xml:id="o-item05106501"> 新嘗祭神百十五座〈大十七座、小九十八座、〉<lb/>                                           　右、供祭雑物、並准祈年、但鎮炊殿并忌<app>
+<lem wit="#条本 #近本 #等">火</lem>
+<rdg wit="#土本">大</rdg>
+<note>火　土本「大」。条本・近本等により改める。</note>
+</app>・庭火・大殿祭等、皆准在京、</p>  </div> <div ana="斎宮" n="5.66" subtype="項" type="条" xml:id="o-5_66"> <head ana="供新嘗料"/> <p ana="項" xml:id="o-item05106601"> 供新嘗料〈卜八男十女、〉<lb/>                                           絹二丈、糸二両、紵一丈二尺、細<name ref="#布">布</name>一丈六尺、曝<name ref="#布">布</name>一丈二尺、<name ref="#調布">調布</name>三<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>一丈、<name ref="#木綿">木綿</name>二斤四両、土盤十口、手洗二口、片椀十口、高盤十口、 洗盤六口、堝十口、<app>
+<lem wit="#諸本">瓫</lem>
+<rdg wit="#訳注本">盆</rdg>
+<note>瓫　訳注本「盆」。諸本「瓫」。</note>
+</app>四口、手湯<app>
+<lem wit="#諸本">盆</lem>
+<rdg wit="#訳注本">瓫</rdg>
+<note>盆　訳注本「瓫」。諸本「盆」。</note>
+</app>二口、〈已上寮充之、〉筥十四合、麁筥二合、明櫃三合、供机十枚、供料<name ref="#米">米</name>二斗、粥料<name ref="#米">米</name>二斗、粟二斗、                                     白黒二御<name ref="#酒">酒</name>料稲廿束、御<name ref="#酒">酒</name>一石、匏十八柄、<name ref="#酒">酒</name>垂四口、槲四俵、<name ref="#漆">漆</name>刻柄刀子二枚、長刀子十枚、短刀子十枚、土火爐二枚、木刺槌二柄、砧木二枚、蝦鰭槽二口、                                           日影葛二荷、<name ref="#輿籠">輿籠</name>二脚、〈已上当国充之、〉瓼五口、平居【瓦并】五口、都波々四口、匜八口、小<app>
+<lem wit="#諸本">杯</lem>
+<rdg wit="#訳注本">坏</rdg>
+<note>杯　訳注本「坏」。諸本「杯」。</note>
+</app>八口、陶臼二口、筥<app>
+<lem wit="#諸本">杯</lem>
+<rdg wit="#訳注本">坏</rdg>
+<note>杯　訳注本「坏」。諸本「杯」。</note>
+</app>廿口、陶埦八口、多志良加四口、                                           瓶六口、陶鉢八口、盤廿口、高<app>
+<lem wit="#諸本">杯</lem>
+<rdg wit="#訳注本">坏</rdg>
+<note>杯　訳注本「坏」。諸本「杯」。</note>
+</app>十口、<name ref="#酒">酒</name>盞十口、<name ref="#油">油</name>三升、切机二脚、叩盆四口、〈已上美濃国充之、〉東<name ref="#鰒">鰒</name>二斤十両、薄<name ref="#鰒">鰒</name>・隠伎<name ref="#鰒">鰒</name>各二斤、<name ref="#堅魚">堅魚</name>五斤、                                     煮<name ref="#堅魚">堅魚</name>十斤、烏賊・螺各十両、<name ref="#鮨">鮨</name><name ref="#鰒">鰒</name>二升、干海松二斤、紫菜一斤、海松纏<name ref="#鰒">鰒</name>一升、煮<name ref="#塩">塩</name>年魚・醤鮒各二升、干薑二両、清<name ref="#酒">酒</name>・濁<name ref="#酒">酒</name>各二升、<name ref="#米">米</name>・糯<name ref="#米">米</name>各一升、                                           大豆・小豆・<name ref="#小麦">小麦</name>・胡麻子各二升、糯稲四束、糯糒一升、粟糒・葟子糒・黍子糒各二升、椎子・菱子各五升、蓮子・干棗各一升、生<app>
+<lem wit="#諸本">栗</lem>
+<rdg wit="#訳注本">栗子</rdg>
+<note>栗　訳注本この下に「子」を意補。諸本無し。</note>
+</app>一斗、搗<app>
+<lem wit="#諸本">栗</lem>
+<rdg wit="#訳注本">栗子</rdg>
+<note>栗　訳注本この下に「子」を意補。諸本無し。</note>
+</app>六升、 干柿二升、橘子十蔭、干槲三俵、<name ref="#弓">弓</name><app>
+<lem wit="#諸本">絃</lem>
+<rdg wit="#訳注本">弦</rdg>
+<note>絃　訳注本「弦」に意改。諸本「絃」。</note>
+</app>葉一荷、〈已上寮充之、〉<name ref="#輿籠">輿籠</name>一脚、〈当国充之、〉<lb/> 　右、主神司并膳部所請、</p>          <p ana="項" xml:id="o-item05106602"> 稲八束、粟四束、〈已上寮充之、〉<lb/> 　右、炊部所請、</p> <p ana="項" xml:id="o-item05106603">                                     細<name ref="#布">布</name>一尺、<name ref="#酒">酒</name>坏二具、窪坏廿口、片盤十五口、〈已上寮充之、〉<name ref="#食薦">食薦</name>二枚、〈当国充之、〉<lb/> 　右、<name ref="#酒">酒</name>部所請、</p> <p ana="項" xml:id="o-item05106604"> 絹五丈一尺、曝<name ref="#布">布</name>六<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈八尺五寸、紵<name ref="#布">布</name>六尺、糸十両、篩二口、麻笥二口、楉案一脚、土大盤二口、<name ref="#油">油</name>一升、小豆一升、〈以上寮充之、〉                                     湯槽・円槽・洗足槽各一隻、棚案一脚、板<name ref="#蓋">蓋</name>五枚、明櫃二合、筥一合、麁筥一合、灯台二具、匏三柄、菲一両、〈以上当国充之、〉池由加一口、由加四口、                                           叩<app>
+<lem wit="#諸本">盆</lem>
+<rdg wit="#訳注本">瓫</rdg>
+<note>盆　訳注本「瓫」。諸本「盆」。</note>
+</app>四口、<name ref="#油">油</name>【瓦并】一口、<name ref="#油">油</name><app>
+<lem wit="#諸本">杯</lem>
+<rdg wit="#訳注本">坏</rdg>
+<note>杯　訳注本「坏」。諸本「杯」。</note>
+</app>・盤各二口、鋺形一口、陶鉢一口、〈以上美濃国充之、〉<lb/> 　右、殿部所請、</p>    <p ana="項" xml:id="o-item05106605"> 払細<name ref="#布">布</name>一丈二尺、筥一合、白端帖十二枚、<app>
+<lem wit="#条本 #九冊本 #等">短</lem>
+<rdg wit="#土本">知</rdg>
+<note>短　土本「知」。条本・九冊本等により改める。</note>
+</app>帖八枚、<app>
+<lem wit="#近本傍書 #等">坂</lem>
+<rdg wit="#土本 #等">板</rdg>
+<rdg wit="#京博本朱傍訓">サカ</rdg>
+<note>坂　土本等「板」。近本傍書等により改める。京博本朱傍訓「サカ」。</note>
+</app>枕二枚、折薦帖二枚、〈<app>
+<lem wit="#諸本">以</lem>
+<rdg wit="#訳注本">已</rdg>
+<note>以　訳注本「已」。諸本「以」。</note>
+</app>上寮充之、〉<lb/> 　右、掃部所請、</p>    <p ana="項" xml:id="o-item05106606"> <name ref="#絁">絁</name>五疋、白絹二丈五尺、<name ref="#綿">綿</name>廿屯、紫小纈<name ref="#帛">帛</name>三丈、細<name ref="#布">布</name>二丈、曝<name ref="#布">布</name>一<app>
+<lem wit="#段">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>一丈四尺、筥六合、櫛一具、〈黄楊、〉櫛案一脚、刀子<app>
+<lem wit="#条本 #九冊本 #等">一</lem>
+<rdg wit="#土本"/>
+<note>一　土本無し。条本・九冊本等により補う。</note>
+</app>具、冠一条、 爪<name ref="#磨">磨</name>一枚、<app>
+<lem wit="#条本 #九冊本 #等">沓</lem>
+<rdg wit="#土本">水</rdg>
+<note>沓　土本「水」。条本・九冊本等により改める。</note>
+</app>一両、出雲席一枚、<lb/> 　右、斎内親王神忌御服料、</p>    <p ana="項" xml:id="o-item05106607">                                           絹十四疋三丈、〈十疋被料、四疋三丈青摺衣料、〉<name ref="#綿">綿</name>一百九十屯、<name ref="#調布">調布</name>六十七<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本 #京博本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本・京博本傍書「端イニ」。</note>
+</app>三丈四尺、紅花六斤、〈已上青摺衣料、〉絹二疋四丈、 曝<name ref="#布">布</name>六<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書 #京博本傍書">端イニ</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。九冊本・京博本傍書「端イニ」。</note>
+</app>六尺、〈已上膳部并女孺等褠・襅料、〉<lb/> 　右、小斎人等祭服、寮依例充、其賜禄一准元日、</p>   </div> <div ana="斎宮" n="5.67" subtype="項" type="条" xml:id="o-5_67"> <head ana="諸司春祭"/> <p ana="項" xml:id="o-item05106701"> 諸司春祭〈秋祭准此、〉<lb/> 膳部神祭<lb/>                                     五色薄<name ref="#絁">絁</name>各一尺、<name ref="#倭文">倭文</name>一尺、<name ref="#木綿">木綿</name>・麻各一斤、<name ref="#庸布">庸布</name>一段、<name ref="#鍬">鍬</name>一口、<name ref="#米">米</name>五斗、<name ref="#酒">酒</name>四斗、糯<name ref="#米">米</name>一斗、大豆・小豆各二升、                                     <name ref="#腊">腊</name>十二斤、<name ref="#鰒">鰒</name>二斤、<name ref="#堅魚">堅魚</name>・熬海鼠・<name ref="#海藻">海藻</name>各三斤、<name ref="#鮨">鮨</name>三斗、<name ref="#塩">塩</name>五升、醤・酢各一升、<name ref="#食薦">食薦</name>一枚、</p> <p ana="項" xml:id="o-item05106702"> 炊部神祭<lb/>                                     五色薄<name ref="#絁">絁</name>各三寸、<name ref="#倭文">倭文</name>三寸、<name ref="#木綿">木綿</name>・麻各一斤、<name ref="#庸布">庸布</name>一段、<name ref="#鍬">鍬</name>一口、<name ref="#酒">酒</name>四斗、<name ref="#米">米</name>・糯<name ref="#米">米</name>各三升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#腊">腊</name>各一斤、<name ref="#海藻">海藻</name>二斤、<name ref="#鮨">鮨</name>二升、<name ref="#塩">塩</name>一升、大豆・小豆各二升、</p> <p ana="項" xml:id="o-item05106703"> <name ref="#酒">酒</name>部神祭<lb/>                                     五色薄<name ref="#絁">絁</name>各六寸、<name ref="#倭文">倭文</name>六寸、<name ref="#木綿">木綿</name>・麻各八両、<name ref="#庸布">庸布</name>一段、<name ref="#鍬">鍬</name>一口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各六升、糯<name ref="#米">米</name>四升、大豆・小豆各一升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各一斤、<name ref="#鮨">鮨</name>・<name ref="#腊">腊</name>各四升、<name ref="#塩">塩</name>一升、盤五口、<name ref="#食薦">食薦</name>一枚、</p> <p ana="項" xml:id="o-item05106704"> 水部神祭<lb/>                                     五色薄<name ref="#絁">絁</name>各六寸、<name ref="#倭文">倭文</name>六寸、<name ref="#木綿">木綿</name>八両、麻四両、<name ref="#庸布">庸布</name>一段、<name ref="#鍬">鍬</name>一口、<name ref="#米">米</name>・<name ref="#酒">酒</name>各二升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>各八両、<name ref="#鮨">鮨</name>一升、<name ref="#海藻">海藻</name>八両、<name ref="#塩">塩</name>五合、</p> <p ana="項" xml:id="o-item05106705"> 氷室神祭<lb/>                                     五色薄<name ref="#絁">絁</name>各一尺、<name ref="#倭文">倭文</name>一尺、<name ref="#木綿">木綿</name>四両、麻三両、<name ref="#鍬">鍬</name>一口、<name ref="#米">米</name>六升、糯<name ref="#米">米</name>・<name ref="#酒">酒</name>各一升、大豆・小豆各二升、<name ref="#鰒">鰒</name>八両、<name ref="#堅魚">堅魚</name>一斤、<name ref="#鮨">鮨</name>・<name ref="#腊">腊</name>各六升、<name ref="#海藻">海藻</name>一斤、凝海菜四升、</p> <p ana="項" xml:id="o-item05106706"> 竈・<name ref="#炭">炭</name>竈山・戸・御川池等神祭<lb/>                                     五色薄<name ref="#絁">絁</name>各一尺、<name ref="#倭文">倭文</name>一尺、<name ref="#木綿">木綿</name>・麻各四両、<name ref="#庸布">庸布</name>一段、<name ref="#鍬">鍬</name>二口、<name ref="#米">米</name>四升、<name ref="#酒">酒</name>六升、大豆・小豆各一升、<name ref="#鰒">鰒</name>・<name ref="#堅魚">堅魚</name>・<name ref="#海藻">海藻</name>各一斤、<name ref="#腊">腊</name>・<name ref="#鮨">鮨</name>各六升、<name ref="#塩">塩</name>二升、<name ref="#食薦">食薦</name>四枚、</p> </div> <div ana="斎宮" n="5.68" subtype="項" type="条" xml:id="o-5_68"> <head ana="大神宮幣"/> <p ana="項" xml:id="o-item05106801"> 十二月供<app>
+<lem wit="#近本・京博本傍書 #等">二</lem>
+<rdg wit="#土本等"/>
+<note>二　土本等無し。近本・京博本傍書等により補う。</note>
+</app>所大神宮幣<lb/>                                     宮別絹一疋、糸一絇、<name ref="#綿">綿</name>一屯、<name ref="#庸布">庸布</name>一段、<name ref="#木綿">木綿</name>・麻各一斤、<lb/> 　右、主神司請供之、</p>  </div> <div ana="斎宮" n="5.69" subtype="項" type="条" xml:id="o-5_69"> <head ana="斎宮諸神幣"/> <p ana="項" xml:id="o-item05106901"> 斎宮内諸神十七座幣<lb/>                                     座別絹五尺、糸一絇、<name ref="#綿">綿</name>一屯、<name ref="#庸布">庸布</name>一丈四尺、<name ref="#木綿">木綿</name>二両、麻五両、</p> </div> <div ana="斎宮" n="5.70" subtype="項" type="条" xml:id="o-5_70"> <head ana="斎宮鋪設等"/> <p ana="項" xml:id="o-item05107001"> 斎宮鋪設<lb/> <app>
+<lem wit="#条本 #九冊本 #等">斎</lem>
+<rdg wit="#土本">文</rdg>
+<note>斎　土本「文」。条本・九冊本等により改める。</note>
+</app>内親王板牀二張、紫端帖二枚、黄端帖二枚、緑端帖六枚、席廿枚、五位及命婦各板牀二張、黄端帖二枚、乳母各板牀一張、緑端帖一枚、                                     寮助板牀・楉牀各一張、折薦帖二枚、自余官人・女孺牀帖各一枚、番上各帖一枚、<lb/>                                     　右、斎内親王向国鋪設、初年当国供之、後年寮司備之、</p>  <p ana="項" xml:id="o-item05107002"> 幄四具、紺<name ref="#布">布</name>幃二具、蒲防壁十枚、<lb/> 　右、以京庫物充之、随壊替之、</p> <p ana="項" xml:id="o-item05107003"> <name ref="#酒">酒</name>卌甕、〈甕別<name ref="#米">米</name>三石七斗、〉酢五甕、〈甕別三石七斗、〉醤六甕、〈<app>
+<lem>別</lem>
+<rdg wit="#訳注本">甕別</rdg>
+<rdg wit="#藤波本朱補書 #京博本朱補書">甕</rdg>
+<note>別　訳注本この上に「甕」を意補。藤波本・京博本は「甕」を朱補書。</note>
+</app>大豆三石、〉<lb/> 　右、斎内親王初到之年、国司預割可納寮<name ref="#米">米</name>・大豆・<name ref="#塩">塩</name>等、造儲供之、若有甕破壊者、令尾張国供送、</p>  </div> <div ana="斎宮" n="5.71" subtype="項" type="条" xml:id="o-5_71"> <head ana="年料供物"/> <p ana="項" xml:id="o-item05107101"> 年料供物<lb/>                                           寝殿壁代帳料絹十三疋一尺七寸、<name ref="#綿">綿</name>卅七屯、<name ref="#蓋">蓋</name>代料<name ref="#調布">調布</name>十五<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈二尺、承塵料<name ref="#調布">調布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈三尺、蔀料<name ref="#庸布">庸布</name>八段、簾料細<name ref="#布">布</name>三<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>三丈九尺、斗帳料絹七疋二丈四尺、                                           <name ref="#綿">綿</name>卅屯、床廻帳料絹二疋、<name ref="#綿">綿</name>十屯、床覆料絹一疋二<app>
+<lem>尺</lem>
+<rdg wit="#条本 #近本 #九冊本">丈</rdg>
+<rdg wit="#条本傍書 #近本傍書 #九冊本傍書">尺</rdg>
+<rdg wit="#梵本">尺</rdg>
+<rdg wit="#梵本傍書">丈</rdg>
+<note>尺　条本・近本・九冊本は「丈」に作り「尺」を傍書。梵本は「尺」に作り「丈」を傍書。</note>
+</app>、褥料絹三疋一丈六尺七寸、<name ref="#綿">綿</name>廿四屯、被料長絹十二疋、調<name ref="#綿">綿</name>八十四屯、服料絹百十疋、                                     <name ref="#綿">綿</name>百八十屯、襪料<name ref="#絁">絁</name>一疋、糸卌絇、履廿四両、〈已上寮供之、〉<lb/> 　右、女部司縫備、其簾以上、随穢替之、</p>     <p ana="項" xml:id="o-item05107102">                                     両面一疋四丈、緋<name ref="#帛">帛</name>五丈七尺、<name ref="#油">油</name><name ref="#絁">絁</name>一疋三尺、絹三丈四尺、細<name ref="#布">布</name>一丈六尺、曝<name ref="#布">布</name>二丈四尺、<name ref="#綿">綿</name>一屯、糸一絇、麻一斤、水甕二口、水甕麻笥三口、韓竈四具、長刀子二枚、                                           短刀子五枚、砥一顆、〈以上寮充之、〉膳案一脚、菓案一脚、筥笥三合、<app>
+<lem wit="#土本">板</lem>
+<rdg wit="#近本">飯</rdg>
+<note>板　近本「飯」に訂正。</note>
+</app>笥二合、筯筥一合、麁筥五合、切案二脚、槲案二脚、大案二脚、韓櫃三合、                                     明櫃八合、大笥五合、別脚案二脚、横筥二合、缶十口、槽一隻、円槽二隻、席八枚、置簀六枚、臼一口、杵二枝、匏廿柄、笥杓廿柄、箕二枚、<name ref="#輦籠">輦籠</name>四脚、〈以上当国充之、〉<lb/>                                     　右、膳部司所請、</p>  <p ana="項" xml:id="o-item05107103"> 両面八尺、緋<name ref="#帛">帛</name>一丈二尺、<name ref="#油">油</name><name ref="#絁">絁</name>八尺、<name ref="#調布">調布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>、〈已上寮充之、〉碓一腰、杵二枝、箕二枚、<app>
+<lem wit="#土本 #条本">枚</lem>
+<rdg wit="#訳注本"/>
+<rdg wit="#土本・九冊本朱傍訓">ヒラ</rdg>
+<note>枚　訳注本「底、弥書。塙・京ニヨリテ削ル」とする。条本はこの字補筆。土本・九冊本朱傍訓「ヒラ」あり。</note>
+</app>槽一隻、明櫃三合、足別案二脚、〈已上当国充之、〉<lb/> 　右、炊部司所請、</p>   <p ana="項" xml:id="o-item05107104"> 両面四丈一尺九寸、緋<name ref="#帛">帛</name>二丈九尺九寸、<name ref="#油">油</name><name ref="#絁">絁</name>五丈、絹一丈九尺、細<name ref="#布">布</name>二<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>七尺、<name ref="#調布">調布</name>三<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>三丈五寸、<name ref="#庸布">庸布</name><app>
+<lem wit="#土本 #訳注本">三丈</lem>
+<note>三丈　訳注本「考異、「三」字ヲ疑ウ。庸布ハ二丈八尺一段ナレバ、何ラカノ誤アラン」とする。</note>
+</app>、<name ref="#酒">酒</name>盞卌八具、片盤廿口、洗盤一口、糸二両、<name ref="#鍬">鍬</name>二口、                                     筌十口、〈以上寮充之、〉足別案二脚、韓櫃三合、明櫃一合、<name ref="#酒">酒</name>槽二隻、押槽一隻、大案二脚、匏廿柄、笥杓十柄、蘿二口、箕二枚、置簀四枚、薦四枚、〈以上当国充之、〉<lb/>                                     　右、<name ref="#酒">酒</name>部司所請、</p>    <p ana="項" xml:id="o-item05107105"> 両面三丈六寸、緋<name ref="#帛">帛</name>二丈四尺七寸、<name ref="#油">油</name><name ref="#絁">絁</name>四丈四尺、絹二丈四尺、薄<app>
+<lem wit="#土本 #訳注本">絹</lem>
+<note>絹　訳注本「考異、「絁」ノ誤リカトナス。或イハ然ラン」とする。</note>
+</app>一丈二尺、糸一両、曝<name ref="#布">布</name>三丈四尺、細<name ref="#布">布</name>三丈四尺、紵<app>
+<lem wit="#雲州本">布</lem>
+<rdg wit="#諸本"/>
+<note>布　諸本無し。雲州本によって補う。</note>
+</app>一丈、釿一<app>
+<lem wit="#京博本朱傍書">柄</lem>
+<rdg wit="#土本 #等">両</rdg>
+<note>柄　土本等「両」。京博本朱傍書により「柄」に改める。</note>
+</app>、小刀子二柄、 水甕麻笥二口、〈已上寮充之、〉坩一口、陶<app>
+<lem wit="#条本 #近本 #等">埦</lem>
+<rdg wit="#土本">婉</rdg>
+<note>埦　土本「婉」。条本・近本等により改める。</note>
+</app>卅口、臼二口、盤十口、〈已上美濃国充之、〉外居案二脚、白木手湯槽一隻、供水木<name ref="#蓋">蓋</name>・後盤各四枚、大案二脚、                                           筥一合、麁筥二合、<app>
+<lem wit="#条本 #近本 #等">土</lem>
+<rdg wit="#土本">上</rdg>
+<note>土　土本「上」。条本・近本等により改める。</note>
+</app>火爐一脚、明櫃二合、匏五柄、笥杓五柄、箕<app>
+<lem wit="#条本 #九冊本 #等">十</lem>
+<rdg wit="#土本"/>
+<note>十　土本無し。条本・九冊本等により補う。</note>
+</app>@<app>
+<lem wit="#近本訂正書">枚</lem>
+<rdg wit="#土本 #等">株</rdg>
+<note>枚　土本等「株」。近本訂正書により改める。</note>
+</app>、〈已上当国充之、〉<lb/> 　右、水部司所請、</p>        <p ana="項" xml:id="o-item05107106">                                           両面二丈六尺三寸、緋<name ref="#帛">帛</name>四疋三丈七尺、<name ref="#油">油</name><name ref="#絁">絁</name>二疋五丈九尺二寸、白<name ref="#絁">絁</name>六尺、絹五丈三尺五寸、曝<name ref="#布">布</name>九<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本「端」に意改。諸本「段」。</note>
+</app>二丈一尺七寸、紵<name ref="#布">布</name>六尺、<name ref="#調布">調布</name>二丈九尺、糸二分、楉案一脚、                                     <name ref="#油">油</name>坏・盤各三口、鉄火取堝一口、鉄五廷、<name ref="#鍬">鍬</name>二口、〈以上寮充之、〉湯槽一隻、洗床一張、大案二脚、木<name ref="#蓋">蓋</name>五枚、洗頭槽一隻、洗足槽一隻、                                     洗物槽一隻、韓櫃二合、灯台二具、明櫃二合、筥二合、麁筥二合、匏三柄、〈已上当国充之、〉池由加一口、由加四口、匜一口、【瓦并】一口、缶二口、叩盆四口、〈以上美濃国充之、〉<lb/>                                     　右、殿部司所請、</p>  <p ana="項" xml:id="o-item05107107">                                     錦・緋<name ref="#帛">帛</name>各一丈七尺六寸、黄<name ref="#帛">帛</name>一疋四丈四尺四寸、<name ref="#油">油</name><name ref="#絁">絁</name>一疋四尺、払細<name ref="#布">布</name>一丈二尺、〈已上寮充之、〉筥一合、〈当国充之、〉<lb/>                                           　右、<app>
+<lem wit="#玄梁本訂正書">掃</lem>
+<rdg wit="#土本 #等">拂</rdg>
+<note>掃　土本等「拂」。玄梁本訂正書により改める。</note>
+</app>部司所請、</p>  <p ana="項" xml:id="o-item05107108"> 合薬十七剤三分剤之一<lb/>                                           四味理中丸・七気丸各二剤、呉茱萸丸・勺薬丸・温白丸各一剤、犀角丸三<app>
+<lem wit="#考異">分</lem>
+<rdg wit="#土本 #等">分一</rdg>
+<note>分　土本等この下に「一」あり。考異に従い衍と見て削る。</note>
+</app>剤之一、神明膏・万病膏各二剤、升麻膏・賊風膏各三剤、 神明白散五十二剤、度嶂散二剤、屠蘇二剤、</p>  <p ana="項" xml:id="o-item05107109"> 所須薬種<lb/>                                           桂心六両一分、巴豆五十五枚、甘草十両三分二銖、犀角四分二銖、蜜<app>
+<lem wit="#条本 #九冊本 #等">五</lem>
+<rdg wit="#土本"/>
+<note>五　土本無し。条本・九冊本等により補う。</note>
+</app>升、芒硝<app>
+<lem wit="#条本 #九冊本 #等">七</lem>
+<rdg wit="#土本"/>
+<note>七　土本無し。条本・九冊本等により補う。</note>
+</app>両四銖、防風一両二分四銖、麻黄二両三分四銖、                                           蛇銜九両一分、石膏一両三分、芎藭七両三分、大黄一斤四両二分四銖、人参十両、紫<app>
+<lem wit="#条本">菀</lem>
+<rdg wit="#土本 #等">苑</rdg>
+<note>菀　土本等「苑」。条本により改める。</note>
+</app>二両二分、茈胡五両、黄芩十一両二分二銖、                                     黄連一両二銖、皂莢二分一銖、勺薬六両、漏蘆六両一分、連翹十五両、白薟十両二分、蘆茹四両一分、附子九斤十五両、干薑七両二分、                                     猪膏六十四斤八両、白朮七斤十両二分、烏頭十四斤四両、半夏二両二分、桔梗九斤五両二分、細辛七斤十四両、呉茱萸一斤六両、                                           <app>
+<lem wit="#土本">昌</lem>
+<rdg wit="#訳注本">菖</rdg>
+<note>昌　訳注本は正格の用字である「菖」に改める。</note>
+</app>蒲二両二分、<app>
+<lem wit="#土本">伏</lem>
+<rdg wit="#訳注本">茯</rdg>
+<note>伏　訳注本は島原本・貞享本により正格の用字である「茯」に改める。</note>
+</app>苓二両二分、蜀椒二斤二分、桃人二両、枳実十二両一分二銖、亭歴子二両一分、杏人二両三分二銖、                                           厚朴二分二銖、支子百<app>
+<lem wit="#土本">廿</lem>
+<rdg wit="#典薬式18条">廿二</rdg>
+<note>廿　訳注本は典薬式18条に「廿二」とあることを指摘する。</note>
+</app>枚、升麻十一両二銖、干藍二分、豉一合一夕、前胡<app>
+<lem wit="#考異">二斤一分</lem>
+<rdg wit="#諸本">二升一合</rdg>
+<note>二斤一分　諸本「二升一合」。考異に従い意改する。</note>
+</app>、白芷<app>
+<lem wit="#考異">二斤一分</lem>
+<rdg wit="#諸本">二升一合</rdg>
+<note>二斤一分　諸本「二升一合」。考異に従い意改する。</note>
+</app>、当帰四両二分、蒴藋一斤一分、商陸四両一分、 <app>
+<lem wit="#土本">妨</lem>
+<rdg wit="#条本">磨</rdg>
+<rdg wit="#条本訓">亡〈和〉</rdg>
+<note>妨　条本「磨」とするも、「亡〈和〉」と訓を示す。</note>
+</app>草三斤五両、黄耆四両一分、牡丹四両一分、地楡四両一分、大戟五両一分、玄参三両三分、白頭公三両一分、躑躅花九両一分、<app>
+<lem wit="#土本">抜</lem>
+<rdg wit="#訳注本">菝</rdg>
+<note>抜　訳注本は玄梁本傍書により正格の用字である「菝」に改める。</note>
+</app>葜一両一分、                                     酢二斗五升、砥一顆、両面九尺六寸、<name ref="#油">油</name><name ref="#絁">絁</name>九尺六寸、<name ref="#帛">帛</name>四丈一尺、緋<name ref="#帛">帛</name>一丈五寸、絹八尺、紗三尺、<name ref="#布">布</name>三丈五尺、糸二両、<name ref="#木綿">木綿</name>七両、<name ref="#紙">紙</name>八十四張、〈已上寮充之、〉                                     陶坩・叩盆各四口、陶手洗一口、陶椀二合、盤二口、〈已上美濃国充之、〉筥二合、机二脚、折櫃一合、明櫃一合、大案一脚、麻笥一口、杓一柄、大笥一合、〈已上当国充之、〉                                           薬刀一具、鉄臼一口、杵一<app>
+<lem wit="#土本">枚</lem>
+<rdg wit="#訳注本">枝</rdg>
+<note>枚　訳注本は「枝」。</note>
+</app>、銅鍋一口、銅升一口、〈薬刀以下長用、〉合薬明衣料絹一疋、<name ref="#綿">綿</name>二屯、〈長<app>
+<lem wit="#考異">料</lem>
+<rdg wit="#土本 #等">用</rdg>
+<note>料　土本等「用」。考異に従い意改する。</note>
+</app>、〉<name ref="#調布">調布</name>二丈、〈生料、〉 正月供屠蘇命婦以下、嘗薬小児以上服料、<name ref="#帛">帛</name>十疋、<name ref="#綿">綿</name>廿屯、〈<name ref="#帛">帛</name>用斎王生気色、並寮充之、〉<lb/>                                     　右、薬部司所請、</p>             <p ana="項" xml:id="o-item05107110"> 緋<name ref="#帛">帛</name>・紫<name ref="#帛">帛</name>・<name ref="#油">油</name><name ref="#絁">絁</name>各二丈七尺六寸、麻卅斤、〈已上寮充之、〉<lb/>                                     　右、馬部司所請、</p> </div> <div ana="斎宮" n="5.72" subtype="項" type="条" xml:id="o-5_72"> <head ana="月料節料"/> <p ana="項" xml:id="o-item05107201">                                     凡斎内親王月料及節料等、皆准在京、其官人主典已上廿六人、番上一百一人、命婦一人、乳母三人、女孺卅九人、御厠人二人、御洗二人、〈別<name ref="#米">米</name>二升、<name ref="#塩">塩</name>二夕、〉                                     仕丁十五人、駆使丁廿五人、飼丁八人、〈取神郡并神戸仕丁充之、〉今良八人、〈別<name ref="#米">米</name>二升、<name ref="#塩">塩</name>二夕、〉女丁十人、将従二百七十三人、〈別<name ref="#米">米</name>一升五合、<name ref="#塩">塩</name>一夕五撮、〉                                     戸座一人、火炬小女二人、〈別<name ref="#米">米</name>一升四合、<name ref="#塩">塩</name>一夕四撮、〉宮主并卜部家口四人、〈別<name ref="#米">米</name>一升五合、<name ref="#塩">塩</name>一夕五撮、〉</p> </div> <div ana="斎宮" n="5.73" subtype="項" type="条" xml:id="o-5_73"> <head ana="元日"/> <p ana="項" xml:id="o-item05107301">                                     凡元日斎内親王遥拝大神宮、訖開宮南門、頭已下於門外拝賀斎王、其禄法、頭絹四疋、<name ref="#綿">綿</name>廿屯、助絹二疋、<name ref="#綿">綿</name>八屯、允絹二疋、                                           主神中臣・忌部、舎人・蔵部・膳部・門<app>
+<lem wit="#条本 #九冊本 #等">部</lem>
+<rdg wit="#土本"/>
+<note>部　土本無し。条本・九冊本等により補う。</note>
+</app>長各絹一疋、<name ref="#布">布</name>二<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、寮属、舎人判官、諸司長各絹一疋、<name ref="#布">布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<rdg wit="#九冊本傍書">端イ</rdg>
+<rdg wit="#京博本朱傍書">端イニ</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。九冊本傍書「端イ」、京博本朱傍書「端イニ」。</note>
+</app>、宮主、諸司主典各絹一疋、番上各<name ref="#布">布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、                                           命婦准頭、外位者絹三疋、<name ref="#綿">綿</name>十屯、乳母及上等女孺各絹二疋、中等女孺絹一疋、下等女孺<name ref="#布">布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、糸一絇、自余雑色<name ref="#庸布">庸布</name>各一段、 三日大神宮司等拝<app>
+<lem wit="#条本 #九冊本 #等">賀</lem>
+<rdg wit="#土本弥書">賀賀</rdg>
+<note>賀　土本弥書。条本・九冊本等により削る。</note>
+</app>、給御衣一領、禰宜被一条、郡司<name ref="#布">布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、内人各糸一絇、但七日頭給被一条、十六日青摺袍一領、袴一腰、</p>        </div> <div ana="斎宮" n="5.74" subtype="項" type="条" xml:id="o-5_74"> <head ana="六月"/> <p ana="項" xml:id="o-item05107401">                                     凡六月斎内親王参神宮、陪従皆給装束、〈十二月准此、〉諸司主典已上、人別絹三丈五尺、〈供膳官人加褌料<name ref="#布">布</name>、〉神部六人・卜部三人・膳部八人・炊部三人・                                     <name ref="#酒">酒</name>部四人・水部四人・蔵部六人・殿部六人・掃部四人・今良四人各<name ref="#布">布</name>二丈、戸座一人<name ref="#布">布</name>一丈四尺、奏舞女孺四人各絹一疋、自外不給、</p> </div> <div ana="斎宮" n="5.75" subtype="項" type="条" xml:id="o-5_75"> <head ana="九月祭"/> <p ana="項" xml:id="o-item05107501">                                     凡向九月祭陪従命婦以下賜装束、五位絹四疋、<name ref="#綿">綿</name>十屯、外位絹二疋三丈、<name ref="#綿">綿</name>五屯、乳母各絹二疋三丈、<name ref="#綿">綿</name>二屯、                                     上等女孺一人同乳母、中等以下廿三人各絹一疋三丈、<name ref="#綿">綿</name>二屯、自外不給、</p> </div> <div ana="斎宮" n="5.76" subtype="項" type="条" xml:id="o-5_76"> <head ana="官人禄"/> <p ana="項" xml:id="o-item05107601">                                     凡寮官人以下春秋禄者、以当国神税充之、夏冬服寮家賜之、夏男各絹四丈五尺、女絹一疋、但中等以下女孺各絹三丈、                                     今良女・女丁各絹三丈、<name ref="#庸布">庸布</name>二段、火炬小子各絹二疋、<name ref="#調布">調布</name>二丈、冬男各絹一疋三丈、<name ref="#綿">綿</name>四屯、女絹一疋、<name ref="#綿">綿</name>二屯、                                           今良女各絹一疋、<name ref="#布">布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、<name ref="#綿">綿</name>二屯、火<app>
+<lem wit="#条本">炬</lem>
+<rdg wit="#土本 #等"/>
+<note>炬　土本等無し。条本により補う。</note>
+</app>小子各絹四丈、<name ref="#布">布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、<name ref="#綿">綿</name>二屯、女丁各絹一疋、<name ref="#綿">綿</name>二屯、<name ref="#庸布">庸布</name>一段、自余駆仕丁夏<name ref="#庸布">庸布</name>一段、冬<name ref="#布">布</name>一<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、<name ref="#綿">綿</name>二屯、</p>     </div> <div ana="斎宮" n="5.77" subtype="項" type="条" xml:id="o-5_77"> <head ana="供田墾田"/> <p ana="項" xml:id="o-item05107701">                                     凡斎内親王到国、初年割正税七百束、供用年料之膳、当郡毎月舂送寮家、後年用供田稲、其供田二町、〈一町在多気郡、一町在度会郡、〉                                           外供田四町、〈三町在多気郡、一町在飯野郡、〉墾田廿七町八段一百十七歩、〈十七町七十一歩在多気郡、十町八段<app>
+<lem wit="#条本 #九冊本 #等">卌</lem>
+<rdg wit="#土本">卅</rdg>
+<note>卌　土本「卅」。条本・九冊本等により改める。</note>
+</app>六歩在飯野郡、〉其外供田地子稲者、 勘納寮家、充供御之闕乏、墾田准郷土估賃租、充寮家<app>
+<lem wit="#近本・京博本傍書">雑</lem>
+<rdg wit="#土本 #等">准</rdg>
+<note>雑　土本等「准」。近本・京博本傍書により改める。</note>
+</app>用、</p>   </div> <div ana="斎宮" n="5.78" subtype="項" type="条" xml:id="o-5_78"> <head ana="調庸雑物"/> <p ana="項" xml:id="o-item05107801"> 凡諸国送納調庸并請受京庫雑物、積貯寮庫、支配雑用、絹・<name ref="#絁">絁</name>七百疋、〈伊<app>
+<lem wit="#諸本">勢</lem>
+<rdg wit="#訳注本">勢絁</rdg>
+<note>勢　この下に訳注本は「絁」を意補。諸本無し。</note>
+</app>三百疋、尾張長絹廿疋、参河白絹卅疋、遠江絹一百五十疋、駿河絹一百疋、相摸絹五十疋、美濃絹五十疋、〉                                           糸三百絇、〈尾張調二百絇、遠江庸一百絇、〉庸<name ref="#綿">綿</name>一千一百屯、〈相摸、〉<name ref="#布">布</name>一千<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、〈上総細<name ref="#布">布</name>一百<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、常陸<name ref="#調布">調布</name>一百<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、相摸五百<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、下総三百<app>
+<lem wit="#諸本">段</lem>
+<rdg wit="#訳注本">端</rdg>
+<note>段　訳注本は「端」に意改。諸本「段」。</note>
+</app>、〉<name ref="#庸布">庸布</name>八百五十段、〈上野六百五十段、駿河二百段、〉 <name ref="#倭文">倭文</name>二<app>
+<lem wit="#諸本">疋</lem>
+<rdg wit="#訳注本">疋</rdg>
+<note>疋　主計式上27条により訳注本「疋」に改める。諸本は「疋」。</note>
+</app>、〈常陸、〉<name ref="#木綿">木綿</name>三百斤、〈伊豆二百五十二斤、遠江<app>
+<lem wit="#条本 #等">卌</lem>
+<rdg wit="#土本">卅</rdg>
+<note>卌　土本「卅」。条本等により改める。</note>
+</app>八斤、〉麻四百斤、熟麻一百斤、〈已上下総、〉熊皮八張、〈信濃、〉<name ref="#亀甲">亀甲</name>十二枚、〈志摩、〉                                           履卅両、<name ref="#紙">紙</name>一千張、〈已上伊勢、〉<name ref="#筆">筆</name>二百廿八管、〈伊勢一百管、尾張一百管、美濃廿八管、〉両面三疋三丈、緋<name ref="#帛">帛</name>七疋<app>
+<lem wit="#土本">三丈</lem>
+<rdg wit="#条本"><del>三丈</del>三丈</rdg>
+<note>三丈　条本は朱抹。</note>
+</app>、錦一丈七尺六寸、<name ref="#油">油</name><name ref="#絁">絁</name>八疋一丈、</p>          <p ana="項" xml:id="o-item05107802"> 雑薬五十<app>
+<lem wit="#諸本">六</lem>
+<rdg wit="#訳注本">八</rdg>
+<note>六　訳注本は上文71条により「八」に意改。諸本「六」。</note>
+</app>種、〈色目在上条、〉白<name ref="#綿">綿</name>六百屯、<name ref="#鍬">鍬</name>二百卅五口、鉄五十廷、砥八顆、墨十九廷、〈已上京庫、〉</p>  <p ana="項" xml:id="o-item05107803"> 庸<name ref="#米">米</name>一千六百六十七石五斗、〈伊賀三百<app>
+<lem wit="#条本 #九冊本 #等">卌</lem>
+<rdg wit="#土本">卅</rdg>
+<note>卌　土本「卅」。条本・九冊本等により改める。</note>
+</app>二石、伊勢四百七十三石二斗、参河五百五十九石三斗、美濃二百九十三石、〉                                     舂<name ref="#米">米</name>一千三百卅四石八斗、〈伊勢五百卅四石八斗、就中黒<name ref="#米">米</name>三百九十五石、尾張二百石、参河二百石、美濃四百石、〉                                     糯<name ref="#米">米</name>十石、<name ref="#小麦">小麦</name>十石、大麦一石、粟三石六斗、大豆・小豆各六石、醤大豆十八石、胡麻子一石、葟子一石、〈已上伊勢、〉                                           黍子一石、〈参河、〉<name ref="#塩">塩</name>八十石、〈志摩十五石、尾張六十五石、〉胡麻<name ref="#油">油</name>三石、〈遠江、〉槾椒<name ref="#油">油</name>四<app>
+<lem wit="#九冊本 #京博本">斗</lem>
+<rdg wit="#土本">升</rdg>
+<rdg wit="#土本傍書">斗歟</rdg>
+<note>斗　土本「升」、傍書「斗歟」。九冊本・京博本等により改める。</note>
+</app>四升、〈伊勢、〉</p>   <p ana="項" xml:id="o-item05107804"> 東<name ref="#鰒">鰒</name>三百斤、〈安房、〉<name ref="#堅魚">堅魚</name>五百斤、〈志摩二百八十八斤、伊豆二百十二斤、〉                                     煮<name ref="#堅魚">堅魚</name>一百卌四斤、〈駿河、〉<name ref="#堅魚">堅魚</name>煎四斗、〈伊豆、〉猪膏三斗、楚割鮭一百廿隻、〈已上信濃、〉煮<name ref="#塩">塩</name>年魚二石、<name ref="#鮨">鮨</name>年魚一石、〈伊勢、〉醤鮒三石、〈近江、〉                                     鳥<name ref="#腊">腊</name>十斤、〈尾張、〉鯛楚割九十斤、貼貝<name ref="#鮨">鮨</name>一石八斗、鯛枚乾一百斤、〈已上参河、〉雑<name ref="#腊">腊</name>五石、〈志摩二石、尾張二石、遠江一石、〉                                           <app>
+<lem wit="#貞享本傍書 #諸本傍訓「ワタ」">腸</lem>
+<rdg wit="#土本 #等">腹</rdg>
+<note>腸　土本等「腹」。貞享本傍書および諸本傍訓「ワタ」により改める。</note>
+</app>漬<name ref="#鰒">鰒</name>七斗、〈相摸、〉雑魚<name ref="#鮨">鮨</name>十石、〈伊勢・尾張各五石、〉熬海鼠一百斤、<name ref="#鮨">鮨</name><name ref="#鰒">鰒</name>二石、雑<name ref="#鰒">鰒</name>三百卌四斤、<name ref="#海藻">海藻</name>三百九斤十四両、凝海菜三百卌斤、〈已上志摩、〉                                     芡菜十囲、〈尾張、〉甘葛煎一斗、〈伊勢、〉芥子五斗、〈信濃、〉山薑二斗、〈飛騨、〉陶器六百九十六口、〈美濃、〉贄直稲日別二束、〈伊勢、〉</p>  <p ana="項" xml:id="o-item05107805"> 馬秣稲百廿束、〈大神宮司所充、三時祭別<app>
+<lem wit="#条本 #九冊本 #等">卌</lem>
+<rdg wit="#土本 #近本">卅</rdg>
+<note>卌　土本・近本「卅」。条本・九冊本等により改める。</note>
+</app>束、〉蒭四千八<app>
+<lem wit="#近本 #京博本訂正書 #等">百</lem>
+<rdg wit="#土本 #等">石</rdg>
+<note>百　土本等「石」。近本・京博本訂正書等により改める。</note>
+</app>囲、〈半分大神宮司以神郡浪人刈送、半分国司以国内浪人刈送、〉</p>   </div> <div ana="斎宮" n="5.79" subtype="項" type="条" xml:id="o-5_79"> <head ana="官人入京"/> <p ana="項" xml:id="o-item05107905">                                     凡寮官人縁公事入京者、聴乗駅馬、五位四疋、八位以上三疋、初位以下二疋、〈女亦同、〉</p> </div> <div ana="斎宮" n="5.80" subtype="項" type="条" xml:id="o-5_80"> <head ana="戸座炬火"/> <p ana="項" xml:id="o-item05108001">                                     凡斎王到国之日、取度会郡二見郷礒部氏童男、卜為戸座、其炬火取当郡童女卜用、但遭喪及長大即替之、</p> </div> <div ana="斎宮" n="5.81" subtype="項" type="条" xml:id="o-5_81"> <head ana="名簿"/> <p ana="項" xml:id="o-item05108101">                                     凡遷入野宮之後、及到斎宮、毎月下旬、雑色及仕女已上名簿、移送於主神司、随即卜之、亦至六月・九月・十一月・十二月、更亦卜之、                                           預供祭事、〈但野宮不為祭卜、〉其寮吏諸司卜食已訖、行列就版位、于時中臣官人命云、兆<name ref="#竹">竹</name>・折<app>
+<lem wit="#近本 #京博本訂正書">箸</lem>
+<rdg wit="#土本 #等">着</rdg>
+<note>箸　土本等「着」。近本・京博本訂正書により改める。</note>
+</app>事祓清供奉、<app>
+<lem wit="#土本">共</lem>
+<rdg wit="#訳注本">供</rdg>
+<note>共　訳注本「供」。</note>
+</app>称唯退出、内侍・采女・女孺已下在座承命、                                     不卜食者、不得参供宮中、〈野宮者内院忌之、斎宮者宮中皆忌、〉</p>   </div> <div ana="斎宮" n="5.82" subtype="項" type="条" xml:id="o-5_82"> <head ana="最合"/> <p ana="項" xml:id="o-item05108201">                                     凡斎内親王参祭之禊、国司目已上名簿、在前移斎宮令卜、其最合者一人祗承、其三時祭月十五日、大祓処申刀禰数、〈祗承官五位已上令史生申、六位已下自申、〉</p> </div> <div ana="斎宮" n="5.83" subtype="項" type="条" xml:id="o-5_83"> <head ana="封戸"/> <p ana="項" xml:id="o-item05108301"> 凡以大神宮封戸百姓、不得輙補寮舎人、</p> </div> <div ana="斎宮" n="5.84" subtype="項" type="条" xml:id="o-5_84"> <head ana="神殿勤守"/> <p ana="項" xml:id="o-item05108401"> 凡内院神殿者、<app>
+<lem wit="#近本・九冊本傍書 #等">令</lem>
+<rdg wit="#土本 #等">命</rdg>
+<note>令　土本等「命」。近本・九冊本傍書等により改める。</note>
+</app>主神司専一勤守、若致破損、奪其俸料、</p>  </div> <div ana="斎宮" n="5.85" subtype="項" type="条" xml:id="o-5_85"> <head ana="諸司雑舎"/> <p ana="項" xml:id="o-item05108501">                                     凡内院及諸司雑舎者、造宮使作畢之後、寮官毎季巡検、若居住官人致損、奪其俸料、寮官懈怠不勤巡検、譴責之法、亦同諸司、</p> </div> <div ana="斎宮" n="5.86" subtype="項" type="条" xml:id="o-5_86"> <head ana="中重庭"/> <p ana="項" xml:id="o-item05108601"> 凡中重庭者、須令諸司毎晦掃除、寮官逓加巡検、若致緩怠、譴責同上条、</p> </div> <div ana="斎宮" n="5.87" subtype="項" type="条" xml:id="o-5_87"> <head ana="御膳"/> <p ana="項" xml:id="o-item05108701"> 凡朝夕御膳、若致闕乏、科責寮官并膳部司、</p> </div> <div ana="斎宮" n="5.88" subtype="項" type="条" xml:id="o-5_88"> <head ana="殖樹木"/> <p ana="項" xml:id="o-item05108801"> 凡溝隍四辺列殖松・柳、并掃除大垣廻及大庭等之事者、令門部司加<app>
+<lem wit="#考異">営</lem>
+<rdg wit="#土本 #等">労</rdg>
+<note>営　土本等「労」。考異に従い意改する。</note>
+</app>守、若折損樹木、緩怠掃除、責其官人、亦同上条、</p>  </div> <div ana="斎宮" n="5.89" subtype="項" type="条" xml:id="o-5_89"> <head ana="修理"/> <p ana="項" xml:id="o-item05108901"> 凡仕丁卌八人之中、六人<app>
+<lem wit="#条本右傍転倒符号 #近本傍書指示 #等">分充</lem>
+<rdg wit="#土本 #等">充分</rdg>
+<note>分充　土本等「充分」。条本右傍転倒符号および近本傍書指示等により改める。</note>
+</app>造寮并厨家之料、便寮官一人専当其事、勘納<name ref="#功">功</name>物、随其破損、可加<app>
+<lem wit="#近本・京博本傍書">修</lem>
+<rdg wit="#土本 #等">條</rdg>
+<note>修　土本等「條」。近本・京博本傍書により改める。</note>
+</app>理、其立用帳、請寮吏判、 若不<app>
+<lem wit="#考異">営</lem>
+<rdg wit="#土本 #等">労</rdg>
+<note>営　土本等「労」。考異に従い意改する。</note>
+</app>小破、妄致大損者、科処勾当官人、但至于非常異損、随申処分、</p>    </div> <div ana="斎宮" n="5.90" subtype="項" type="条" xml:id="o-5_90"> <head ana="雑物注載"/> <p ana="項" xml:id="o-item05109001">                                     凡寮中所納之雑物、用残・未進色目者、注載季帳、四孟差使進官、但被管諸司季帳、寮官覆審、押署進上、</p> </div> <div ana="斎宮" n="5.91" subtype="項" type="条" xml:id="o-5_91"> <head ana="月俸衣服"/> <p ana="項" xml:id="o-item05109101">                                     凡諸司男女官月俸、雑色人衣服者、随当国・他国所進之多少、不論上下、毎色分行、但須先女官後男官、</p> </div> <div ana="斎宮" n="5.92" subtype="項" type="条" xml:id="o-5_92"> <head ana="秣蒭"/> <p ana="項" xml:id="o-item05109201">                                     凡馬部司御馬八疋年料秣稲・干蒭者、不待寮移勘納本司、随日充用、但其細用者、毎季勘造、請寮勘署、</p> </div> <div ana="斎宮" n="5.93" subtype="項" type="条" xml:id="o-5_93"> <head ana="賜宴禄"/> <p ana="項" xml:id="o-item05109301">                                     凡新嘗解斎日、大神宮司率禰宜・内人・御厨案主・三郡司・神部・歌人等参会、賜宴禄各有差、〈寮頭已下亦賜禄、〉</p> </div> <div ana="斎宮" n="5.94" subtype="項" type="条" xml:id="o-5_94"> <head ana="殴闘"/> <p ana="項" xml:id="o-item05109401"> 凡雑色人已上、与人殴闘者科上祓、</p> </div> <div ana="斎宮" n="5.95" subtype="項" type="条" xml:id="o-5_95"> <head ana="密婚"/> <p ana="項" xml:id="o-item05109501"> 凡寮官諸司及宮中男女、修仏事、和姧密婚者科中祓、</p> </div> <div ana="斎宮" n="5.96" subtype="項" type="条" xml:id="o-5_96"> <head ana="失火穢"/> <p ana="項" xml:id="o-item05109601"> 凡隍中有失火穢者、随之祓清、其宅人七日不得参入宮中、</p> </div> <div ana="斎宮" n="5.97" subtype="項" type="条" xml:id="o-5_97"> <head ana="斎王相代"/> <p ana="項" xml:id="o-item05109701"> 凡斎王相代応<app>
+<lem wit="#土本">帰</lem>
+<rdg wit="#土本等傍書">諸本無字、検弘式有還字、必可有字已</rdg>
+<note>帰　土本等傍書「諸本無字、検弘式有還字、必可有字已、」あり。</note>
+</app>京者、遣使奉幣亦如初、若遭国哀及親喪者、遣中臣一人告其状、不奉幣<name ref="#帛">帛</name>、</p>  </div> <div ana="斎宮" n="5.98" subtype="項" type="条" xml:id="o-5_98"> <head ana="納印"/> <p ana="項" xml:id="o-item05109801"> 凡斎王帰京者、寮印授山城国令納、〈寮司任後、申<app>
+<lem wit="#林本 #等">官</lem>
+<rdg wit="#土本 #等">宮</rdg>
+<note>官　土本等「宮」。林本等により改める。</note>
+</app>請用、〉主神司印及長例公文、並納神祇官、備後拠勘、</p>  </div> <div ana="斎宮" n="5.99" subtype="項" type="条" xml:id="o-5_99"> <head ana="遣使"/> <p ana="項" xml:id="o-item05109901">                                     凡斎王還京者、〈若有遭故還者、不用初入之道、〉遣使奉迎、五位・六位各一人、近江与伊勢堺上祗候、弁一人率史生・官掌各一人参斎宮、検校帰発、                                           其斎王衣服・輿輦之類、官便附使送之、皆堺上而脱易、〈衣服<app>
+<lem wit="#土本">之</lem>
+<rdg wit="#訳注本"/>
+<note>之　訳注本無し。</note>
+</app>類給忌部、輿輦之類給中臣、又各加鞍御馬一疋、〉其頓宮及供給、准向国之例、</p>  </div> <div ana="斎宮" n="5.100" subtype="項" type="条" xml:id="o-5_100"> <head ana="給雑物"/> <p ana="項" xml:id="o-item05110001">                                     凡斎内親王還京、所有雑物、寮官以下及近宮百姓等普分給之、其寝殿物給忌部、出居殿物給中臣、但金・<name ref="#銀">銀</name>器納斎王家、又幃・幄・釜・沒之類応長用者、皆付国司令収掌、</p> </div> </div></div></body> </text> <facsimile source="https://api.jsonbin.io/b/61040171046287097ea380c9"><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4405"><zone xml:id="page4405"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4406"><zone xml:id="page4406"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4407"><zone xml:id="page4407"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4408"><zone xml:id="page4408"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4409"><zone xml:id="page4409"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4410"><zone xml:id="page4410"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4411"><zone xml:id="page4411"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4412"><zone xml:id="page4412"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4413"><zone xml:id="page4413"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4414"><zone xml:id="page4414"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4415"><zone xml:id="page4415"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4416"><zone xml:id="page4416"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4417"><zone xml:id="page4417"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4418"><zone xml:id="page4418"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4419"><zone xml:id="page4419"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4420"><zone xml:id="page4420"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4421"><zone xml:id="page4421"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4422"><zone xml:id="page4422"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4423"><zone xml:id="page4423"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4424"><zone xml:id="page4424"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4425"><zone xml:id="page4425"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4426"><zone xml:id="page4426"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4427"><zone xml:id="page4427"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4428"><zone xml:id="page4428"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4429"><zone xml:id="page4429"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4430"><zone xml:id="page4430"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4431"><zone xml:id="page4431"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4432"><zone xml:id="page4432"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4433"><zone xml:id="page4433"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4434"><zone xml:id="page4434"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4435"><zone xml:id="page4435"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4436"><zone xml:id="page4436"/></surface><surface source="https://khirin-a.rekihaku.ac.jp/iiif/2/engishiki%2FH-743-74-17/page4437"><zone xml:id="page4437"/></surface></facsimile></TEI>

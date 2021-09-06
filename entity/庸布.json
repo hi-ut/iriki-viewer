@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/庸布",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 令制で、庸として納入する布。ちからしろのぬの。※続日本紀‐慶雲三年（706）二月庚寅「准レ令、正丁歳収二庸布二丈六尺一」"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/庸布-653324"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "庸布"
+      }
+    ]
+  }
+]

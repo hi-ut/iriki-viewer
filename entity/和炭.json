@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/和炭",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 松・栗などの柔らかい材を焼いて作った、火力は弱いが炎の立つ炭。特に鍛冶に用いる。鍛冶屋炭。にきずみ。※正倉院文書‐天平宝字六年（762）正月一五日・雑材并檜皮和炭等納帳「九日収納和炭四十九石四斗」"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/和炭-591461"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "和炭"
+      }
+    ]
+  }
+]

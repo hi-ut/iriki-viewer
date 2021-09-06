@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/堅魚",
+    "http://schema.org/description": [
+      {
+        "@value": "学名：Katsuwonus pelamis動物。サバ科の海水魚"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/堅魚-1757438"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "堅魚"
+      }
+    ]
+  }
+]

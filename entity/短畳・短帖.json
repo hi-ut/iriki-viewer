@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/短畳・短帖",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 寸法の短い畳。※延喜式（927）三八「短帖一枚 長四尺五寸広四尺」"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/短畳・短帖-323623"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "短畳・短帖"
+      }
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>映雪草堂本</title>
+            <author>ほげほげ</author>
+            <respStmt>
+               <resp when="2021-01-31">TEI Encoding</resp>
+               <name>Satoru Nakamura</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal
+                  (CC0 1.0) Public Domain Dedication</ref></p>
+
+         </publicationStmt>
+         <sourceDesc>
+            <bibl> すいこでん </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile
+      source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/manifest">
+      <surface
+         source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p37">
+         <zone xml:id="zone_37"/>
+      </surface>
+      <surface
+         source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p38">
+         <zone xml:id="zone_38"/>
+      </surface>
+      <surface
+         source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p39">
+         <graphic url="A006376-03-0013.jpg"/>
+         <zone xml:id="zone_yzx_ylt_m4a"/>
+         <zone xml:id="zone_l01-0039-b-03-n1" ulx='4068' uly='952' lrx='4448' lry='1166'/>
+         <zone xml:id="zone_l01-0039-b-03-n2" lry="4850" lrx="5535" uly="4544" ulx="5305"/>
+         <zone xml:id="zone_l01-0039-b-03-n3" ulx='4514' uly='568' lrx='4727' lry='830'/>
+         <zone xml:id="zone_l01-0039-b-03-n4" ulx='4576' uly='3344' lrx='4732' lry='3500'/>
+         <zone xml:id="zone_l01-0039-b-03-n5" ulx='2486' uly='930' lrx='2730' lry='1223'/>
+      </surface>
+      <surface
+         source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p40">
+         <zone xml:id="aaa" lry="5408" lrx="6775" uly="0" ulx="0"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="original">
+            <pb corresp="#zone_37"/>
+            <ab>
+            <lb xml:id='l01-0037-b-1'/>水滸傳全本卷之一
+               <lb xml:id='l01-0037-b-2'/><space n="3"/>元<space n="1"/>施耐菴編<space n="3"/>明李卓吾評點
+               <lb xml:id='l01-0037-b-3'/><space n="2"/>開詞
+            <lb xml:id='l01-0037-b-4'/>試看古今如箭牽不住日月奔忙草生纔解凍花落
+            <lb xml:id='l01-0037-b-5'/>又飛霜閒庭無事日偏長爲歡處儘費端詳今宵睡
+            <lb xml:id='l01-0037-b-6'/>鄉明朝醉鄕悠悠忽忽莫追償不關心底事野老話
+            <lb xml:id='l01-0037-b-7'/>興亡拋撇玄纁玉帛摩娑戈劒刀鎗笑官家誨盜山
+            <lb xml:id='l01-0037-b-8'/>河大寳無計收藏龍爭虎鬬自言强正船到波心易
+            <lb xml:id='l01-0037-b-9'/>漏棊逢敵手難當好烈烈轟轟做一塲麒麟閣上姓
+            <lb xml:id='l01-0037-b-10'/>名香告君行把英雄事業仔細思量
+            
+            </ab>
+            
+            <pb corresp="#zone_38"/>
+            
+            <ab>
+            
+            <lb xml:id='l01-0038-a-1'/>話說五代殘唐朱李石劉郭梁唐晉漢周都來十五
+            <lb xml:id='l01-0038-a-2'/>帝播亂五十秋後來甲馬營中生下太祖武徳皇帝
+            <lb xml:id='l01-0038-a-3'/>乃是上界霹靂大仙下降姓趙國號大宋建都汴梁
+            <lb xml:id='l01-0038-a-4'/>那時西岳華山有個陳摶處士聽得東京擁立趙檢
+            <lb xml:id='l01-0038-a-5'/>㸃以手加額在驢背上大笑攧下驢來人問其故那
+            <lb xml:id='l01-0038-a-6'/>先生道天下從此定矣自庚申年間受禪開基在位
+            <lb xml:id='l01-0038-a-7'/>一十七年傳位與御弟太宗太宗皇帝在位二十二
+            <lb xml:id='l01-0038-a-8'/>年傳位與眞宗眞宗皇帝那時上界赤脚大仙降生
+            <lb xml:id='l01-0038-a-9'/>宮中爲太子晝夜啼哭不止天庭差遣太白金星化
+            <lb xml:id='l01-0038-a-10'/>一老叟朝見眞宗天子直至宫中抱着太子耳邊低
+            <lb xml:id='l01-0038-b-1'/>低說了八箇字太子便不啼哭那老叟化陣淸風而
+            <lb xml:id='l01-0038-b-2'/>去八箇字道是文有文曲武有武曲文曲星乃是龍
+            <lb xml:id='l01-0038-b-3'/>圖學士包拯武曲星乃是大元帥狄青這兩箇賢臣
+            <lb xml:id='l01-0038-b-4'/>出來輔佐這朝皇帝廟號仁宗仁宗嘉祐三年瘟疫
+            <lb xml:id='l01-0038-b-5'/>盛行天子欽差殿前太尉洪信前徃江西信州龍虎
+            <lb xml:id='l01-0038-b-6'/>山宣請嗣漢天師張眞人祈禳瘟疫洪太尉來到信
+            <lb xml:id='l01-0038-b-7'/>州大小官員出郭迎接衆官送太尉到于龍虎山下
+            <lb xml:id='l01-0038-b-8'/>只見上淸宫許多道衆香花燈燭幢幡寶蓋一派仙
+            <lb xml:id='l01-0038-b-9'/>樂接至三淸殿上太尉便問天師今在何處住持眞
+            <lb xml:id='l01-0038-b-10'/>人向前禀道這代祖師號曰虛靖天師自向龍虎山
+               
+            </ab>
+            
+            <pb corresp="#zone_yzx_ylt_m4a"/>
+            <ab>
+               <lb xml:id="l01-0039-b-01"/>頂結一茅庵脩眞養性不住本宫太尉道目今瘟疫 <lb xml:id="l01-0039-b-02"
+               />盛行天子特遣下官賫捧御書丹詔親奉龍香來請 <lb xml:id="l01-0039-b-03"/>天師禳災救民眞人道天子要救萬民除是太尉辦<anchor
+                  xml:id="l01-0039-b-03-n2"/>
+               <lb/>一點志誠心步行上山禮拜叩請天師太尉道依着 <lb/>你說明日絶早上山衆官各自散去次日太尉縱步 <lb/>上山獨自一個行了一回只見一個道童倒騎着一
+               <lb/><anchor
+                  xml:id="l01-0039-b-03-n3"/>頭黃牛橫吹着一管鐵笛轉出山凹<anchor
+                     xml:id="l01-0039-b-03-n4"/>來洪太尉見了 <lb/><anchor
+                  xml:id="l01-0039-b-03-n1"/>便問那個道童你從那里來道童呵呵大笑指着洪 <lb/>太尉道你來此間莫非要見天師麽我早間在草庵
+               <lb/>中伏侍天師聽得天師說道天子宣我往東京做三 <lb/>千六百分羅天大醮祈禳天下瘟疫我乘鶴駕雲去 <lb/>也這早晚想是去了不在庵中你休上去太尉再尋
+               <lb/>舊路下來衆道士接着請至方丈坐下太尉說了住 <lb/><anchor
+                  xml:id="l01-0039-b-03-n5"/>持眞人道太尉可惜錯過這個道童正是天師太尉 <lb/>道有眼不識當面錯過將丹詔收藏御書匣內留在
+               <lb/>上淸宫中龍香就三清殿上燒了方丈内大排齋供 <lb/>至晚席罷止宿次日請太尉遊山太尉宫前宫後看 <lb/>翫許多景致行到後面另外一所殿宇門上使着肐
+               <lb/>膊大鎖鎖着交叉上面貼着十數道封皮重重疊疊 <lb/>使着朱印簷前一面硃紅漆金字牌額上寫道伏魔 </ab>
+
+            
+            
+         </div>
+         <div type="note">
+            <ab>
+               <note corresp="#zone_l01-0039-b-03-n1" target="l01-0039-b-03-n1" type="批" subtype="眉">
+                  <p>〓〓<lb/>〓此<lb/>矣</p>
+               </note>
+               <note corresp="#zone_l01-0039-b-03-n2" target="l01-0039-b-03-n2" type="書" subtype="地">
+                  <p>音辨<lb/>出力也</p>
+               </note>
+               <note corresp="#zone_l01-0039-b-03-n3" target="l01-0039-b-03-n3" type="書" subtype="眉">
+                  <p>凹<lb/>音王</p>
+               </note>
+               <note corresp="#zone_l01-0039-b-03-n4" target="l01-0039-b-03-n4" type="書" subtype="夾">
+                  <p>王</p>
+               </note>
+               <note corresp="#zone_l01-0039-b-03-n5" target="l01-0039-b-03-n5" type="批" subtype="眉">
+                  <p>〓〓〓<lb/>〓</p>
+               </note>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/飯笥",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 飯を盛る器。めしびつ。※延喜式（927）二「供御飯笥(いひけ)一合」"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/飯笥-201083"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "飯笥"
+      }
+    ]
+  }
+]

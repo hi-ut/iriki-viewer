@@ -1,0 +1,12 @@
+{
+  "name": "入来院家文書",
+  "short_name": "入来院",
+  "description": "入来院家文書",
+  "icons": [],
+  "start_url": "/iriki-viewer/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}

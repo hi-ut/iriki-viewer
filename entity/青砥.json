@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/青砥",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 砥石(といし)の一種。石質の細かい粘板岩から作られ、青みを帯びる。はじめにとぐ粗砥(あらと)と、仕上げ用の真砥(まと)との間に用いられる。〔新撰字鏡（898‐901頃）〕"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/青砥-422332"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "青砥"
+      }
+    ]
+  }
+]

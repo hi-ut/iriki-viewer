@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "http://example.org/葉薦",
+    "http://schema.org/description": [
+      {
+        "@value": "〘名〙 真菰(まこも)の葉を編んで作ったこも。または、簀薦(すごも)にまねて竹の簀子(すのこ)に錦などの縁をつけたもの。※散木奇歌集（1128頃）秋「柴の庵にはこものかこひそよめきてすどほるものは嵐也けり」"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://kotobank.jp/word/葉薦-2074106"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "葉薦"
+      }
+    ]
+  }
+]
