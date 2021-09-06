@@ -50,7 +50,7 @@
           <span>aaaaa</span>
         </v-tooltip>
         -->
-        <v-menu v-model="menu2" offset-x :max-width="400">
+        <v-menu v-model="menu2" offset-x offset-y :max-width="400">
           <template v-slot:activator="{ on, attrs }">
             <span v-bind="attrs" v-on="on">
               <template v-for="(e, key) in element.elements">
